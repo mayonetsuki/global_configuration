@@ -1,0 +1,59 @@
+payload:
+  - DOMAIN,content1.steampowered.com,⬇️ Downloads
+  - DOMAIN,content2.steampowered.com,⬇️ Downloads
+  - DOMAIN,content3.steampowered.com,⬇️ Downloads
+  - DOMAIN,content4.steampowered.com,⬇️ Downloads
+  - DOMAIN,content5.steampowered.com,⬇️ Downloads
+  - DOMAIN,content6.steampowered.com,⬇️ Downloads
+  - DOMAIN,content7.steampowered.com,⬇️ Downloads
+  - DOMAIN,content8.steampowered.com,⬇️ Downloads
+  - DOMAIN,client-download.steampowered.com,⬇️ Downloads
+  - DOMAIN,content-origin.steampowered.com,⬇️ Downloads
+  - DOMAIN,clientconfig.akamai.steamtransparent.com,⬇️ Downloads
+  - DOMAIN,steampipe.akamaized.net,⬇️ Downloads
+  - DOMAIN,steam.apac.qtlglb.com.mwcloudcdn.com,⬇️ Downloads
+  - DOMAIN,cdn1-sea1.valve.net,⬇️ Downloads
+  - DOMAIN,cdn2-sea1.valve.net,⬇️ Downloads
+  - DOMAIN,steam.apac.qtlglb.com,⬇️ Downloads
+  - DOMAIN,edge.steam-dns.top.comcast.net,⬇️ Downloads
+  - DOMAIN,edge.steam-dns-2.top.comcast.net,⬇️ Downloads
+  - DOMAIN,steam.naeu.qtlglb.com,⬇️ Downloads
+  - DOMAIN,steampipe-kr.akamaized.net,⬇️ Downloads
+  - DOMAIN,steam.ix.asn.au,⬇️ Downloads
+  - DOMAIN,steam.eca.qtlglb.com,⬇️ Downloads
+  - DOMAIN,steam.cdn.on.net,⬇️ Downloads
+  - DOMAIN,update5.dota2.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update2.dota2.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update6.dota2.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update3.dota2.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update1.dota2.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update4.dota2.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update5.csgo.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update2.csgo.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update4.csgo.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update3.csgo.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update6.csgo.wmsj.cn,⬇️ Downloads
+  - DOMAIN,update1.csgo.wmsj.cn,⬇️ Downloads
+  - DOMAIN,st.dl.bscstorage.net,⬇️ Downloads
+  - DOMAIN,cdn.mileweb.cs.steampowered.com.8686c.com,⬇️ Downloads
+  - DOMAIN,steamcdn-a.akamaihd.net,⬇️ Downloads
+  - DOMAIN-SUFFIX,content.steampowered.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,hsar.steampowered.com.edgesuite.net,⬇️ Downloads
+  - DOMAIN-SUFFIX,akamai.steamstatic.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,cs.steampowered.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,cm.steampowered.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,edgecast.steamstatic.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,steamcontent.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,steam-content-dnld-1.apac-1-cdn.cqloud.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,steam-content-dnld-1.eu-c1-cdn.cqloud.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,steam-content-dnld-1.qwilted-cds.cqloud.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,steampowered.com,🔧 Steam Powered
+  - DOMAIN,api.steampowered.com,🔧 Steam Powered
+  - DOMAIN,store.steampowered.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steamcommunity.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steam-chat.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steamgames.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steamusercontent.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steamcontent.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steamstatic.com,🔧 Steam Powered
+  - DOMAIN-SUFFIX,steamstat.us,🔧 Steam Powered

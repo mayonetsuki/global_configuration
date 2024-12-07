@@ -1,0 +1,40 @@
+payload:
+  # HKs
+  - DOMAIN-SUFFIX,hket.com,📰 HK News
+  # JPs
+  - DOMAIN-SUFFIX,nikkei.com,📰 JP News
+  # TWs
+  - DOMAIN-SUFFIX,appledaily.com.tw,📰 TW News
+  # UKs
+  - DOMAIN-SUFFIX,theguardian.com,📰 UK News
+  # USs
+  - DOMAIN-SUFFIX,nytimes.com,📰 US News
+  # CNs
+  - DOMAIN-SUFFIX,aboluowang.com,📰 CN News
+  - DOMAIN-SUFFIX,bannedbook.org,📰 CN News
+  - DOMAIN-SUFFIX,bldaily.com,📰 CN News
+  - DOMAIN-SUFFIX,china21.org,📰 CN News
+  - DOMAIN-SUFFIX,chinaaffairs.org,📰 CN News
+  - DOMAIN-SUFFIX,dajiyuan.com,📰 CN News
+  - DOMAIN-SUFFIX,dalianmeng.org,📰 CN News
+  - DOMAIN-SUFFIX,dongtaiwang.com,📰 CN News
+  - DOMAIN-KEYWORD,epochtimes,📰 CN News
+  - DOMAIN-SUFFIX,epochweekly.com,📰 CN News
+  - DOMAIN-SUFFIX,fgmtv.org,📰 CN News
+  - DOMAIN-SUFFIX,gongyiluntan.org,📰 CN News
+  - DOMAIN-SUFFIX,hrichina.org,📰 CN News
+  - DOMAIN-SUFFIX,huanghuagang.org,📰 CN News
+  - DOMAIN-SUFFIX,internetfreedom.org,📰 CN News
+  - DOMAIN-SUFFIX,kanzhongguo.com,📰 CN News
+  - DOMAIN-SUFFIX,newrealmstudios.ca,📰 CN News
+  - DOMAIN-SUFFIX,ntdtv.com,📰 CN News
+  - DOMAIN-SUFFIX,ogate.org,📰 CN News
+  - DOMAIN-SUFFIX,open.com.hk,📰 CN News
+  - DOMAIN-SUFFIX,organcare.org.tw,📰 CN News
+  - DOMAIN-SUFFIX,renminbao.com,📰 CN News
+  - DOMAIN-SUFFIX,secretchina.com,📰 CN News
+  - DOMAIN-SUFFIX,soundofhope.org,📰 CN News
+  - DOMAIN-SUFFIX,theepochtimes.com,📰 CN News
+  - DOMAIN-SUFFIX,tiandixing.org,📰 CN News
+  - DOMAIN-SUFFIX,tuidang.org,📰 CN News
+  - DOMAIN-SUFFIX,wixsite.com,📰 CN News

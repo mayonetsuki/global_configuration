@@ -1,0 +1,156 @@
+payload:
+  # Ads & Trackers
+
+  # Download & Updates
+
+  # OneDrive
+
+
+  # Windows 365 & RDC
+  odc.officeapps.live.com
+  graph.microsoft.com
+  windows365.microsoft.com
+  client.wns.windows.com
+  rdweb-g-au-r1.wvd.microsoft.com
+  afdfp-rdgateway-r1.wvd.microsoft.com
+  wvd-eventhubs-aue-prod.servicebus.windows.net
+
+  - DOMAIN-SUFFIX,manage.devcenter.microsoft.com,🖥 Windows 365
+  - DOMAIN-SUFFIX,self.events.data.microsoft.com,🖥 Windows 365
+  - PROCESS-NAME,windows365,🖥 Windows 365
+  msrdc.exe
+
+  # Microsoft Cloud
+  - DOMAIN-SUFFIX,cloud.microsoft,☁️ Microsoft Cloud
+  - DOMAIN-SUFFIX,static.microsoft,☁️ Microsoft Cloud
+  - DOMAIN-SUFFIX,usercontent.microsoft,☁️ Microsoft Cloud
+
+
+  - DOMAIN-SUFFIX,windows.com,🖥 Microsoft Localize
+  - DOMAIN-SUFFIX,windowsupdate.com,🖥 Microsoft Localize
+  - DOMAIN-SUFFIX,visualstudio.com,🖥 Microsoft Localize
+  - DOMAIN-SUFFIX,msecnd.net,🖥 Microsoft Localize
+  - DOMAIN,officecdn-microsoft-com.akamaized.net,🖥 Microsoft Localize
+  - DOMAIN-SUFFIX,aka.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,1drv.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,aadrm.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,acompli.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,acompli.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,akadns.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,aspnetcdn.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,assets-yammer.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,azure.cn,🖥 Microsoft
+  - DOMAIN-SUFFIX,azure.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,azure.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,azureedge.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,azurerms.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bing.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bing.com.cn,🖥 Microsoft
+  - DOMAIN-SUFFIX,bingads.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bingagencyawards.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bingapistatistics.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bingsandbox.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bingvisualsearch.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bingworld.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bluehatnights.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,dictate.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,flipwithsurface.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,masalladeloslimites.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoft-give.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoftcloudsummit.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoftdiplomados.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoftlatamholiday.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoftmxfilantropia.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoftpartnersolutions.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msunlimitedcloudsummit.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,office365love.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,office365tw.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,renovacionoffice.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,sprinklesapp.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,cn.bing.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,cn.bing.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,ditu.live.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,full:bj1.api.bing.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,full:emoi-cncdn.bing.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,bing.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,cloudapp.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,cloudappsecurity.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,docs.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,edgesuite.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,fabric.io,🖥 Microsoft
+  - DOMAIN-SUFFIX,gfx.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,hotmail.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,live.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,live.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,livefilestore.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,lync.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,mesh.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoft-tst.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoft.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,microsoftonline.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msappproxy.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msauth.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msauthimages.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msecnd.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msedge.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msft.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msftauth.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msftauthimages.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,msftconnecttest.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msftidentity.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msidentity.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msn.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msocdn.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,msocsp.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,mstea.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,o365weve.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,oaspapps.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,office.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,office.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,office365.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,officeppe.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,omniroot.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,onedrive.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,onenote.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,onenote.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,onestore.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,onmicrosoft.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,outlook.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,outlookgroups.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,outlookmobile.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,phonefactor.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,public-trust.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,s-microsoft.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,sfbassets.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,sfx.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,sharepoint.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,sharepointonline.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,skype.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,skypeassets.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,skypeforbusiness.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,spoprod-a.akamaihd.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,staffhub.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,svc.ms,🖥 Microsoft
+  - DOMAIN-SUFFIX,sway-cdn.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,sway-extensions.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,sway.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,trafficmanager.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,uservoice.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,virtualearth.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,visualstudio.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,windows-ppe.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,windows.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,windows.net,🖥 Microsoft
+  - DOMAIN-SUFFIX,windowsazure.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,windowsupdate.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,wunderlist.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,xbox.cn,🖥 Microsoft
+  - DOMAIN-SUFFIX,xbox.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,xboxlive.cn,🖥 Microsoft
+  - DOMAIN-SUFFIX,xboxlive.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,yammer.com,🖥 Microsoft
+  - DOMAIN-SUFFIX,yammerusercontent.com,🖥 Microsoft
+  - DOMAIN-KEYWORD,1drv,🖥 Microsoft
+  - DOMAIN-KEYWORD,microsoft,🖥 Microsoft
+  - DOMAIN-KEYWORD,onedrive,🖥 Microsoft
+  - DOMAIN-KEYWORD,skydrive,🖥 Microsoft

@@ -1,0 +1,134 @@
+payload:
+  # Ads & Trackers
+  - DOMAIN-SUFFIX,iadcontent.apple.com,📢 Apple Ads
+  - DOMAIN-SUFFIX,iadsdk.apple.com,📢 Apple Ads
+  - DOMAIN-SUFFIX,apple.comscoreresearch.com,📢 Apple Ads
+  - DOMAIN-SUFFIX,crashlytics.com,📢 Apple Ads
+  # Content Delivery
+  - DOMAIN-SUFFIX,appldnld.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,configuration.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,gdmf.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,gg.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,gs.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,xp.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,mesu.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,swcdn.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,swdist.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,swscan.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,oscdn.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,osrecovery.apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,updates.cdn-apple.com,⬇️ Downloads
+  - DOMAIN-SUFFIX,updates-http.cdn-apple.com,⬇️ Downloads
+  - IP-CIDR,17.253.0.0/16,⬇️ Downloads
+  - IP-CIDR,17.254.0.0/16,⬇️ Downloads
+  - IP-CIDR,17.255.0.0/16,⬇️ Downloads
+  - IP-CIDR,192.35.50.0/24,⬇️ Downloads
+  - IP-CIDR,198.183.17.0/24,⬇️ Downloads
+  - IP-CIDR,205.180.175.0/24,⬇️ Downloads
+  # Device
+  - DOMAIN-SUFFIX,albert.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,captive.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,static.ips.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,sq-device.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,tbsc.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,time-ios.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,time.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,time-macos.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,smoot.Apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,push.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,gsa.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,gsas.apple.com,🍎 Apple Device
+  - DOMAIN-SUFFIX,token.safebrowsing.apple,🍎 Apple Device
+  - DOMAIN-SUFFIX,appattest.apple.com,🍎 Apple Device
+  # Fitness
+  - DOMAIN-SUFFIX,fitness.apple.com,🍎 Apple Fitness
+  # News
+  - DOMAIN-SUFFIX,news-client.apple.com,🍎 Apple News
+  - DOMAIN-SUFFIX,news-edge.apple.com,🍎 Apple News
+  - DOMAIN-SUFFIX,news-events.apple.com,🍎 Apple News
+  - DOMAIN-SUFFIX,apple.news,🍎 Apple News
+  # Music
+  - DOMAIN-SUFFIX,aod-ssl.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,audio-ssl.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,play.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,radio.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,radio-activity.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,radio-services.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,streamingaudio.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,universal-activity-service.itunes.apple.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,applemusic.com,🍎 Apple Music
+  - DOMAIN-SUFFIX,music.apple.com,🍎 Apple Music
+  # Apple TV
+  - DOMAIN-SUFFIX,hls.itunes.apple.com,🍎 Apple TV
+  - DOMAIN-SUFFIX,tvappstore.apple.com,🍎 Apple TV
+  - DOMAIN-SUFFIX,appletv.com,🍎 Apple TV
+  - DOMAIN-SUFFIX,tv.apple.com,🍎 Apple TV
+  # Store
+  - DOMAIN-SUFFIX,books.itunes.Apple.com,🍎 Store
+  - DOMAIN-SUFFIX,testflight.apple.com,🍎 Store
+  - DOMAIN-SUFFIX,beta.apple.com,🍎 AppStore
+  - DOMAIN-SUFFIX,apps.apple.com,🍎 Store
+  - DOMAIN-SUFFIX,phobos.apple.com,🍎 Store
+  - DOMAIN-SUFFIX,ppq.apple.com,🍎 Store
+  - DOMAIN-SUFFIX,apps-marketplace.apple.com,🍎 Store
+  - DOMAIN-SUFFIX,appsto.re,🍎 Store
+  - DOMAIN-SUFFIX,appstore.com,🍎 Store
+  # Organization
+  - DOMAIN,lookup-api.apple.com,🍎 Apple Organization
+  - DOMAIN,gspe1-ssl.ls.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,api.ent.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,apple-mapkit.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,iprofiles.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,mdmenrollment.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,axm-adm-enroll.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,axm-adm-mdm.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,axm-adm-scep.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,axm-app.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,icons.axm-usercontent-apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,deviceenrollment.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,deviceservices-external.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,vertexsmb.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,ws-ee-maidsvc.icloud.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,vpp.itunes.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,business.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,api.edu.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,appleschoolcontent.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,edu.apple.com,🍎 Apple Organization
+  - DOMAIN-SUFFIX,school.apple.com,🍎 Apple Organization
+  # iCloud & Verification
+  - DOMAIN,www-cdn.icloud.com.akadns.net,🍎 iCloud
+  - DOMAIN-SUFFIX,mzstatic.com,🍎 iCloud
+  - DOMAIN-SUFFIX,lcdn-locator.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,valid.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,certs.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,ocsp.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,crl.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,appleid.cdn-apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,idmsa.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,identity.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,mask.icloud.com,🍎 iCloud
+  - DOMAIN-SUFFIX,mask-h2.icloud.com,🍎 iCloud
+  - DOMAIN-SUFFIX,mask-api.icloud.com,🍎 iCloud
+  - DOMAIN-SUFFIX,icloud-content.com,🍎 iCloud
+  - DOMAIN-SUFFIX,apple-livephotoskit.com,🍎 iCloud
+  - DOMAIN-SUFFIX,setup.icloud.com,🍎 iCloud
+  - DOMAIN-SUFFIX,icloud-sandbox.com,🍎 iCloud
+  - DOMAIN-SUFFIX,iwork.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,calendarserver.org,🍎 iCloud
+  - DOMAIN-SUFFIX,api.apple-cloudkit.com,🍎 iCloud
+  - DOMAIN-SUFFIX,myicloud.net,🍎 iCloud
+  - DOMAIN-SUFFIX,me.com,🍎 iCloud
+  - DOMAIN-SUFFIX,icloud.apple.com,🍎 iCloud
+  - DOMAIN-SUFFIX,icloud.com.cn,🍎 iCloud
+  - DOMAIN-SUFFIX,icloud.com,🍎 iCloud
+  # General
+  - DOMAIN-SUFFIX,cdn-apple.com,🍎 Apple
+  - DOMAIN-SUFFIX,aaplimg.com,🍎 Apple
+  - DOMAIN-SUFFIX,apple-cloudkit.com,🍎 Apple
+  - DOMAIN-SUFFIX,itunes.apple.com,🍎 Apple
+  - DOMAIN-SUFFIX,apple.co,🍎 Apple
+  - DOMAIN-SUFFIX,apple.com,🍎 Apple
+  - DOMAIN-SUFFIX,apple.com.cn,🍎 Apple
+  - IP-CIDR,17.0.0.0/8,🍎 Apple
+  - IP-CIDR,139.178.128.0/18,🍎 Apple
+  - IP-CIDR,144.178.0.0/18,🍎 Apple
