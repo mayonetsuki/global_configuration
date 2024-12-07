@@ -1,7 +1,0 @@
-payload:
-  # DNS-Test
-  # DNS-Leak
-  - DOMAIN-SUFFIX,ipleak.net,🔍 Test
-  # IP-INFO
-  # Speedtest
-  - DOMAIN-SUFFIX,speedtest.net,🔍 Test
