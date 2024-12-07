@@ -1,6 +1,6 @@
-- DOMAIN-SUFFIX,amazon-adsystem.com
-- DOMAIN-SUFFIX,advertising.amazon.com
-- DOMAIN-SUFFIX,amazonadservice.com
-- DOMAIN-SUFFIX,amazonadservices.com
-- DOMAIN-SUFFIX,adtrace.amazon.com
-- DOMAIN-SUFFIX,amazontrackingpixel.com
+DOMAIN-SUFFIX,amazon-adsystem.com
+DOMAIN-SUFFIX,advertising.amazon.com
+DOMAIN-SUFFIX,amazonadservice.com
+DOMAIN-SUFFIX,amazonadservices.com
+DOMAIN-SUFFIX,adtrace.amazon.com
+DOMAIN-SUFFIX,amazontrackingpixel.com

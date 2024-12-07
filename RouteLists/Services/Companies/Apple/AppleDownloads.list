@@ -1,20 +1,20 @@
-- DOMAIN-SUFFIX,appldnld.apple.com
-- DOMAIN-SUFFIX,configuration.apple.com
-- DOMAIN-SUFFIX,gdmf.apple.com
-- DOMAIN-SUFFIX,gg.apple.com
-- DOMAIN-SUFFIX,gs.apple.com
-- DOMAIN-SUFFIX,xp.apple.com
-- DOMAIN-SUFFIX,mesu.apple.com
-- DOMAIN-SUFFIX,swcdn.apple.com
-- DOMAIN-SUFFIX,swdist.apple.com
-- DOMAIN-SUFFIX,swscan.apple.com
-- DOMAIN-SUFFIX,oscdn.apple.com
-- DOMAIN-SUFFIX,osrecovery.apple.com
-- DOMAIN-SUFFIX,updates.cdn-apple.com
-- DOMAIN-SUFFIX,updates-http.cdn-apple.com
-- IP-CIDR,17.253.0.0/16
-- IP-CIDR,17.254.0.0/16
-- IP-CIDR,17.255.0.0/16
-- IP-CIDR,192.35.50.0/24
-- IP-CIDR,198.183.17.0/24
-- IP-CIDR,205.180.175.0/24
+DOMAIN-SUFFIX,appldnld.apple.com
+DOMAIN-SUFFIX,configuration.apple.com
+DOMAIN-SUFFIX,gdmf.apple.com
+DOMAIN-SUFFIX,gg.apple.com
+DOMAIN-SUFFIX,gs.apple.com
+DOMAIN-SUFFIX,xp.apple.com
+DOMAIN-SUFFIX,mesu.apple.com
+DOMAIN-SUFFIX,swcdn.apple.com
+DOMAIN-SUFFIX,swdist.apple.com
+DOMAIN-SUFFIX,swscan.apple.com
+DOMAIN-SUFFIX,oscdn.apple.com
+DOMAIN-SUFFIX,osrecovery.apple.com
+DOMAIN-SUFFIX,updates.cdn-apple.com
+DOMAIN-SUFFIX,updates-http.cdn-apple.com
+IP-CIDR,17.253.0.0/16
+IP-CIDR,17.254.0.0/16
+IP-CIDR,17.255.0.0/16
+IP-CIDR,192.35.50.0/24
+IP-CIDR,198.183.17.0/24
+IP-CIDR,205.180.175.0/24

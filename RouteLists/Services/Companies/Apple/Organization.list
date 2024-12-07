@@ -1,21 +1,21 @@
-- DOMAIN,lookup-api.apple.com
-- DOMAIN,gspe1-ssl.ls.apple.com
-- DOMAIN-SUFFIX,api.ent.apple.com
-- DOMAIN-SUFFIX,apple-mapkit.com
-- DOMAIN-SUFFIX,iprofiles.apple.com
-- DOMAIN-SUFFIX,mdmenrollment.apple.com
-- DOMAIN-SUFFIX,axm-adm-enroll.apple.com
-- DOMAIN-SUFFIX,axm-adm-mdm.apple.com
-- DOMAIN-SUFFIX,axm-adm-scep.apple.com
-- DOMAIN-SUFFIX,axm-app.apple.com
-- DOMAIN-SUFFIX,icons.axm-usercontent-apple.com
-- DOMAIN-SUFFIX,deviceenrollment.apple.com
-- DOMAIN-SUFFIX,deviceservices-external.apple.com
-- DOMAIN-SUFFIX,vertexsmb.com
-- DOMAIN-SUFFIX,ws-ee-maidsvc.icloud.com
-- DOMAIN-SUFFIX,vpp.itunes.apple.com
-- DOMAIN-SUFFIX,business.apple.com
-- DOMAIN-SUFFIX,api.edu.apple.com
-- DOMAIN-SUFFIX,appleschoolcontent.com
-- DOMAIN-SUFFIX,edu.apple.com
-- DOMAIN-SUFFIX,school.apple.com
+DOMAIN,lookup-api.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,api.ent.apple.com
+DOMAIN-SUFFIX,apple-mapkit.com
+DOMAIN-SUFFIX,iprofiles.apple.com
+DOMAIN-SUFFIX,mdmenrollment.apple.com
+DOMAIN-SUFFIX,axm-adm-enroll.apple.com
+DOMAIN-SUFFIX,axm-adm-mdm.apple.com
+DOMAIN-SUFFIX,axm-adm-scep.apple.com
+DOMAIN-SUFFIX,axm-app.apple.com
+DOMAIN-SUFFIX,icons.axm-usercontent-apple.com
+DOMAIN-SUFFIX,deviceenrollment.apple.com
+DOMAIN-SUFFIX,deviceservices-external.apple.com
+DOMAIN-SUFFIX,vertexsmb.com
+DOMAIN-SUFFIX,ws-ee-maidsvc.icloud.com
+DOMAIN-SUFFIX,vpp.itunes.apple.com
+DOMAIN-SUFFIX,business.apple.com
+DOMAIN-SUFFIX,api.edu.apple.com
+DOMAIN-SUFFIX,appleschoolcontent.com
+DOMAIN-SUFFIX,edu.apple.com
+DOMAIN-SUFFIX,school.apple.com

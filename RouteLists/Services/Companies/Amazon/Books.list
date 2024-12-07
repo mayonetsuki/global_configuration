@@ -1,23 +1,23 @@
-- DOMAIN-SUFFIX,bookfinder.com
-- DOMAIN-SUFFIX,amazonbookreview.com
-- DOMAIN-SUFFIX,zvab.com
-- DOMAIN-SUFFIX,iberlibro.com
-- DOMAIN-SUFFIX,abeBooks.ca
-- DOMAIN-SUFFIX,abeBooks.de
-- DOMAIN-SUFFIX,abeBooks.fr
-- DOMAIN-SUFFIX,abeBooks.it
-- DOMAIN-SUFFIX,abeBooks.co.uk
-- DOMAIN-SUFFIX,abebooks.com
-- DOMAIN-SUFFIX,comixology.com
-- DOMAIN-SUFFIX,goodreads.com
-- DOMAIN-SUFFIX,kdp.amazon.com
-- DOMAIN-SUFFIX,author.amazon.com
-- DOMAIN-SUFFIX,amazonencore.com
-- DOMAIN-SUFFIX,amazonpublishing.com
-- DOMAIN-SUFFIX,amazonpublishing.amazon.com
-- DOMAIN-SUFFIX,read.amazon.com
-- DOMAIN-SUFFIX,kindlefire.com
-- DOMAIN-SUFFIX,kdpcommunity.com
-- DOMAIN-SUFFIX,kindlescout.amazon.com
-- DOMAIN-SUFFIX,kindleworlds.amazon.com
-- DOMAIN-SUFFIX,kindle.com
+DOMAIN-SUFFIX,bookfinder.com
+DOMAIN-SUFFIX,amazonbookreview.com
+DOMAIN-SUFFIX,zvab.com
+DOMAIN-SUFFIX,iberlibro.com
+DOMAIN-SUFFIX,abeBooks.ca
+DOMAIN-SUFFIX,abeBooks.de
+DOMAIN-SUFFIX,abeBooks.fr
+DOMAIN-SUFFIX,abeBooks.it
+DOMAIN-SUFFIX,abeBooks.co.uk
+DOMAIN-SUFFIX,abebooks.com
+DOMAIN-SUFFIX,comixology.com
+DOMAIN-SUFFIX,goodreads.com
+DOMAIN-SUFFIX,kdp.amazon.com
+DOMAIN-SUFFIX,author.amazon.com
+DOMAIN-SUFFIX,amazonencore.com
+DOMAIN-SUFFIX,amazonpublishing.com
+DOMAIN-SUFFIX,amazonpublishing.amazon.com
+DOMAIN-SUFFIX,read.amazon.com
+DOMAIN-SUFFIX,kindlefire.com
+DOMAIN-SUFFIX,kdpcommunity.com
+DOMAIN-SUFFIX,kindlescout.amazon.com
+DOMAIN-SUFFIX,kindleworlds.amazon.com
+DOMAIN-SUFFIX,kindle.com

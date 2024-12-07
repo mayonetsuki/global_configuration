@@ -1,10 +1,10 @@
-- DOMAIN,awsstatic.com
-- DOMAIN,www.cloudfront.net
-- DOMAIN,s3.amazonaws.com
-- DOMAIN,aws.amazonaws.com
-- DOMAIN,amazonaws.com
-- DOMAIN,aws.com
-- DOMAIN-SUFFIX,aws.amazon.com
-- IP-CIDR,3.5.140.0/22
-- IP-CIDR,52.94.0.0/16
-- IP-CIDR,54.239.0.0/16
+DOMAIN,awsstatic.com
+DOMAIN,www.cloudfront.net
+DOMAIN,s3.amazonaws.com
+DOMAIN,aws.amazonaws.com
+DOMAIN,amazonaws.com
+DOMAIN,aws.com
+DOMAIN-SUFFIX,aws.amazon.com
+IP-CIDR,3.5.140.0/22
+IP-CIDR,52.94.0.0/16
+IP-CIDR,54.239.0.0/16

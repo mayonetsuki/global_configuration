@@ -1,12 +1,12 @@
-- DOMAIN-SUFFIX,amazon-games-content.s3.amazonaws.com
-- DOMAIN-SUFFIX,amazon-games-downloads.s3.amazonaws.com
-- DOMAIN-SUFFIX,amazon-games-patches.s3.amazonaws.com
-- DOMAIN-SUFFIX,amazon-games-telemetry.s3.amazonaws.com
-- DOMAIN-SUFFIX,download.amazongames.com
-- DOMAIN-SUFFIX,gamelift.amazonaws.com
-- DOMAIN-SUFFIX,amazonluna.com
-- DOMAIN-SUFFIX,luna.amazon.com
-- DOMAIN-SUFFIX,lunausercontent.com
-- DOMAIN-SUFFIX,amazongames.com
-- DOMAIN-SUFFIX,gaming.amazon.com
-- DOMAIN-SUFFIX,games.amazon.com
+DOMAIN-SUFFIX,amazon-games-content.s3.amazonaws.com
+DOMAIN-SUFFIX,amazon-games-downloads.s3.amazonaws.com
+DOMAIN-SUFFIX,amazon-games-patches.s3.amazonaws.com
+DOMAIN-SUFFIX,amazon-games-telemetry.s3.amazonaws.com
+DOMAIN-SUFFIX,download.amazongames.com
+DOMAIN-SUFFIX,gamelift.amazonaws.com
+DOMAIN-SUFFIX,amazonluna.com
+DOMAIN-SUFFIX,luna.amazon.com
+DOMAIN-SUFFIX,lunausercontent.com
+DOMAIN-SUFFIX,amazongames.com
+DOMAIN-SUFFIX,gaming.amazon.com
+DOMAIN-SUFFIX,games.amazon.com

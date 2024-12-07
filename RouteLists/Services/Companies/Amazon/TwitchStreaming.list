@@ -1,11 +1,11 @@
-- DOMAIN-SUFFIX,irc.twitch.tv
-- DOMAIN-SUFFIX,irc-ws.chat.twitch.tv
-- DOMAIN-SUFFIX,video-weaver.ttvnw.net
-- DOMAIN-SUFFIX,pubsub-edge.twitch.tv
-- DOMAIN-SUFFIX,live.twitch.tv
-- DOMAIN-SUFFIX,rtmp.twitch.tv
-- IP-CIDR,52.223.192.0/20
-- IP-CIDR,52.223.208.0/21
-- IP-CIDR,52.223.216.0/21
-- IP-CIDR,52.223.224.0/20
-- IP-CIDR,52.223.240.0/20
+DOMAIN-SUFFIX,irc.twitch.tv
+DOMAIN-SUFFIX,irc-ws.chat.twitch.tv
+DOMAIN-SUFFIX,video-weaver.ttvnw.net
+DOMAIN-SUFFIX,pubsub-edge.twitch.tv
+DOMAIN-SUFFIX,live.twitch.tv
+DOMAIN-SUFFIX,rtmp.twitch.tv
+IP-CIDR,52.223.192.0/20
+IP-CIDR,52.223.208.0/21
+IP-CIDR,52.223.216.0/21
+IP-CIDR,52.223.224.0/20
+IP-CIDR,52.223.240.0/20

@@ -1,20 +1,20 @@
-- DOMAIN-SUFFIX,audible.ca
-- DOMAIN-SUFFIX,audible.de
-- DOMAIN-SUFFIX,audible.es
-- DOMAIN-SUFFIX,audible.fr
-- DOMAIN-SUFFIX,audible.in
-- DOMAIN-SUFFIX,audible.it
-- DOMAIN-SUFFIX,audible.co.uk
-- DOMAIN-SUFFIX,audible.co.jp
-- DOMAIN-SUFFIX,audible.com.au
-- DOMAIN-SUFFIX,audible.com.br
-- DOMAIN-SUFFIX,audible.com
-- DOMAIN-SUFFIX,amazondynamicmusic.com
-- DOMAIN-SUFFIX,music-api.amazon.com
-- DOMAIN-SUFFIX,music.amazonsilk.com
-- DOMAIN-SUFFIX,amazonmusic.com,music.lis
-- DOMAIN-SUFFIX,music.amazon.de
-- DOMAIN-SUFFIX,music.amazon.fr
-- DOMAIN-SUFFIX,music.amazon.co.jp
-- DOMAIN-SUFFIX,music.amazon.co.uk
-- DOMAIN-SUFFIX,music.amazon.com
+DOMAIN-SUFFIX,audible.ca
+DOMAIN-SUFFIX,audible.de
+DOMAIN-SUFFIX,audible.es
+DOMAIN-SUFFIX,audible.fr
+DOMAIN-SUFFIX,audible.in
+DOMAIN-SUFFIX,audible.it
+DOMAIN-SUFFIX,audible.co.uk
+DOMAIN-SUFFIX,audible.co.jp
+DOMAIN-SUFFIX,audible.com.au
+DOMAIN-SUFFIX,audible.com.br
+DOMAIN-SUFFIX,audible.com
+DOMAIN-SUFFIX,amazondynamicmusic.com
+DOMAIN-SUFFIX,music-api.amazon.com
+DOMAIN-SUFFIX,music.amazonsilk.com
+DOMAIN-SUFFIX,amazonmusic.com,music.lis
+DOMAIN-SUFFIX,music.amazon.de
+DOMAIN-SUFFIX,music.amazon.fr
+DOMAIN-SUFFIX,music.amazon.co.jp
+DOMAIN-SUFFIX,music.amazon.co.uk
+DOMAIN-SUFFIX,music.amazon.com

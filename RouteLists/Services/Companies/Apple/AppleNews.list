@@ -1,5 +1,5 @@
-- DOMAIN-SUFFIX,news-client.apple.com
-- DOMAIN-SUFFIX,news-edge.apple.com
-- DOMAIN-SUFFIX,news-events.apple.com
-- DOMAIN,gspe1-ssl.ls.apple.com
-- DOMAIN-SUFFIX,apple.news
+DOMAIN-SUFFIX,news-client.apple.com
+DOMAIN-SUFFIX,news-edge.apple.com
+DOMAIN-SUFFIX,news-events.apple.com
+DOMAIN,gspe1-ssl.ls.apple.com
+DOMAIN-SUFFIX,apple.news
