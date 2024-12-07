@@ -1,0 +1,10 @@
+- DOMAIN-SUFFIX,cdn-apple.com
+- DOMAIN-SUFFIX,aaplimg.com
+- DOMAIN-SUFFIX,apple-cloudkit.com
+- DOMAIN-SUFFIX,itunes.apple.com
+- DOMAIN-SUFFIX,apple.co
+- DOMAIN-SUFFIX,apple.com
+- DOMAIN-SUFFIX,apple.com.cn
+- IP-CIDR,17.0.0.0/8
+- IP-CIDR,139.178.128.0/18
+- IP-CIDR,144.178.0.0/18
