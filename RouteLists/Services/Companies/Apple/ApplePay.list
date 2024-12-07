@@ -1,3 +1,7 @@
+# Mayo's Route list - Apple - ApplePay.list
+# Last update: DEC 07, 2024 18:21
+# Update by code-shiromi
+
 DOMAIN-SUFFIX,apple-pay-gateway.apple.com
 DOMAIN-SUFFIX,apple-pay.com
 DOMAIN-SUFFIX,pay.apple.com

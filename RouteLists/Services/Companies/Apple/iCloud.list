@@ -1,3 +1,7 @@
+# Mayo's Route list - Apple - iCloud.list
+# Last update: DEC 07, 2024 18:20
+# Update by code-shiromi
+
 DOMAIN,www-cdn.icloud.com.akadns.net
 DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,lcdn-locator.apple.com

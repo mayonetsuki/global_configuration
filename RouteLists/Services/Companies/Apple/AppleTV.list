@@ -1,3 +1,7 @@
+# Mayo's Route list - Apple - AppleTV.list
+# Last update: DEC 07, 2024 18:20
+# Update by code-shiromi
+
 DOMAIN,np-edge.itunes.apple.com
 DOMAIN,play-edge.itunes.apple.com
 DOMAIN-SUFFIX,hls.itunes.apple.com
