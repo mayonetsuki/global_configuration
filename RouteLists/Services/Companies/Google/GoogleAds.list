@@ -1,0 +1,23 @@
+# Mayo's Route list - Google.list
+# Last update: APR 11, 2025 08:31
+# Update by code-shiromi
+
+# # DoubleClick
+DOMAIN-SUFFIX,2mdn.net
+DOMAIN-SUFFIX,doubleclick.net
+DOMAIN-SUFFIX,ad.doubleclick.net
+DOMAIN-SUFFIX,googleads.g.doubleclick.net
+# # Client Analyze
+DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,www-googletagmanager.l.google.com
+DOMAIN-SUFFIX,googletagservices.com
+DOMAIN-SUFFIX,app-measurement.com
+# # Google
+DOMAIN-SUFFIX,clickserve.dartsearch.net
+DOMAIN-SUFFIX,c.admob.com
+DOMAIN-SUFFIX,admob.google.com
+DOMAIN-SUFFIX,marketingplatform.google.com
+DOMAIN-SUFFIX,googletraveladservices.com

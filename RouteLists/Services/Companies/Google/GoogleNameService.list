@@ -1,0 +1,10 @@
+# Mayo's Route list - Google.list
+# Last update: APR 11, 2025 08:31
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,ns1.google.com
+DOMAIN-SUFFIX,ns2.google.com
+DOMAIN-SUFFIX,ns3.google.com
+DOMAIN-SUFFIX,ns4.google.com
+DOMAIN-SUFFIX,dns.google.com
+DOMAIN-SUFFIX,dns.google

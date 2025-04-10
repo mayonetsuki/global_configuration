@@ -1,0 +1,441 @@
+# Mayo's Route list - Google.list
+# Last update: APR 10, 2025 18:24
+# Update by code-shiromi
+
+# Google Security
+DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,crl.pki.goog
+DOMAIN-SUFFIX,ocsp.pki.goog
+DOMAIN-SUFFIX,pki-goog.l.google.com
+DOMAIN-SUFFIX,safebrowsing-cache.google.com
+# # ReCaptcha
+DOMAIN-SUFFIX,recaptcha.net
+
+# Google Device
+DOMAIN-SUFFIX,c.android.clients.google.com
+DOMAIN-SUFFIX,clients.google.com
+DOMAIN-SUFFIX,clients2.google.com
+DOMAIN-SUFFIX,clients3.google.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,beacons.gcp.gvt2.com
+DOMAIN-SUFFIX,beacons.gvt2.com
+DOMAIN-SUFFIX,beacons2.gvt2.com
+DOMAIN-SUFFIX,beacons3.gvt2.com
+DOMAIN-SUFFIX,beacons4.gvt2.com
+DOMAIN-SUFFIX,beacons5.gvt2.com
+DOMAIN-SUFFIX,gvt0.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt3.com
+
+# Google Entertainments
+# # YouTube Streaming
+# # YouTube
+DOMAIN-SUFFIX,videos.google.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,ytimg.com
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,youtube.com
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,yt.be
+
+# Google Organization
+# # Analyze & Marketing
+DOMAIN,doubleclick.net
+DOMAIN-SUFFIX,marketingplatform.google.com
+DOMAIN,admob.com
+DOMAIN-SUFFIX,admob.google.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
+DOMAIN-SUFFIX,adservice.google.com
+# # AdSense for Search/Shopping/ProSE
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+DOMAIN-SUFFIX,syndicatedsearch.goog
+# # Domain
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+DOMAIN-SUFFIX,nic.google
+DOMAIN-SUFFIX,registry.google
+DOMAIN-SUFFIX,domains.google.com
+# # Partner & SSO
+DOMAIN-SUFFIX,corp-partner.google.com
+DOMAIN-SUFFIX,corp.google.com
+# # Store
+DOMAIN-SUFFIX,pixel.google
+# # Trust Services
+DOMAIN-SUFFIX,pki.goog
+
+# Google AI
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,labs.google
+# # Developer
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
+
+# Google Education
+DOMAIN-SUFFIX,madewithcode.com
+DOMAIN-SUFFIX,grow.google.com
+DOMAIN-SUFFIX,grow.google
+DOMAIN-SUFFIX,skillshop.withgoogle.com
+DOMAIN-SUFFIX,skillshop.docebosaas.com
+
+# Google Development
+DOMAIN-SUFFIX,opensource.google
+DOMAIN-SUFFIX,toolbarqueries.google.com
+DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,tools.l.google.com
+# # Android
+DOMAIN-SUFFIX,developer.android.com
+DOMAIN-SUFFIX,source.android.com
+# # Chrome & Chromium
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,chromestatus.com
+# # Colab
+DOMAIN-SUFFIX,colab.google
+DOMAIN-SUFFIX,colab.google.com
+DOMAIN-SUFFIX,colab.research.google.com
+# # Encription
+DOMAIN-SUFFIX,shattered.io
+# # Firebase
+DOMAIN,crashlytics.com
+DOMAIN-SUFFIX,settings.crashlytics.com
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firebasedatabase.app
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.google.com
+# # Golang
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,go.dev
+# # Java
+DOMAIN-SUFFIX,gwtproject.org
+# # JavaScript
+DOMAIN-SUFFIX,polymer-project.org
+# # Material
+DOMAIN-SUFFIX,material.google.com
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,getmdl.io
+# # OpenJS
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,amp.dev
+# # Protocols
+DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webrtc.org
+# # TensorFlow
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+# # Google
+DOMAIN-SUFFIX,g.dev
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,developers.google.com
+
+# Google Cloud Platform (GCP)
+# # AppEngine
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,appengine.google.com
+# # Dialogflow
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,dialogflow.cloud.google.com
+# # Google
+DOMAIN-SUFFIX,cloud.google.com
+
+# Google Productivities
+DOMAIN-SUFFIX,synergyse.com
+DOMAIN-SUFFIX,workspace.google.com
+DOMAIN-SUFFIX,tiltbrush.com
+# # Blogger
+DOMAIN-SUFFIX,blogspot.com
+DOMAIN-SUFFIX,blogger.google.com
+DOMAIN-SUFFIX,blogger.com
+# # Communication
+DOMAIN-SUFFIX,telephony.goog
+DOMAIN-SUFFIX,voice.google.com
+DOMAIN-SUFFIX,mobile-gtalk.l.google.com
+DOMAIN,mtalk.google.com
+DOMAIN,alt1-mtalk.google.com
+DOMAIN,alt2-mtalk.google.com
+DOMAIN,alt3-mtalk.google.com
+DOMAIN,alt4-mtalk.google.com
+DOMAIN,alt5-mtalk.google.com
+DOMAIN,alt6-mtalk.google.com
+DOMAIN,alt7-mtalk.google.com
+DOMAIN,alt8-mtalk.google.com
+DOMAIN,alt9-mtalk.google.com
+# # Documents
+DOMAIN-SUFFIX,notebooklm.google
+DOMAIN-SUFFIX,notebooklm.google.com
+DOMAIN-SUFFIX,docs.google.com
+# # Google drive
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,drive.google.com
+# # Gmail
+DOMAIN-SUFFIX,gmail.com
+
+# Google Personal Services
+DOMAIN-SUFFIX,googleusercontent.com
+# # Google Account
+DOMAIN-SUFFIX,account.google.com
+DOMAIN-SUFFIX,accounts.google.com
+DOMAIN-SUFFIX,myaccount.google.com
+# # Google Alerts
+DOMAIN-SUFFIX,safety.google
+# # Google One
+DOMAIN-SUFFIX,one.google.com
+
+# General Google Services
+# # Internal
+DOMAIN-SUFFIX,creativelab5.com
+# # Google & Alphabet
+DOMAIN-SUFFIX,abc.xyz
+DOMAIN-SUFFIX,debug.com
+DOMAIN-SUFFIX,gv.com
+DOMAIN-SUFFIX,x.company
+DOMAIN-SUFFIX,diversity.google.com
+DOMAIN-SUFFIX,diversity.google
+DOMAIN-SUFFIX,about.google.com
+DOMAIN-SUFFIX,about.google
+DOMAIN-SUFFIX,blog.google.com
+DOMAIN-SUFFIX,blog.google
+DOMAIN-SUFFIX,transparency.google
+DOMAIN-SUFFIX,environment.google
+DOMAIN-SUFFIX,sustainability.google
+DOMAIN-SUFFIX,capitalg.com
+# # Google Products
+DOMAIN-SUFFIX,androidify.com
+DOMAIN-SUFFIX,android.com
+DOMAIN-SUFFIX,chrome.com
+DOMAIN-SUFFIX,chromeexperiments.com
+DOMAIN-SUFFIX,experiments.withgoogle.com
+DOMAIN-SUFFIX,withwaymo.com
+DOMAIN-SUFFIX,waymo.com
+DOMAIN-SUFFIX,widevine.com
+DOMAIN-SUFFIX,getoutline.org
+DOMAIN-SUFFIX,itasoftware.com
+# # Google Patents
+DOMAIN-SUFFIX,patents.google.com
+# # Google Scholar
+DOMAIN-SUFFIX,scholar.google.com
+# # Google Books
+DOMAIN-SUFFIX,books.google.com
+# # Google News
+DOMAIN-SUFFIX,news.google.com
+# # Google Trends
+DOMAIN-SUFFIX,trends.google
+DOMAIN-SUFFIX,trends.google.com
+# # Google Financial
+DOMAIN-SUFFIX,finance.google.com
+# # Google Shopping
+DOMAIN-SUFFIX,shop.google.com
+DOMAIN-SUFFIX,shopping.google.com
+# # Google Lens
+DOMAIN-SUFFIX,lens.google
+DOMAIN-SUFFIX,lens.google.com
+# # Google Images
+DOMAIN-SUFFIX,image.google.com
+DOMAIN-SUFFIX,images.google.com
+# # Google Videos
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,video.google.com
+
+
+# Final
+DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,google
+DOMAIN-SUFFIX,google.ad
+DOMAIN-SUFFIX,google.ae
+DOMAIN-SUFFIX,google.al
+DOMAIN-SUFFIX,google.am
+DOMAIN-SUFFIX,google.as
+DOMAIN-SUFFIX,google.at
+DOMAIN-SUFFIX,google.az
+DOMAIN-SUFFIX,google.ba
+DOMAIN-SUFFIX,google.be
+DOMAIN-SUFFIX,google.bf
+DOMAIN-SUFFIX,google.bg
+DOMAIN-SUFFIX,google.bi
+DOMAIN-SUFFIX,google.bj
+DOMAIN-SUFFIX,google.bs
+DOMAIN-SUFFIX,google.bt
+DOMAIN-SUFFIX,google.by
+DOMAIN-SUFFIX,google.ca
+DOMAIN-SUFFIX,google.cd
+DOMAIN-SUFFIX,google.cf
+DOMAIN-SUFFIX,google.cg
+DOMAIN-SUFFIX,google.ch
+DOMAIN-SUFFIX,google.ci
+DOMAIN-SUFFIX,google.cl
+DOMAIN-SUFFIX,google.cm
+DOMAIN-SUFFIX,google.cn
+DOMAIN-SUFFIX,google.cv
+DOMAIN-SUFFIX,google.cz
+DOMAIN-SUFFIX,google.de
+DOMAIN-SUFFIX,google.dj
+DOMAIN-SUFFIX,google.dk
+DOMAIN-SUFFIX,google.dm
+DOMAIN-SUFFIX,google.dz
+DOMAIN-SUFFIX,google.ee
+DOMAIN-SUFFIX,google.es
+DOMAIN-SUFFIX,google.fi
+DOMAIN-SUFFIX,google.fm
+DOMAIN-SUFFIX,google.fr
+DOMAIN-SUFFIX,google.ga
+DOMAIN-SUFFIX,google.ge
+DOMAIN-SUFFIX,google.gg
+DOMAIN-SUFFIX,google.gl
+DOMAIN-SUFFIX,google.gm
+DOMAIN-SUFFIX,google.gr
+DOMAIN-SUFFIX,google.gy
+DOMAIN-SUFFIX,google.hn
+DOMAIN-SUFFIX,google.hr
+DOMAIN-SUFFIX,google.ht
+DOMAIN-SUFFIX,google.hu
+DOMAIN-SUFFIX,google.ie
+DOMAIN-SUFFIX,google.im
+DOMAIN-SUFFIX,google.iq
+DOMAIN-SUFFIX,google.is
+DOMAIN-SUFFIX,google.it
+DOMAIN-SUFFIX,google.je
+DOMAIN-SUFFIX,google.jo
+DOMAIN-SUFFIX,google.ki
+DOMAIN-SUFFIX,google.kg
+DOMAIN-SUFFIX,google.kz
+DOMAIN-SUFFIX,google.la
+DOMAIN-SUFFIX,google.li
+DOMAIN-SUFFIX,google.lk
+DOMAIN-SUFFIX,google.lt
+DOMAIN-SUFFIX,google.lu
+DOMAIN-SUFFIX,google.lv
+DOMAIN-SUFFIX,google.md
+DOMAIN-SUFFIX,google.me
+DOMAIN-SUFFIX,google.mg
+DOMAIN-SUFFIX,google.mk
+DOMAIN-SUFFIX,google.ml
+DOMAIN-SUFFIX,google.mn
+DOMAIN-SUFFIX,google.mu
+DOMAIN-SUFFIX,google.mv
+DOMAIN-SUFFIX,google.mw
+DOMAIN-SUFFIX,google.ne
+DOMAIN-SUFFIX,google.nl
+DOMAIN-SUFFIX,google.no
+DOMAIN-SUFFIX,google.nr
+DOMAIN-SUFFIX,google.nu
+DOMAIN-SUFFIX,google.pl
+DOMAIN-SUFFIX,google.pn
+DOMAIN-SUFFIX,google.ps
+DOMAIN-SUFFIX,google.pt
+DOMAIN-SUFFIX,google.ro
+DOMAIN-SUFFIX,google.ru
+DOMAIN-SUFFIX,google.rw
+DOMAIN-SUFFIX,google.sc
+DOMAIN-SUFFIX,google.se
+DOMAIN-SUFFIX,google.sh
+DOMAIN-SUFFIX,google.si
+DOMAIN-SUFFIX,google.sk
+DOMAIN-SUFFIX,google.sn
+DOMAIN-SUFFIX,google.so
+DOMAIN-SUFFIX,google.sm
+DOMAIN-SUFFIX,google.sr
+DOMAIN-SUFFIX,google.st
+DOMAIN-SUFFIX,google.td
+DOMAIN-SUFFIX,google.tg
+DOMAIN-SUFFIX,google.tl
+DOMAIN-SUFFIX,google.tm
+DOMAIN-SUFFIX,google.tn
+DOMAIN-SUFFIX,google.to
+DOMAIN-SUFFIX,google.tt
+DOMAIN-SUFFIX,google.vu
+DOMAIN-SUFFIX,google.ws
+DOMAIN-SUFFIX,google.rs
+DOMAIN-SUFFIX,google.cat
+DOMAIN-SUFFIX,google.co.ao
+DOMAIN-SUFFIX,google.co.bw
+DOMAIN-SUFFIX,google.co.ck
+DOMAIN-SUFFIX,google.co.cr
+DOMAIN-SUFFIX,google.co.id
+DOMAIN-SUFFIX,google.co.il
+DOMAIN-SUFFIX,google.co.in
+DOMAIN-SUFFIX,google.co.jp
+DOMAIN-SUFFIX,google.co.ke
+DOMAIN-SUFFIX,google.co.kr
+DOMAIN-SUFFIX,google.co.ls
+DOMAIN-SUFFIX,google.co.ma
+DOMAIN-SUFFIX,google.co.mz
+DOMAIN-SUFFIX,google.co.nz
+DOMAIN-SUFFIX,google.co.th
+DOMAIN-SUFFIX,google.co.tz
+DOMAIN-SUFFIX,google.co.ug
+DOMAIN-SUFFIX,google.co.uk
+DOMAIN-SUFFIX,google.co.uz
+DOMAIN-SUFFIX,google.co.ve
+DOMAIN-SUFFIX,google.co.vi
+DOMAIN-SUFFIX,google.co.za
+DOMAIN-SUFFIX,google.co.zm
+DOMAIN-SUFFIX,google.co.zw
+DOMAIN-SUFFIX,google.com.af
+DOMAIN-SUFFIX,google.com.ag
+DOMAIN-SUFFIX,google.com.ar
+DOMAIN-SUFFIX,google.com.au
+DOMAIN-SUFFIX,google.com.bd
+DOMAIN-SUFFIX,google.com.bh
+DOMAIN-SUFFIX,google.com.bn
+DOMAIN-SUFFIX,google.com.bo
+DOMAIN-SUFFIX,google.com.br
+DOMAIN-SUFFIX,google.com.bz
+DOMAIN-SUFFIX,google.com.co
+DOMAIN-SUFFIX,google.com.cu
+DOMAIN-SUFFIX,google.com.cy
+DOMAIN-SUFFIX,google.com.do
+DOMAIN-SUFFIX,google.com.ec
+DOMAIN-SUFFIX,google.com.eg
+DOMAIN-SUFFIX,google.com.et
+DOMAIN-SUFFIX,google.com.fj
+DOMAIN-SUFFIX,google.com.gh
+DOMAIN-SUFFIX,google.com.gi
+DOMAIN-SUFFIX,google.com.gt
+DOMAIN-SUFFIX,google.com.hk
+DOMAIN-SUFFIX,google.com.jm
+DOMAIN-SUFFIX,google.com.kh
+DOMAIN-SUFFIX,google.com.kw
+DOMAIN-SUFFIX,google.com.lb
+DOMAIN-SUFFIX,google.com.ly
+DOMAIN-SUFFIX,google.com.mm
+DOMAIN-SUFFIX,google.com.mt
+DOMAIN-SUFFIX,google.com.mx
+DOMAIN-SUFFIX,google.com.my
+DOMAIN-SUFFIX,google.com.na
+DOMAIN-SUFFIX,google.com.ng
+DOMAIN-SUFFIX,google.com.ni
+DOMAIN-SUFFIX,google.com.np
+DOMAIN-SUFFIX,google.com.om
+DOMAIN-SUFFIX,google.com.pa
+DOMAIN-SUFFIX,google.com.pe
+DOMAIN-SUFFIX,google.com.pg
+DOMAIN-SUFFIX,google.com.ph
+DOMAIN-SUFFIX,google.com.pk
+DOMAIN-SUFFIX,google.com.pr
+DOMAIN-SUFFIX,google.com.py
+DOMAIN-SUFFIX,google.com.qa
+DOMAIN-SUFFIX,google.com.sa
+DOMAIN-SUFFIX,google.com.sb
+DOMAIN-SUFFIX,google.com.sg
+DOMAIN-SUFFIX,google.com.sl
+DOMAIN-SUFFIX,google.com.sv
+DOMAIN-SUFFIX,google.com.tj
+DOMAIN-SUFFIX,google.com.tr
+DOMAIN-SUFFIX,google.com.tw
+DOMAIN-SUFFIX,google.com.ua
+DOMAIN-SUFFIX,google.com.uy
+DOMAIN-SUFFIX,google.com.vc
+DOMAIN-SUFFIX,google.com.vn
+DOMAIN-SUFFIX,google.com
+DOMAIN-KEYWORD,gstatic
+DOMAIN-KEYWORD,www.google
+IP-CIDR,173.194.0.0/16
+IP-CIDR,74.125.0.0/16

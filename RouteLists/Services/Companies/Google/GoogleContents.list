@@ -1,0 +1,16 @@
+# Mayo's Route list - Google.list
+# Last update: APR 11, 2025 08:29
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,dl.google.com
+DOMAIN-SUFFIX,dl.l.google.com
+DOMAIN-SUFFIX,waveprotocol.org
+DOMAIN-SUFFIX,ggpht.com
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,ssl.gstatic.com
+DOMAIN-SUFFIX,cache.pack.google.com
+DOMAIN-SUFFIX,gmodules.com
+DOMAIN-SUFFIX,fonts.gstatic.com
+DOMAIN-SUFFIX,fonts.googleapis.com
+# # Known used in googdrive
+DOMAIN-SUFFIX,googleapis.com
