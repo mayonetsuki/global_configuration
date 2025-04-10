@@ -2,81 +2,6 @@
 # Last update: APR 10, 2025 18:24
 # Update by code-shiromi
 
-# Google Security
-DOMAIN-SUFFIX,certificate-transparency.org
-DOMAIN-SUFFIX,crl.pki.goog
-DOMAIN-SUFFIX,ocsp.pki.goog
-DOMAIN-SUFFIX,pki-goog.l.google.com
-DOMAIN-SUFFIX,safebrowsing-cache.google.com
-# # ReCaptcha
-DOMAIN-SUFFIX,recaptcha.net
-
-# Google Device
-DOMAIN-SUFFIX,c.android.clients.google.com
-DOMAIN-SUFFIX,clients.google.com
-DOMAIN-SUFFIX,clients2.google.com
-DOMAIN-SUFFIX,clients3.google.com
-DOMAIN-SUFFIX,clients4.google.com
-DOMAIN-SUFFIX,beacons.gcp.gvt2.com
-DOMAIN-SUFFIX,beacons.gvt2.com
-DOMAIN-SUFFIX,beacons2.gvt2.com
-DOMAIN-SUFFIX,beacons3.gvt2.com
-DOMAIN-SUFFIX,beacons4.gvt2.com
-DOMAIN-SUFFIX,beacons5.gvt2.com
-DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,gvt2.com
-DOMAIN-SUFFIX,gvt3.com
-
-# Google Entertainments
-# # YouTube Streaming
-# # YouTube
-DOMAIN-SUFFIX,videos.google.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,ytimg.com
-DOMAIN,youtubei.googleapis.com
-DOMAIN,yt3.ggpht.com
-DOMAIN-SUFFIX,youtube.com
-DOMAIN-SUFFIX,youtu.be
-DOMAIN-SUFFIX,yt.be
-
-# Google Organization
-# # Analyze & Marketing
-DOMAIN,doubleclick.net
-DOMAIN-SUFFIX,marketingplatform.google.com
-DOMAIN,admob.com
-DOMAIN-SUFFIX,admob.google.com
-DOMAIN-SUFFIX,googleadservices.com
-DOMAIN-SUFFIX,googlesyndication.com
-DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
-DOMAIN-SUFFIX,adservice.google.com
-# # AdSense for Search/Shopping/ProSE
-DOMAIN-SUFFIX,adsensecustomsearchads.com
-DOMAIN-SUFFIX,syndicatedsearch.goog
-# # Domain
-DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
-DOMAIN-SUFFIX,nic.google
-DOMAIN-SUFFIX,registry.google
-DOMAIN-SUFFIX,domains.google.com
-# # Partner & SSO
-DOMAIN-SUFFIX,corp-partner.google.com
-DOMAIN-SUFFIX,corp.google.com
-# # Store
-DOMAIN-SUFFIX,pixel.google
-# # Trust Services
-DOMAIN-SUFFIX,pki.goog
-
-# Google AI
-DOMAIN-SUFFIX,autodraw.com
-DOMAIN-SUFFIX,ai.google
-DOMAIN-SUFFIX,deepmind.com
-DOMAIN-SUFFIX,deepmind.google
-DOMAIN-SUFFIX,labs.google.com
-DOMAIN-SUFFIX,labs.google
-# # Developer
-DOMAIN-SUFFIX,ai.google.dev
-DOMAIN-SUFFIX,aistudio.google.com
-
 # Google Education
 DOMAIN-SUFFIX,madewithcode.com
 DOMAIN-SUFFIX,grow.google.com
@@ -172,9 +97,6 @@ DOMAIN,alt9-mtalk.google.com
 DOMAIN-SUFFIX,notebooklm.google
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN-SUFFIX,docs.google.com
-# # Google drive
-DOMAIN-SUFFIX,googledrive.com
-DOMAIN-SUFFIX,drive.google.com
 # # Gmail
 DOMAIN-SUFFIX,gmail.com
 

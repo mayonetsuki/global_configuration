@@ -1,0 +1,28 @@
+# Mayo's Route list - Google.list
+# Last update: APR 11, 2025 08:53
+# Update by code-shiromi
+
+# # Analyze & Marketing
+DOMAIN,doubleclick.net
+DOMAIN-SUFFIX,marketingplatform.google.com
+DOMAIN,admob.com
+DOMAIN-SUFFIX,admob.google.com
+DOMAIN-SUFFIX,googleadservices.com
+DOMAIN-SUFFIX,googlesyndication.com
+DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
+DOMAIN-SUFFIX,adservice.google.com
+# # AdSense for Search/Shopping/ProSE
+DOMAIN-SUFFIX,adsensecustomsearchads.com
+DOMAIN-SUFFIX,syndicatedsearch.goog
+# # Domain
+DOMAIN-SUFFIX,xn--p8j9a0d9c9a.xn--q9jyb4c
+DOMAIN-SUFFIX,nic.google
+DOMAIN-SUFFIX,registry.google
+DOMAIN-SUFFIX,domains.google.com
+# # Partner & SSO
+DOMAIN-SUFFIX,corp-partner.google.com
+DOMAIN-SUFFIX,corp.google.com
+# # Store
+DOMAIN-SUFFIX,pixel.google
+# # Trust Services
+DOMAIN-SUFFIX,pki.goog

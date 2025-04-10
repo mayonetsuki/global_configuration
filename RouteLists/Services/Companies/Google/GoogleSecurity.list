@@ -1,0 +1,11 @@
+# Mayo's Route list - Google.list
+# Last update: APR 11, 2025 08:51
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,certificate-transparency.org
+DOMAIN-SUFFIX,crl.pki.goog
+DOMAIN-SUFFIX,ocsp.pki.goog
+DOMAIN-SUFFIX,pki-goog.l.google.com
+DOMAIN-SUFFIX,safebrowsing-cache.google.com
+# # ReCaptcha
+DOMAIN-SUFFIX,recaptcha.net

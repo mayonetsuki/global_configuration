@@ -1,0 +1,13 @@
+# Mayo's Route list - Google.list
+# Last update: APR 11, 2025 08:54
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,autodraw.com
+DOMAIN-SUFFIX,ai.google
+DOMAIN-SUFFIX,deepmind.com
+DOMAIN-SUFFIX,deepmind.google
+DOMAIN-SUFFIX,labs.google.com
+DOMAIN-SUFFIX,labs.google
+# # Developer
+DOMAIN-SUFFIX,ai.google.dev
+DOMAIN-SUFFIX,aistudio.google.com
