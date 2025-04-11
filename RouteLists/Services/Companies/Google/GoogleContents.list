@@ -1,5 +1,5 @@
 # Mayo's Route list - GoogleContents.list
-# Last update: APR 11, 2025 08:57
+# Last update: APR 11, 2025 09:11
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,dl.google.com
@@ -12,5 +12,3 @@ DOMAIN-SUFFIX,cache.pack.google.com
 DOMAIN-SUFFIX,gmodules.com
 DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,fonts.googleapis.com
-# # Known used in googdrive
-DOMAIN-SUFFIX,googleapis.com

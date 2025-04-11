@@ -1,0 +1,7 @@
+# Mayo's Route list - Geolocate.list
+# Last update: APR 11, 2025 10:01
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,kh.google.com
+DOMAIN-SUFFIX,maps.google.com
+DOMAIN-SUFFIX,waze.com

@@ -1,0 +1,35 @@
+# Mayo's Route list - GoogleCloudPlatform.list
+# Last update: APR 11, 2025 09:10
+# Update by code-shiromi
+
+# # AppEngine
+DOMAIN-SUFFIX,appspot.com
+DOMAIN-SUFFIX,appengine.google.com
+# # Cloud Functions
+DOMAIN-SUFFIX,cloudfunctions.net
+# # Cloud Run
+DOMAIN-SUFFIX,run.app
+# # Cloud Storage
+DOMAIN-SUFFIX,storage.googleapis.com
+DOMAIN-SUFFIX,storage.cloud.google.com
+# # Container Registry & Artifact Registry
+DOMAIN-SUFFIX,gcr.io
+DOMAIN-SUFFIX,pkg.dev
+# # Dialogflow
+DOMAIN-SUFFIX,dialogflow.com
+DOMAIN-SUFFIX,dialogflow.cloud.google.com
+# # Firebase
+DOMAIN,crashlytics.com
+DOMAIN-SUFFIX,web.app
+DOMAIN-SUFFIX,settings.crashlytics.com
+DOMAIN-SUFFIX,firebase-settings.crashlytics.com
+DOMAIN-SUFFIX,firebaseapp.com
+DOMAIN-SUFFIX,firebaseio.com
+DOMAIN-SUFFIX,firebasedatabase.app
+DOMAIN-SUFFIX,firebase.com
+DOMAIN-SUFFIX,firebase.google.com
+DOMAIN-SUFFIX,firestore.googleapis.com
+DOMAIN-SUFFIX,identitytoolkit.googleapis.com
+DOMAIN-SUFFIX,cloudmessaging.googleapis.com
+# # Google
+DOMAIN-SUFFIX,cloud.google.com

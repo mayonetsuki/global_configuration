@@ -1,0 +1,46 @@
+# Mayo's Route list - Development.list
+# Last update: APR 11, 2025 09:43
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,opensource.google
+DOMAIN-SUFFIX,toolbarqueries.google.com
+DOMAIN-SUFFIX,tools.google.com
+DOMAIN-SUFFIX,tools.l.google.com
+DOMAIN-SUFFIX,script.google.com
+# # Android
+DOMAIN-SUFFIX,developer.android.com
+DOMAIN-SUFFIX,source.android.com
+# # Chrome & Chromium
+DOMAIN-SUFFIX,chromium.org
+DOMAIN-SUFFIX,chromestatus.com
+# # Colab
+DOMAIN-SUFFIX,colab.google
+DOMAIN-SUFFIX,colab.google.com
+DOMAIN-SUFFIX,colab.research.google.com
+# # Encription
+DOMAIN-SUFFIX,shattered.io
+# # Golang
+DOMAIN-SUFFIX,godoc.org
+DOMAIN-SUFFIX,golang.org
+DOMAIN-SUFFIX,go.dev
+# # Java
+DOMAIN-SUFFIX,gwtproject.org
+# # JavaScript
+DOMAIN-SUFFIX,polymer-project.org
+# # Material
+DOMAIN-SUFFIX,material.google.com
+DOMAIN-SUFFIX,material.io
+DOMAIN-SUFFIX,getmdl.io
+# # OpenJS
+DOMAIN-SUFFIX,ampproject.org
+DOMAIN-SUFFIX,amp.dev
+# # Protocols
+DOMAIN-SUFFIX,webmproject.org
+DOMAIN-SUFFIX,webrtc.org
+# # TensorFlow
+DOMAIN-SUFFIX,tensorflow.org
+DOMAIN-SUFFIX,tfhub.dev
+# # Google
+DOMAIN-SUFFIX,g.dev
+DOMAIN-SUFFIX,google.dev
+DOMAIN-SUFFIX,developers.google.com

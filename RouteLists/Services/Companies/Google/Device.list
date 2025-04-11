@@ -1,8 +1,9 @@
 # Mayo's Route list - Device.list
-# Last update: APR 11, 2025 08:56
+# Last update: APR 11, 2025 09:13
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,c.android.clients.google.com
+DOMAIN-SUFFIX,android.clients.google.com
 DOMAIN-SUFFIX,clients.google.com
 DOMAIN-SUFFIX,clients2.google.com
 DOMAIN-SUFFIX,clients3.google.com

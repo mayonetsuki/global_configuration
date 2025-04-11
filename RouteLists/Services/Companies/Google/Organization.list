@@ -1,5 +1,5 @@
 # Mayo's Route list - Organization.list
-# Last update: APR 11, 2025 08:55
+# Last update: APR 11, 2025 09:44
 # Update by code-shiromi
 
 # # Analyze & Marketing
@@ -22,7 +22,9 @@ DOMAIN-SUFFIX,domains.google.com
 # # Partner & SSO
 DOMAIN-SUFFIX,corp-partner.google.com
 DOMAIN-SUFFIX,corp.google.com
-# # Store
-DOMAIN-SUFFIX,pixel.google
 # # Trust Services
 DOMAIN-SUFFIX,pki.goog
+# # workspace
+DOMAIN-SUFFIX,admin.google.com
+DOMAIN-SUFFIX,workspace.google.com
+DOMAIN-SUFFIX,sites.google.com

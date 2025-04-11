@@ -2,104 +2,6 @@
 # Last update: APR 10, 2025 18:24
 # Update by code-shiromi
 
-# Google Education
-DOMAIN-SUFFIX,madewithcode.com
-DOMAIN-SUFFIX,grow.google.com
-DOMAIN-SUFFIX,grow.google
-DOMAIN-SUFFIX,skillshop.withgoogle.com
-DOMAIN-SUFFIX,skillshop.docebosaas.com
-
-# Google Development
-DOMAIN-SUFFIX,opensource.google
-DOMAIN-SUFFIX,toolbarqueries.google.com
-DOMAIN-SUFFIX,tools.google.com
-DOMAIN-SUFFIX,tools.l.google.com
-# # Android
-DOMAIN-SUFFIX,developer.android.com
-DOMAIN-SUFFIX,source.android.com
-# # Chrome & Chromium
-DOMAIN-SUFFIX,chromium.org
-DOMAIN-SUFFIX,chromestatus.com
-# # Colab
-DOMAIN-SUFFIX,colab.google
-DOMAIN-SUFFIX,colab.google.com
-DOMAIN-SUFFIX,colab.research.google.com
-# # Encription
-DOMAIN-SUFFIX,shattered.io
-# # Firebase
-DOMAIN,crashlytics.com
-DOMAIN-SUFFIX,settings.crashlytics.com
-DOMAIN-SUFFIX,firebase-settings.crashlytics.com
-DOMAIN-SUFFIX,firebaseapp.com
-DOMAIN-SUFFIX,firebaseio.com
-DOMAIN-SUFFIX,firebasedatabase.app
-DOMAIN-SUFFIX,firebase.com
-DOMAIN-SUFFIX,firebase.google.com
-# # Golang
-DOMAIN-SUFFIX,godoc.org
-DOMAIN-SUFFIX,golang.org
-DOMAIN-SUFFIX,go.dev
-# # Java
-DOMAIN-SUFFIX,gwtproject.org
-# # JavaScript
-DOMAIN-SUFFIX,polymer-project.org
-# # Material
-DOMAIN-SUFFIX,material.google.com
-DOMAIN-SUFFIX,material.io
-DOMAIN-SUFFIX,getmdl.io
-# # OpenJS
-DOMAIN-SUFFIX,ampproject.org
-DOMAIN-SUFFIX,amp.dev
-# # Protocols
-DOMAIN-SUFFIX,webmproject.org
-DOMAIN-SUFFIX,webrtc.org
-# # TensorFlow
-DOMAIN-SUFFIX,tensorflow.org
-DOMAIN-SUFFIX,tfhub.dev
-# # Google
-DOMAIN-SUFFIX,g.dev
-DOMAIN-SUFFIX,google.dev
-DOMAIN-SUFFIX,developers.google.com
-
-# Google Cloud Platform (GCP)
-# # AppEngine
-DOMAIN-SUFFIX,appspot.com
-DOMAIN-SUFFIX,appengine.google.com
-# # Dialogflow
-DOMAIN-SUFFIX,dialogflow.com
-DOMAIN-SUFFIX,dialogflow.cloud.google.com
-# # Google
-DOMAIN-SUFFIX,cloud.google.com
-
-# Google Productivities
-DOMAIN-SUFFIX,synergyse.com
-DOMAIN-SUFFIX,workspace.google.com
-DOMAIN-SUFFIX,tiltbrush.com
-# # Blogger
-DOMAIN-SUFFIX,blogspot.com
-DOMAIN-SUFFIX,blogger.google.com
-DOMAIN-SUFFIX,blogger.com
-# # Communication
-DOMAIN-SUFFIX,telephony.goog
-DOMAIN-SUFFIX,voice.google.com
-DOMAIN-SUFFIX,mobile-gtalk.l.google.com
-DOMAIN,mtalk.google.com
-DOMAIN,alt1-mtalk.google.com
-DOMAIN,alt2-mtalk.google.com
-DOMAIN,alt3-mtalk.google.com
-DOMAIN,alt4-mtalk.google.com
-DOMAIN,alt5-mtalk.google.com
-DOMAIN,alt6-mtalk.google.com
-DOMAIN,alt7-mtalk.google.com
-DOMAIN,alt8-mtalk.google.com
-DOMAIN,alt9-mtalk.google.com
-# # Documents
-DOMAIN-SUFFIX,notebooklm.google
-DOMAIN-SUFFIX,notebooklm.google.com
-DOMAIN-SUFFIX,docs.google.com
-# # Gmail
-DOMAIN-SUFFIX,gmail.com
-
 # Google Personal Services
 DOMAIN-SUFFIX,googleusercontent.com
 # # Google Account
@@ -110,6 +12,8 @@ DOMAIN-SUFFIX,myaccount.google.com
 DOMAIN-SUFFIX,safety.google
 # # Google One
 DOMAIN-SUFFIX,one.google.com
+# # Store
+DOMAIN-SUFFIX,pixel.google
 
 # General Google Services
 # # Internal
@@ -169,6 +73,7 @@ DOMAIN-SUFFIX,video.google.com
 
 # Final
 DOMAIN-SUFFIX,whatbrowser.org
+DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae

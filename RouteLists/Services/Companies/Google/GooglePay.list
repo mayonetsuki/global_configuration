@@ -1,0 +1,7 @@
+# Mayo's Route list - GooglePay.list
+# Last update: APR 11, 2025 10:02
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,pay.google.com
+DOMAIN-SUFFIX,wallet.google.com
+DOMAIN-SUFFIX,payments.google.com
