@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,dialogflow.com
 DOMAIN-SUFFIX,dialogflow.cloud.google.com
 # # Firebase
 DOMAIN,crashlytics.com
+DOMAIN-SUFFIX,fabric.io
 DOMAIN-SUFFIX,web.app
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN-SUFFIX,firebase-settings.crashlytics.com
