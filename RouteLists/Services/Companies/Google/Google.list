@@ -2,23 +2,9 @@
 # Last update: APR 10, 2025 18:24
 # Update by code-shiromi
 
-# Google Personal Services
-DOMAIN-SUFFIX,googleusercontent.com
-# # Google Account
-DOMAIN-SUFFIX,account.google.com
-DOMAIN-SUFFIX,accounts.google.com
-DOMAIN-SUFFIX,myaccount.google.com
-# # Google Alerts
-DOMAIN-SUFFIX,safety.google
-# # Google One
-DOMAIN-SUFFIX,one.google.com
-# # Store
-DOMAIN-SUFFIX,pixel.google
-
-# General Google Services
-# # Internal
+# Internal
 DOMAIN-SUFFIX,creativelab5.com
-# # Google & Alphabet
+# Google & Alphabet
 DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,gv.com
@@ -33,43 +19,6 @@ DOMAIN-SUFFIX,transparency.google
 DOMAIN-SUFFIX,environment.google
 DOMAIN-SUFFIX,sustainability.google
 DOMAIN-SUFFIX,capitalg.com
-# # Google Products
-DOMAIN-SUFFIX,androidify.com
-DOMAIN-SUFFIX,android.com
-DOMAIN-SUFFIX,chrome.com
-DOMAIN-SUFFIX,chromeexperiments.com
-DOMAIN-SUFFIX,experiments.withgoogle.com
-DOMAIN-SUFFIX,withwaymo.com
-DOMAIN-SUFFIX,waymo.com
-DOMAIN-SUFFIX,widevine.com
-DOMAIN-SUFFIX,getoutline.org
-DOMAIN-SUFFIX,itasoftware.com
-# # Google Patents
-DOMAIN-SUFFIX,patents.google.com
-# # Google Scholar
-DOMAIN-SUFFIX,scholar.google.com
-# # Google Books
-DOMAIN-SUFFIX,books.google.com
-# # Google News
-DOMAIN-SUFFIX,news.google.com
-# # Google Trends
-DOMAIN-SUFFIX,trends.google
-DOMAIN-SUFFIX,trends.google.com
-# # Google Financial
-DOMAIN-SUFFIX,finance.google.com
-# # Google Shopping
-DOMAIN-SUFFIX,shop.google.com
-DOMAIN-SUFFIX,shopping.google.com
-# # Google Lens
-DOMAIN-SUFFIX,lens.google
-DOMAIN-SUFFIX,lens.google.com
-# # Google Images
-DOMAIN-SUFFIX,image.google.com
-DOMAIN-SUFFIX,images.google.com
-# # Google Videos
-DOMAIN-SUFFIX,googlevideo.com
-DOMAIN-SUFFIX,video.google.com
-
 
 # Final
 DOMAIN-SUFFIX,whatbrowser.org
