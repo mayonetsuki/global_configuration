@@ -1,5 +1,5 @@
 # Mayo's Route list - GoogleNameService.list
-# Last update: APR 11, 2025 08:57
+# Last update: APR 11, 2025 10:16
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,ns1.google.com
@@ -8,3 +8,5 @@ DOMAIN-SUFFIX,ns3.google.com
 DOMAIN-SUFFIX,ns4.google.com
 DOMAIN-SUFFIX,dns.google.com
 DOMAIN-SUFFIX,dns.google
+IP-CIDR,8.8.8.0/24
+IP-CIDR,8.8.4.0/24

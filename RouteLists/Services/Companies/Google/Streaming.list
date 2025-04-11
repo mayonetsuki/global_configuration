@@ -1,0 +1,7 @@
+# Mayo's Route list - Streaming.list
+# Last update: APR 11, 2025 10:20
+# Update by code-shiromi
+
+DOMAIN,a.rtmp.youtube.com
+DOMAIN,b.rtmp.youtube.com
+DOMAIN-SUFFIX,rtmp.youtube.com
