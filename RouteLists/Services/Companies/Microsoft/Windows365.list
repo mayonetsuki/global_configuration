@@ -1,0 +1,20 @@
+# Mayo's Route list - Windows365.list
+# Last update: APR 12, 2025 16:33
+# Update by code-shiromi
+
+DOMAIN,windows365.com
+DOMAIN,windows365.microsoft.com
+# # Azure Virtual Desktop (AVD) Core Dependencies (Global)
+DOMAIN-SUFFIX,wvd.azure.us
+DOMAIN-SUFFIX,wvd.azure.cn
+DOMAIN-SUFFIX,wvd.microsoft.com
+DOMAIN-SUFFIX,servicebus.windows.net
+# # Microsoft Intune Dependencies (Global)
+DOMAIN-SUFFIX,manage.microsoft.us
+DOMAIN-SUFFIX,manage.microsoft.com
+DOMAIN-SUFFIX,intune.microsoft.com
+# # KMS
+DOMAIN,azkms.core.windows.net
+DOMAIN,kms.core.windows.net
+DOMAIN,azkms.core.usgovcloudapi.net
+DOMAIN,azkms.core.chinacloudapi.cn

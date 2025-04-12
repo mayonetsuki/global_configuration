@@ -1,0 +1,26 @@
+# Mayo's Route list - Teams&Skype.list
+# Last update: APR 12, 2025 15:59
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,teams.cdn.office.net
+DOMAIN-SUFFIX,keydelivery.mediaservices.windows.net
+DOMAIN-SUFFIX,streaming.mediaservices.windows.net
+DOMAIN-SUFFIX,users.storage.live.com
+DOMAIN-SUFFIX,adl.windows.com
+DOMAIN-SUFFIX,join.secure.skypeassets.com
+DOMAIN-SUFFIX,mlccdnprod.azureedge.net
+DOMAIN-SUFFIX,compass-ssl.microsoft.com
+DOMAIN-SUFFIX,mstea.ms
+DOMAIN-SUFFIX,lync.com
+DOMAIN-SUFFIX,teams.office.com
+DOMAIN-SUFFIX,teams.cloud.microsoft
+DOMAIN-SUFFIX,teams.microsoft.com
+DOMAIN-SUFFIX,teams.microsoft.us
+DOMAIN-SUFFIX,skype.com
+DOMAIN-SUFFIX,skypeassets.com
+DOMAIN-SUFFIX,skypeforbusiness.com
+DOMAIN-SUFFIX,sfbassets.com
+IP-CIDR,52.112.0.0/14
+IP-CIDR,52.122.0.0/15
+IP-CIDR,52.238.119.141/32
+IP-CIDR,52.244.160.207/32

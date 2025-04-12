@@ -1,0 +1,85 @@
+# Mayo's Route list - Microsoft365&Office365.list
+# Last update: APR 12, 2025 16:42
+# Update by code-shiromi
+
+# # SharePoint Online / OneDrive Web Access (Global)
+DOMAIN-SUFFIX,api.live.net
+DOMAIN-SUFFIX,apis.live.net
+DOMAIN-SUFFIX,docs.live.net
+DOMAIN-SUFFIX,policies.live.net
+DOMAIN-SUFFIX,settings.live.net
+DOMAIN-SUFFIX,skyapi.live.net
+DOMAIN-SUFFIX,snapi.live.net
+DOMAIN-SUFFIX,hip.live.com
+DOMAIN-SUFFIX,ajax.aspnetcdn.com
+DOMAIN-SUFFIX,oaspapps.com
+DOMAIN-SUFFIX,msocdn.com
+DOMAIN-SUFFIX,microsoftusercontent.com
+DOMAIN,officespeech.platform.bing.com
+DOMAIN,officepreviewredir.microsoft.com
+DOMAIN-SUFFIX,officeredir.microsoft.com
+DOMAIN-SUFFIX,staffhub.ms
+DOMAIN-SUFFIX,o365weve.com
+DOMAIN,appsforoffice.microsoft.com
+DOMAIN-SUFFIX,renovacionoffice.com
+# # Bing Services
+DOMAIN-SUFFIX,bingads.com
+DOMAIN-SUFFIX,ads.microsoft.com
+DOMAIN-SUFFIX,clarity.microsoft.com
+# # Power Platform
+DOMAIN-SUFFIX,azure-apim.net
+DOMAIN-SUFFIX,flow.microsoft.com
+DOMAIN-SUFFIX,powerapps.com
+DOMAIN-SUFFIX,powerautomate.com
+DOMAIN-SUFFIX,powerplatform.com
+DOMAIN-SUFFIX,powerplatformusercontent.com
+DOMAIN-SUFFIX,powerplatform.microsoft.com
+# # Dynamics 365 (Global & Regional)
+DOMAIN-SUFFIX,microsoftdynamics.com
+DOMAIN-SUFFIX,microsoftdynamics.us
+DOMAIN-SUFFIX,appsplatform.us
+DOMAIN-SUFFIX,dynamics.com
+DOMAIN-SUFFIX,dynamics.cn
+DOMAIN-SUFFIX,d365ccafpi.com
+# # Office Web Apps (Word, Excel, PowerPoint Online - Global)
+DOMAIN-SUFFIX,wunderlist.com
+DOMAIN-SUFFIX,officeapps.live.com
+DOMAIN-SUFFIX,office.live.com
+DOMAIN-SUFFIX,powerbi.com
+DOMAIN-SUFFIX,powerbi.microsoft.com
+DOMAIN-SUFFIX,onenote.com
+DOMAIN-SUFFIX,onenote.net
+DOMAIN-SUFFIX,yammer.com
+DOMAIN-SUFFIX,assets-yammer.com
+DOMAIN-SUFFIX,yammerusercontent.com
+DOMAIN-SUFFIX,sway.com
+DOMAIN-SUFFIX,sway.office.com
+DOMAIN-SUFFIX,sway.cloud.microsoft
+DOMAIN-SUFFIX,sway-cdn.com
+DOMAIN-SUFFIX,sway-extensions.com
+IP-CIDR,13.107.6.171/32
+IP-CIDR,13.107.18.15/32
+IP-CIDR,13.107.140.6/32
+IP-CIDR,52.108.0.0/14
+IP-CIDR,52.244.37.168/32
+# # General
+DOMAIN-SUFFIX,usercontent.microsoft
+DOMAIN-SUFFIX,partner.microsoft.com
+DOMAIN-SUFFIX,office.microsoft.com
+DOMAIN-SUFFIX,onmicrosoft.com
+DOMAIN-SUFFIX,microsoftonline-p.com
+DOMAIN-SUFFIX,microsoftonline.com
+DOMAIN-SUFFIX,microsoftonline.cn
+DOMAIN-SUFFIX,microsoftonline.us
+DOMAIN-SUFFIX,microsoft365.com
+DOMAIN-SUFFIX,office365love.com
+DOMAIN-SUFFIX,office365tw.com
+DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,office365.us
+DOMAIN-SUFFIX,office365.cn
+DOMAIN-SUFFIX,officeppe.net
+DOMAIN-SUFFIX,office.net
+DOMAIN-SUFFIX,office.com
+DOMAIN-SUFFIX,cloud.microsoft
+IP-CIDR,52.96.0.0/14
+IP-CIDR,13.107.128.0/22

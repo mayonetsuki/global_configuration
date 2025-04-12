@@ -1,0 +1,10 @@
+# Mayo's Route list - Geolocate.list
+# Last update: APR 12, 2025 16:49
+# Update by code-shiromi
+
+# # Time Synchronization
+DOMAIN,time.windows.com
+# # Maps (Bing Maps / Azure Maps) & Location Services
+DOMAIN,inference.location.live.net
+DOMAIN,ditu.live.com
+DOMAIN-SUFFIX,virtualearth.net

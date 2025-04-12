@@ -1,0 +1,15 @@
+# Mayo's Route list - Telemetry.list
+# Last update: APR 12, 2025 13:15
+# Update by code-shiromi
+
+DOMAIN,vortex.data.microsoft.com
+DOMAIN,vortex-win.data.microsoft.com
+DOMAIN,settings-win.data.microsoft.com
+DOMAIN-SUFFIX,telemetry.microsoft.com
+DOMAIN-SUFFIX,bizographics.com
+# # Other Potential Trackers/Ad-related
+DOMAIN,activity.windows.com
+DOMAIN,logcollection.mmd.microsoft.com
+DOMAIN-SUFFIX,diagnostics.office.com
+DOMAIN-SUFFIX,events.data.microsoft.com
+DOMAIN-SUFFIX,pipe.aria.microsoft.com

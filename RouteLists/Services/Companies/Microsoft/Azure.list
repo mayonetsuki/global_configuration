@@ -1,0 +1,33 @@
+# Mayo's Route list - Azure.list
+# Last update: APR 12, 2025 16:39
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,oms.opinsights.azure.com
+# # Azure Storage (Blob, Table, Queue, File)
+DOMAIN-SUFFIX,blob.core.windows.net
+DOMAIN-SUFFIX,blob.core.usgovcloudapi.net
+DOMAIN-SUFFIX,blob.core.chinacloudapi.cn
+DOMAIN-SUFFIX,table.core.windows.net
+DOMAIN-SUFFIX,queue.core.windows.net
+DOMAIN-SUFFIX,file.core.windows.net
+# # Azure Databases
+DOMAIN-SUFFIX,database.windows.net
+DOMAIN-SUFFIX,redis.cache.windows.net
+# # Azure App Services / Compute / Networking
+DOMAIN-SUFFIX,azurewebsites.net
+DOMAIN-SUFFIX,azure-api.net
+DOMAIN-SUFFIX,azure-mobile.net
+DOMAIN-SUFFIX,cloudapp.net
+DOMAIN-SUFFIX,cloudapp.azure.com
+DOMAIN-SUFFIX,trafficmanager.net
+DOMAIN-SUFFIX,microsoftazure.us
+DOMAIN-SUFFIX,azure.microsoft.com
+DOMAIN-SUFFIX,azure.com
+DOMAIN-SUFFIX,azure.net
+DOMAIN-SUFFIX,azure.cn
+DOMAIN-SUFFIX,azure.us
+# 13.64.0.0/11
+# 20.33.0.0/12
+# 40.64.0.0/10
+# 52.128.0.0/11

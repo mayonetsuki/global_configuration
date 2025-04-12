@@ -1,0 +1,59 @@
+# Mayo's Route list - Microsoft.list
+# Last update: APR 12, 2025 16:53
+# Update by code-shiromi
+
+# # Bing Search & Services
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN-SUFFIX,bing.jp
+DOMAIN-SUFFIX,bing.com.cn
+DOMAIN-SUFFIX,msn.com
+DOMAIN-SUFFIX,msn.jp
+DOMAIN-SUFFIX,msn.co.jp
+DOMAIN-SUFFIX,msn.cn
+DOMAIN,bj1.api.bing.com
+DOMAIN,emoi-cncdn.bing.com
+DOMAIN-SUFFIX,bingagencyawards.com
+DOMAIN-SUFFIX,bingapistatistics.com
+DOMAIN-SUFFIX,bingsandbox.com
+DOMAIN-SUFFIX,bingvisualsearch.com
+DOMAIN-SUFFIX,bingworld.com
+# # Education
+DOMAIN-SUFFIX,docs.com
+DOMAIN-SUFFIX,docs.microsoft.com
+DOMAIN-SUFFIX,msdn.microsoft.com
+DOMAIN-SUFFIX,technet.microsoft.com
+DOMAIN-SUFFIX,learn.microsoft.com
+# # Other / Legacy / Misc
+DOMAIN-SUFFIX,microsoftsupport.com
+DOMAIN-SUFFIX,microsoftstore.com
+DOMAIN-SUFFIX,microsoft-give.com
+DOMAIN-SUFFIX,msappproxy.net
+DOMAIN-SUFFIX,msedge.net
+DOMAIN-SUFFIX,edgesuite.net
+DOMAIN-SUFFIX,flipwithsurface.com
+DOMAIN-SUFFIX,microsoftlatamholiday.com
+DOMAIN-SUFFIX,microsoftdiplomados.com
+DOMAIN-SUFFIX,masalladeloslimites.com
+DOMAIN-SUFFIX,getmicrosoftkey.com
+DOMAIN-SUFFIX,mesh.com
+DOMAIN-SUFFIX,dictate.ms
+DOMAIN-SUFFIX,sprinklesapp.com
+DOMAIN-SUFFIX,microsoftazuread-sso.com
+DOMAIN-SUFFIX,windowsazure.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,microsoft-tst.com
+DOMAIN-SUFFIX,windows-ppe.net
+# # Final
+DOMAIN-SUFFIX,aka.ms
+DOMAIN-SUFFIX,sfx.ms
+DOMAIN-SUFFIX,svc.ms
+DOMAIN-SUFFIX,msft.net
+DOMAIN-SUFFIX,live.com
+DOMAIN-SUFFIX,live.net
+DOMAIN-SUFFIX,windows.com
+DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,microsoft
+# DOMAIN-KEYWORD,microsoft
+IP-CIDR,20.202.0.0/16

@@ -1,0 +1,27 @@
+# Mayo's Route list - AI.list
+# Last update: APR 12, 2025 16:29
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,cognitiveservices.azure.com
+DOMAIN-SUFFIX,api.cognitive.microsoft.us
+DOMAIN-SUFFIX,api.cognitive.azure.cn
+DOMAIN-SUFFIX,cognitiveservices.azure.us
+DOMAIN-SUFFIX,cognitiveservices.azure.cn
+DOMAIN-SUFFIX,stt.speech.azure.us
+DOMAIN-SUFFIX,stt.speech.azure.cn
+DOMAIN,portal.customtranslator.azure.us
+# # Azure Machine Learning (AML - Global)
+DOMAIN-SUFFIX,inference.ml.azure.com
+DOMAIN-SUFFIX,azureml.ms
+# # Common AI Dependencies (Global)
+DOMAIN-SUFFIX,search.windows.net
+# # Microsoft Copilot (M365 Integration - Global)
+DOMAIN-SUFFIX,copilot.microsoft.com
+DOMAIN-SUFFIX,bingapis.com
+DOMAIN,m365copilot.com
+DOMAIN,copilot.cloud.microsoft
+DOMAIN,copilotstudio.microsoft.com
+DOMAIN-SUFFIX,msunlimitedcloudsummit.com
+DOMAIN-SUFFIX,microsoftcloudsummit.com
+DOMAIN,edgeservices.bing.com
+DOMAIN-SUFFIX,cortana.ai

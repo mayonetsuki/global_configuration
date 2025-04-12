@@ -1,0 +1,12 @@
+# Mayo's Route list - GitHub.list
+# Last update: APR 12, 2025 16:36
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,devcenter.microsoft.com
+DOMAIN-SUFFIX,visualstudio.com
+DOMAIN-SUFFIX,vsassets.io
+DOMAIN-SUFFIX,dev.azure.com
+DOMAIN,vstsagentpackage.azureedge.net
+DOMAIN-SUFFIX,nuget.org
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com

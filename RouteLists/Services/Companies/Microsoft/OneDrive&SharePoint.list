@@ -1,0 +1,40 @@
+# Mayo's Route list - OneDrive&SharePoint.list
+# Last update: APR 12, 2025 16:02
+# Update by code-shiromi
+
+DOMAIN,vas.samsungapps.com
+DOMAIN,spoprod-a.akamaihd.net
+DOMAIN,posarprodcssservice.accesscontrol.windows.net
+DOMAIN,redemptionservices.accesscontrol.windows.net
+DOMAIN,token.cp.microsoft.com
+DOMAIN,tokensit.cp.microsoft-tst.com
+DOMAIN-SUFFIX,groups.office.live.com
+DOMAIN-SUFFIX,favorites.live.com
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,photos.live.com
+DOMAIN-SUFFIX,skydrive.live.com
+DOMAIN,odc.officeapps.live.com
+DOMAIN-SUFFIX,livefilestore.com
+DOMAIN-SUFFIX,sharepoint.com
+DOMAIN-SUFFIX,sharepointonline.com
+DOMAIN-SUFFIX,ssw.live.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN-SUFFIX,storage.msn.com
+DOMAIN-SUFFIX,wns.windows.com
+DOMAIN-SUFFIX,officeclient.microsoft.com
+DOMAIN-SUFFIX,office15client.microsoft.com
+DOMAIN-SUFFIX,production.apac.trafficmanager.net
+DOMAIN-SUFFIX,production.emea.trafficmanager.net
+DOMAIN-SUFFIX,production.us.trafficmanager.net
+DOMAIN,g.live.com
+DOMAIN,oneclient.sfx.ms
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,onedrive.office.com
+DOMAIN-SUFFIX,onedrive.cloud.microsoft
+DOMAIN,p.sfx.ms
+IP-CIDR,13.107.136.0/22
+IP-CIDR,40.108.128.0/17
+IP-CIDR,52.104.0.0/14
+IP-CIDR,104.146.128.0/17
+IP-CIDR,150.171.40.0/22
