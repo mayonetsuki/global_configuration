@@ -1,0 +1,30 @@
+# Mayo's Route list - MicrosoftContents.list
+# Last update: APR 12, 2025 12:54
+# Update by code-shiromi
+
+# # Windows Update & Delivery Optimization
+DOMAIN-SUFFIX,update.microsoft.com
+DOMAIN-SUFFIX,ntservicepack.microsoft.com
+DOMAIN,wustat.windows.com
+DOMAIN-SUFFIX,do.dsp.mp.microsoft.com
+DOMAIN-SUFFIX,dl.delivery.mp.microsoft.com
+DOMAIN-SUFFIX,emdl.ws.microsoft.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.microsoft.com
+DOMAIN-SUFFIX,delivery.mp.microsoft.com
+IP-CIDR,13.107.4.50/29
+IP-CIDR,72.247.178.148/29
+# # Microsoft Store
+DOMAIN,storeedgefd.dsx.mp.microsoft.com
+DOMAIN,purchase.mp.microsoft.com
+DOMAIN-SUFFIX,onestore.ms
+# # Office Click-to-Run (C2R) Updates
+DOMAIN,officecdn.microsoft.com
+DOMAIN,officecdn.microsoft.com.edgesuite.net
+DOMAIN,officecdn-microsoft-com.akamaized.net
+DOMAIN-SUFFIX,otelrules.azureedge.net
+DOMAIN,nexusrules.officeapps.live.com
+# # Software Distribution (Large downloads like VS, SQL etc.)
+DOMAIN,download.microsoft.com
+DOMAIN,download.visualstudio.microsoft.com
+DOMAIN-SUFFIX,vo.msecnd.net
