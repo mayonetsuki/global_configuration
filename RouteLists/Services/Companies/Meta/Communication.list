@@ -1,0 +1,37 @@
+# Mayo's Route list - Communication.list
+# Last update: APR 12, 2025 22:42
+# Update by code-shiromi
+
+# Chat & Messengers
+# # Messenger
+DOMAIN,edge-mqtt.facebook.com
+DOMAIN,mqtt.c10r.facebook.com
+DOMAIN,star.c10r.facebook.com
+DOMAIN,portal.fb.com
+DOMAIN-SUFFIX,m.me
+DOMAIN-SUFFIX,msngr.com
+DOMAIN-SUFFIX,messenger.com
+# # WhatsApp
+DOMAIN-SUFFIX,wa.me
+DOMAIN-SUFFIX,whatsapp.net
+DOMAIN-SUFFIX,whatsapp.com
+
+# Social Media
+# # Threads
+DOMAIN-SUFFIX,threads.net
+# # Instagram
+DOMAIN-SUFFIX,igcdn.com
+DOMAIN-SUFFIX,cdninstagram.com
+DOMAIN-SUFFIX,igtv.com
+DOMAIN-SUFFIX,igsonar.com
+DOMAIN-SUFFIX,ig.me
+DOMAIN-SUFFIX,instagr.am
+DOMAIN-SUFFIX,instagram.com
+# # Facebook
+DOMAIN-SUFFIX,fbcdn.net
+DOMAIN-SUFFIX,fbsbx.com
+DOMAIN-SUFFIX,tfbnw.net
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fb.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,facebook.net
