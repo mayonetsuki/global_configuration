@@ -11,6 +11,8 @@ DOMAIN-SUFFIX,labs.google
 # # Developer
 DOMAIN-SUFFIX,ai.google.dev
 DOMAIN-SUFFIX,aistudio.google.com
-
+# # Firebase Studio
+DOMAIN-SUFFIX,firebase.studio
+DOMAIN-SUFFIX,studio.firebase.google.com
 # # Gemini
 DOMAIN-SUFFIX,gemini.google.com
