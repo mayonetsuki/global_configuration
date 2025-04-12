@@ -1,5 +1,5 @@
 # Mayo's Route list - Communication.list
-# Last update: APR 11, 2025 09:48
+# Last update: APR 12, 2025 09:23
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,telephony.goog
@@ -18,3 +18,5 @@ DOMAIN,alt9-mtalk.google.com
 DOMAIN-SUFFIX,meet.google.com
 DOMAIN-SUFFIX,chat.google.com
 DOMAIN-SUFFIX,messages.google.com
+# # Google Fi
+DOMAIN-SUFFIX,fi.google.com
