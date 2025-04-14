@@ -1,5 +1,5 @@
 # Mayo's Route list - Google.list
-# Last update: APR 11, 2025 10:18
+# Last update: APR 14, 2025 15:15
 # Update by code-shiromi
 
 # Internal
@@ -211,8 +211,8 @@ DOMAIN-SUFFIX,google.com.uy
 DOMAIN-SUFFIX,google.com.vc
 DOMAIN-SUFFIX,google.com.vn
 DOMAIN-SUFFIX,google.com
-DOMAIN-KEYWORD,gstatic
-DOMAIN-KEYWORD,www.google
+# DOMAIN-KEYWORD,gstatic
+# DOMAIN-KEYWORD,www.google
 IP-CIDR,8.34.208.0/20
 IP-CIDR,8.35.192.0/20
 IP-CIDR,23.236.48.0/20
