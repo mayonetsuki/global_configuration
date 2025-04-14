@@ -1,0 +1,40 @@
+# Mayo's Route list - Starlink.list
+# Last update: APR 14, 2025 14:15
+# Update by code-shiromi
+
+# # Core Platform & User Access
+DOMAIN,starlink.com
+# # # ASN: AS14593 (Space Exploration Technologies Corporation) (Representative Blocks)
+# # # Primary ASNs: AS14593 (Global), AS397763 (US IPv6)
+# # # Default User IPs: CGNAT 100.64.0.0/10 (Not listed as destination)
+# # # Public IPs assigned dynamically from ASN ranges below
+IP-CIDR,129.222.0.0/16
+IP-CIDR,145.224.0.0/16
+IP-CIDR,169.155.0.0/16
+IP-CIDR,149.19.108.0/23
+IP-CIDR,102.215.56.0/22
+IP-CIDR,103.152.126.0/23
+IP-CIDR,103.235.92.0/22
+IP-CIDR,116.91.208.0/20
+IP-CIDR,216.128.31.0/24
+IP-CIDR,87.251.31.0/24
+# # # IPv6 (Representative Blocks)
+# 2406:2d40::/32
+# 2605:59c0::/32
+# 2605:59c1::/32
+# 2605:59c2::/31
+# 2605:59c4::/31
+# 2605:59c6::/32
+# 2605:59c7::/32
+# # # ASN: AS397763 (IPv6 Only?)
+# 2605:59c0:200::/39
+# 2605:59c0:800::/37
+# 2605:59c0:1800::/37
+# 2605:59c0:2800::/37
+# 2605:59c0:3800::/37
+# 2605:59c0:4800::/37
+# 2605:59c0:7000::/36
+# 2605:59c0:8000::/33
+# # Dish/Terminal Communication
+# # # Uses Ku/Ka/E-band and OFDM, not standard HTTP/IP to public domains for core link.
+# # # Local dish access typically via 192.168.100.1 or Starlink App.

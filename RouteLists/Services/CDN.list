@@ -1,0 +1,12 @@
+
+#CDN.list
+
+DOMAIN-SUFFIX,akamaiedge.net
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,cloudinary.com
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudflare.net
+DOMAIN-SUFFIX,edgecastcdn.net
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,qualtrics.com
+DOMAIN-SUFFIX,usgovtrafficmanager.net

@@ -1,0 +1,36 @@
+# Mayo's Route list - Meta.list
+# Last update: APR 12, 2025 14:18
+# Update by code-shiromi
+
+# # Core Platform & User Access
+DOMAIN-SUFFIX,t.co
+DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,pscp.tv
+DOMAIN-SUFFIX,periscope.tv
+DOMAIN-SUFFIX,twitteroauth.com
+DOMAIN-SUFFIX,twitpic.com
+DOMAIN-SUFFIX,tweetdeck.com
+DOMAIN-SUFFIX,twitterinc.com
+DOMAIN-SUFFIX,twitterstat.us
+DOMAIN-SUFFIX,twtrdns.net
+DOMAIN-SUFFIX,twitter.co
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,x.com
+# # # ASN: AS13414 (Twitter Inc)
+IP-CIDR,69.195.160.0/19
+IP-CIDR,104.244.40.0/21
+IP-CIDR,199.16.156.0/22
+IP-CIDR,199.59.148.0/22
+IP-CIDR,192.133.76.0/22
+IP-CIDR,64.63.0.0/18
+IP-CIDR,209.237.192.0/19
+IP-CIDR,199.96.56.0/21
+IP-CIDR,188.64.224.0/21
+IP-CIDR,103.252.112.0/22
+IP-CIDR,202.160.128.0/22
+IP-CIDR,8.25.194.0/23
+IP-CIDR,8.25.196.0/23
+# # # IPv6
+# 2606:1f80::/32
+# 2400:6680:f000::/36
+# 2a04:9d40:f000::/36
