@@ -1,0 +1,18 @@
+# Mayo's Route list - YahooMail.list
+# Last update: APR 12, 2025 15:33
+# Update by code-shiromi
+
+DOMAIN,mail.am0.yahoodns.net
+DOMAIN,mta1.am0.yahoodns.net
+DOMAIN,mta2.am0.yahoodns.net
+DOMAIN,mta3.am0.yahoodns.net
+DOMAIN,mta4.am0.yahoodns.net
+DOMAIN,mta5.am0.yahoodns.net
+DOMAIN,mta6.am0.yahoodns.net
+DOMAIN,mta7.am0.yahoodns.net
+DOMAIN,pop.aol.com
+DOMAIN,imap.aol.com
+DOMAIN,smtp.aol.com
+DOMAIN-SUFFIX,mail.aol.com
+DOMAIN-SUFFIX,mail.yahoo.com
+DOMAIN-SUFFIX,ymail.com
