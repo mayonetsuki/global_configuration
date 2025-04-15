@@ -1,5 +1,5 @@
 # Mayo's Route list - MicrosoftCDN.list
-# Last update: APR 12, 2025 16:52
+# Last update: APR 16, 2025 00:23
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,azure-dns.com
@@ -12,7 +12,7 @@ DOMAIN-SUFFIX,azurefd.net
 DOMAIN-SUFFIX,azurecr.io
 DOMAIN-SUFFIX,mp.microsoft.com
 DOMAIN-SUFFIX,static.microsoft
-DOMAIN-SUFFIX,msecnd.ne
+DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,llnwd.net
 DOMAIN-SUFFIX,gfx.ms
 DOMAIN-SUFFIX,aspnetcdn.com
