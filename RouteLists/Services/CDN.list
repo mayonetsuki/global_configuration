@@ -1,6 +1,8 @@
 
 #CDN.list
 
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudinary.com
@@ -10,3 +12,5 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,usgovtrafficmanager.net
+DOMAIN-SUFFIX,llnwd.net # Edgio (formerly Limelight) CDN [4, 5]
+DOMAIN-SUFFIX,footprint.net # Lumen (formerly CenturyLink) CDN [5, 61]

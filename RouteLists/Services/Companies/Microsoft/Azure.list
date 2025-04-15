@@ -1,8 +1,7 @@
 # Mayo's Route list - Azure.list
-# Last update: APR 12, 2025 16:39
+# Last update: APR 16, 2025 00:30
 # Update by code-shiromi
 
-DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,oms.opinsights.azure.com
 # # Azure Storage (Blob, Table, Queue, File)
 DOMAIN-SUFFIX,blob.core.windows.net
