@@ -1,5 +1,5 @@
 # Mayo's Route list - Organization.list
-# Last update: APR 15, 2025 21:27
+# Last update: APR 15, 2025 21:28
 # Update by code-shiromi
 
 # # Analyze & Marketing
@@ -7,7 +7,6 @@ DOMAIN,doubleclick.net
 DOMAIN-SUFFIX,marketingplatform.google.com
 DOMAIN,admob.com
 DOMAIN-SUFFIX,admob.google.com
-DOMAIN-SUFFIX,googlesyndication.com
 DOMAIN-SUFFIX,pagead-googlehosted.l.google.com
 DOMAIN-SUFFIX,adservice.google.com
 # # AdSense for Search/Shopping/ProSE
