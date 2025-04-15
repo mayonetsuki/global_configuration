@@ -1,9 +1,10 @@
 # Mayo's Route list - Yahoo.list
-# Last update: APR 12, 2025 15:49
+# Last update: APR 15, 2025 20:41
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,oath.com
 DOMAIN-SUFFIX,js7k.com
+DOMAIN-SUFFIX,flurry.com
 DOMAIN-SUFFIX,verizonmedia.com
 DOMAIN-SUFFIX,aolcdn.com
 DOMAIN-SUFFIX,aol.com
