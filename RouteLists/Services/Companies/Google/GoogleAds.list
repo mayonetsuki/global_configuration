@@ -1,14 +1,13 @@
 # Mayo's Route list - GoogleAds.list
-# Last update: APR 11, 2025 08:57
+# Last update: APR 15, 2025 21:26
 # Update by code-shiromi
 
 # # DoubleClick
 DOMAIN-SUFFIX,2mdn.net
-DOMAIN-SUFFIX,doubleclick.net
-DOMAIN-SUFFIX,ad.doubleclick.net
-DOMAIN-SUFFIX,googleads.g.doubleclick.net
+DOMAIN-SUFFIX,.doubleclick.net
 # # Client Analyze
 DOMAIN-SUFFIX,googleanalytics.com
+DOMAIN-SUFFIX,googleadservices.com
 DOMAIN-SUFFIX,google-analytics.com
 DOMAIN-SUFFIX,ssl-google-analytics.l.google.com
 DOMAIN-SUFFIX,googletagmanager.com
