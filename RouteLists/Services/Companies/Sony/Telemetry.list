@@ -1,5 +1,5 @@
 # Mayo's Route list - Telemetry.list
-# Last update: APR 16, 2025 21:48
+# Last update: APR 16, 2025 22:23
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,sonybivstatic-a.akamaihd.net
@@ -9,6 +9,9 @@ DOMAIN,reg.biv.sony.tv
 DOMAIN,service.biv.sony.tv
 DOMAIN,call.me.sel.sony.com
 DOMAIN-SUFFIX,productregistration.sony.com
-DOMAIN,telemetry-console.api.playstation.com # Identified PSN telemetry
-DOMAIN-SUFFIX,bda.ndmdhs.com # Sony TV telemetry/config
-DOMAIN-SUFFIX,ndmdhs.com # Broader domain potentially related to device health/telemetry
+# Identified PSN telemetry
+DOMAIN,telemetry-console.api.playstation.com
+# Sony TV telemetry/config
+DOMAIN-SUFFIX,bda.ndmdhs.com
+# Broader domain potentially related to device health/telemetry
+DOMAIN-SUFFIX,ndmdhs.com
