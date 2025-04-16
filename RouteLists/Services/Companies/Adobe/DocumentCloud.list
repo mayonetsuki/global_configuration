@@ -1,0 +1,40 @@
+# Mayo's Route list - DocumentCloud.list
+# Last update: APR 17, 2025 06:59
+# Update by code-shiromi
+
+DOMAIN,crl.adobe.com
+DOMAIN,trustlist.adobe.com
+DOMAIN,cscservice.adobe.com
+DOMAIN,adobesearch.adobe.io
+DOMAIN,adobesearch-sec-uss.adobe.io
+DOMAIN,uss-content-search.adobe.io
+DOMAIN,pps.adobe.io
+DOMAIN,upload2.files.acrobat.com
+DOMAIN,dc-api.adobe.io
+DOMAIN,dc-api-v2.adobe.io
+DOMAIN,dc-api.adobecontent.io
+DOMAIN,dc-api-v2.adobecontent.io
+DOMAIN,dcdiscovery.adobe.io
+DOMAIN,dcsharedworkflow.adobe.io
+DOMAIN,msteamsintegration.adobe.io
+DOMAIN,reviews.adobe.io
+DOMAIN,comments.adobe.io
+DOMAIN,acroipm2.adobe.com
+DOMAIN,pps.services.adobe.com
+DOMAIN,documentcloud.adobe.com
+DOMAIN,acrobat.adobe.com
+DOMAIN-SUFFIX,acrocomcontent.com
+DOMAIN-SUFFIX,acrobat.com
+# # Adobe Sign (EchoSign)
+DOMAIN,api.echosign.com
+DOMAIN,gps.echosign.com
+DOMAIN-SUFFIX,echocdnsandbox.com
+DOMAIN-SUFFIX,echosignsandbox.com
+DOMAIN-SUFFIX,echocdn.com
+DOMAIN-SUFFIX,echosign.com
+DOMAIN-SUFFIX,adobesignsandboxcdn.com
+DOMAIN-SUFFIX,adobesignsandbox.com
+DOMAIN-SUFFIX,adobesigncdn.com
+DOMAIN-SUFFIX,adobesign.com
+DOMAIN-SUFFIX,documentssandbox.adobe.com
+DOMAIN-SUFFIX,documents.adobe.com

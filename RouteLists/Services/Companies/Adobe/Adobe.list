@@ -1,0 +1,41 @@
+# Mayo's Route list - Adobe.list
+# Last update: APR 17, 2025 07:01
+# Update by code-shiromi
+
+# Experience League
+DOMAIN-SUFFIX,experienceleague.adobe.com
+
+# Final
+DOMAIN,d32a1iuc7x840y.cloudfront.net
+DOMAIN,d3gnp5fs6fu2h7.cloudfront.net
+DOMAIN,dnzuu5synxxfk.cloudfront.net
+DOMAIN,aauicdnva7.azureedge.net
+DOMAIN,aaui-879784980514.s3.us-east-2.amazonaws.com
+DOMAIN,awaascicdprodva7.blob.core.windows.net
+DOMAIN-SUFFIX,macromedia.com
+DOMAIN-SUFFIX,adobe-services.com
+DOMAIN-SUFFIX,adobegenuine.com
+DOMAIN-SUFFIX,adobedtm.com
+DOMAIN-SUFFIX,adobedtm.com.edgekey.net
+DOMAIN-SUFFIX,adobess.com
+DOMAIN-SUFFIX,adobesc.com
+DOMAIN-SUFFIX,adobecc.com
+DOMAIN-SUFFIX,adobecces.com
+DOMAIN-SUFFIX,adobeccstatic.com
+DOMAIN-SUFFIX,adobedc.net
+DOMAIN-SUFFIX,adobetag.com
+DOMAIN-SUFFIX,adobegov.com
+DOMAIN-SUFFIX,adobeereg.com
+DOMAIN-SUFFIX,adobeexchange.com
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobe.net
+DOMAIN-SUFFIX,adobe.com
+# # AEM Root Domain Mapping IPs
+IP-CIDR,151.101.3.10/32
+IP-CIDR,151.101.67.10/32
+IP-CIDR,151.101.131.10/32
+IP-CIDR,151.101.195.10/32
+# # China CDN IPs
+# IP-CIDR,52.80.168.159/32
+# IP-CIDR,52.80.199.104/32
+# IP-CIDR,54.223.199.8/32

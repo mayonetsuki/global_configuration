@@ -1,0 +1,104 @@
+# Mayo's Route list - CreativeCloud.list
+# Last update: APR 17, 2025 07:01
+# Update by code-shiromi
+
+DOMAIN,presence-an1.adobe.io
+DOMAIN,presence-ew1.adobe.io
+DOMAIN,presence-ue1.adobe.io
+DOMAIN,cc-api-storage.adobe.io
+DOMAIN,cc-api-cp.adobe.io
+DOMAIN,cc-collab.adobe.io
+DOMAIN,cchome.adobe.io
+DOMAIN,byof.adobe.io
+DOMAIN,p13n.adobe.io
+DOMAIN,p13n-mr.adobe.io
+DOMAIN,psweb-cd.adobe.io
+DOMAIN,aps-web.adobe.io
+DOMAIN,assets-helper.adobe.io
+DOMAIN,pgc.adobe.io
+DOMAIN,ic.adobe.io
+DOMAIN,notify.adobe.io
+DOMAIN,libraries.adobe.io
+DOMAIN,comments.adobe.io
+DOMAIN,invitations.adobe.io
+DOMAIN,appregistry.adobe.io
+DOMAIN-SUFFIX,image.adobe.io
+DOMAIN-SUFFIX,photos.adobe.io
+DOMAIN-SUFFIX,spark.adobe.com
+DOMAIN-SUFFIX,photoshop.adobe.com
+DOMAIN-SUFFIX,illustrator.adobe.com
+DOMAIN-SUFFIX,indd.adobe.com
+DOMAIN,directstorage.adbephotos.com
+DOMAIN-SUFFIX,adbephotos.com
+DOMAIN-SUFFIX,adbecrsl.com
+DOMAIN-SUFFIX,lightroom.adobe.com
+DOMAIN-SUFFIX,xd.adobe.com
+DOMAIN-SUFFIX,xdce.adobe.io
+DOMAIN-SUFFIX,xd-cdn.adobecces.com
+# # Adobe Fonts (Typekit)
+DOMAIN,afwebcdn.fonts.adobe.com
+DOMAIN,assets.fonts.adobe.com
+DOMAIN-SUFFIX,edgefonts.net
+DOMAIN-SUFFIX,typekit.net
+DOMAIN-SUFFIX,typekit.com
+DOMAIN,fonts.adobe.com
+# # Adobe stock
+DOMAIN,stock.adobe.com
+DOMAIN-SUFFIX,astockcdn.net
+DOMAIN,cc-api-assets.adobe.io
+DOMAIN,stock.adobe.io
+DOMAIN,store1.adobe.com
+DOMAIN,store2.adobe.com
+DOMAIN,store3.adobe.com
+# # Behance
+DOMAIN-SUFFIX,prosite.com
+DOMAIN-SUFFIX,portfolio.adobe.com
+DOMAIN-SUFFIX,cc-api-behance.adobe.io
+DOMAIN-SUFFIX,behance.net
+# # Adobe Express
+DOMAIN,spark-content-publish.adobe.io
+DOMAIN,spark-design-variations-v2.adobe.io
+DOMAIN,express-brand-migration.adobe.io
+DOMAIN,hz-ccx-das.adobe.io
+DOMAIN,hz-telemetry.adobe.io
+DOMAIN,schedule.adobe.io
+DOMAIN,express-search.hz.adobe.com
+DOMAIN,cdn.schedule.adobe.com
+DOMAIN-SUFFIX,adobeprojectm.com
+DOMAIN-SUFFIX,video.tv.adobe.com
+DOMAIN-SUFFIX,images-tv.adobe.com
+DOMAIN-SUFFIX,express.adobe.com
+# # Express Third-Party Dependencies
+DOMAIN,static.thenounproject.com
+DOMAIN-SUFFIX,braze.com
+# # Content Authenticity Initiative
+DOMAIN,cai.adobe.io
+DOMAIN,cai-msb.adobe.io
+DOMAIN,cai-manifests.adobe.com
+DOMAIN,cai-settings.adobe.io
+DOMAIN,cai-identity.adobe.io
+DOMAIN,cai-splunk-proxy.adobe.io
+DOMAIN-SUFFIX,policy.adobe.io
+# # Adobe Podcast
+DOMAIN,phonos-recordings-production.s3-accelerate.amazonaws.com
+DOMAIN,phonos-recordings-production.s3.amazonaws.com
+DOMAIN-SUFFIX,phonos-server.adobe.io
+DOMAIN-SUFFIX,kinesisvideo.amazonaws.com
+DOMAIN-SUFFIX,podcast.adobe.com
+# # Creative Cloud - Specific Application Cloud Features
+DOMAIN,oz-prod-masters.s3.us-west-2.amazonaws.com
+DOMAIN,oz-prod-proxies.s3.us-west-2.amazonaws.com
+DOMAIN,prod.adobeccstatic.com
+DOMAIN,public.adobecc.com
+DOMAIN,cdn-sharing.adobecc.com
+DOMAIN,geo.adobe.com
+DOMAIN,geo2.adobe.com
+DOMAIN,prod.wam.adobe.com
+DOMAIN,ui.messaging.adobe.com
+DOMAIN,server.messaging.adobe.com
+DOMAIN,client.messaging.adobe.com
+DOMAIN,assets.adobe.com
+DOMAIN,assets-cdn.adobe.com
+DOMAIN,udps.adobe.com
+DOMAIN,utut-service.adobe.com
+DOMAIN-SUFFIX,creativecloud.adobe.com

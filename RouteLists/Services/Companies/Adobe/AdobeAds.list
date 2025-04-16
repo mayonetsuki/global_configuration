@@ -1,0 +1,11 @@
+# Mayo's Route list - AdobeAds.list
+# Last update: APR 17, 2025 06:54
+# Update by code-shiromi
+
+DOMAIN,sstats.adobe.com
+DOMAIN,hbrt.adobe.com
+DOMAIN-SUFFIX,data.adobedc.net
+DOMAIN-SUFFIX,demdex.net
+DOMAIN-SUFFIX,omtrdc.net
+DOMAIN-SUFFIX,112.2o7.net
+DOMAIN-SUFFIX,adobestats.io

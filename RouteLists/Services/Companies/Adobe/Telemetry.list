@@ -1,0 +1,14 @@
+# Mayo's Route list - Telemetry.list
+# Last update: APR 17, 2025 06:56
+# Update by code-shiromi
+
+DOMAIN,helpx.adobe.com
+DOMAIN,community.adobe.com
+DOMAIN,adminconsole.adobe.com # Also used for deployment/licensing
+# # Licensing & Activation
+DOMAIN,activate.adobe.com
+DOMAIN,licensing.adobe.com
+DOMAIN-SUFFIX,licenses.adobe.com
+# # Adobe Genuine Integrity Service
+DOMAIN,genuine.adobe.com
+DOMAIN,prod.adobegenuine.com

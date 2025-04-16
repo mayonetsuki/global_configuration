@@ -1,0 +1,18 @@
+# Mayo's Route list - AI.list
+# Last update: APR 17, 2025 06:58
+# Update by code-shiromi
+
+DOMAIN,dc-genai-access-provisioning-api.adobe.io
+DOMAIN,dc-genai-persistence.adobe.io
+DOMAIN,dc-genai-content-platform.adobe.io
+DOMAIN,mds-cdn.infra.adobesensei.io
+DOMAIN,senseimds.adobe.io
+DOMAIN-SUFFIX,senseicore.adobe.io
+DOMAIN-SUFFIX,sensei.adobe.io
+DOMAIN-SUFFIX,senseicore.adobe.io
+# # Adobe Firefly & Generative AI
+DOMAIN,pre-signed-firefly-prod.s3-accelerate.amazonaws.com
+DOMAIN,pre-signed-firefly-prod.s3.amazonaws.com
+DOMAIN,firefly.adobe.com
+DOMAIN,clio-assets.adobe.com
+DOMAIN,firefly-cliov2.adobe.com

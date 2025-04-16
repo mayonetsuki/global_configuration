@@ -1,0 +1,24 @@
+# Mayo's Route list - Security.list
+# Last update: APR 17, 2025 06:56
+# Update by code-shiromi
+
+DOMAIN,adobe-api.arkoselabs.com
+# # Adobe IMS & Login Services
+DOMAIN-SUFFIX,adobelogin.com
+DOMAIN-SUFFIX,adobe-identity.com
+DOMAIN-SUFFIX,services.adobe.com
+DOMAIN,ams.adobe.com
+DOMAIN-SUFFIX,adobejanus.com
+DOMAIN-SUFFIX,adobesunbreak.com
+DOMAIN,accounts.adobe.com
+DOMAIN-SUFFIX,account.adobe.com
+DOMAIN,federation-gateway.adobe.io
+DOMAIN,acc.adobeoobe.com
+DOMAIN,prod.acp.adobeoobe.com
+# # Adobe.io Identity/Entitlement Checks
+DOMAIN,lcs-cops.adobe.io
+DOMAIN,lcs-robs.adobe.io
+DOMAIN,lcs-entitlement.adobe.io
+DOMAIN,lcs-ulecs.adobe.io
+DOMAIN,supportanyware.adobe.io
+DOMAIN,uds.adobe-identity.com

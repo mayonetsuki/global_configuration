@@ -1,0 +1,19 @@
+# Mayo's Route list - Contents.list
+# Last update: APR 17, 2025 06:57
+# Update by code-shiromi
+
+DOMAIN,cc-ext-prod-pkgs.s3.amazonaws.com
+DOMAIN,tron-prod-customized-user-packages.s3.amazonaws.com
+DOMAIN,adobe-oobe-prod-data-store-ue1.s3.amazonaws.com
+DOMAIN,ccmdls.adobe.com
+DOMAIN,ccmdl.adobe.com
+DOMAIN,swupmf.adobe.com
+DOMAIN,swupdl.adobe.com
+DOMAIN,armmf.adobe.com
+DOMAIN,ardownload.adobe.com
+DOMAIN,ardownload2.adobe.com
+DOMAIN,ardownload3.adobe.com
+DOMAIN,armdl.adobe.com
+DOMAIN,agsupdate.adobe.com
+DOMAIN,productrouter.adobe.com
+DOMAIN-SUFFIX,oobesaas.adobe.com
