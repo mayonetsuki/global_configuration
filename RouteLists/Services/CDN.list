@@ -1,5 +1,5 @@
 # Mayo's Route list - CDN.list
-# Last update: APR 17, 2025 00:18
+# Last update: APR 17, 2025 03:38
 # Update by code-shiromi
 
 # Akamai CDN
@@ -29,3 +29,5 @@ DOMAIN-SUFFIX,llnwd.net
 
 # Lumen (formerly CenturyLink) CDN
 DOMAIN-SUFFIX,footprint.net
+
+DOMAIN-SUFFIX,ftcdn.net

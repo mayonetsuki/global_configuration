@@ -1,9 +1,8 @@
 # Mayo's Route list - security.list
-# Last update: APR 17, 2025 00:07
+# Last update: APR 17, 2025 06:30
 # Update by code-shiromi
 
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,thawte.com
 DOMAIN-SUFFIX,entrust.net
 DOMAIN-SUFFIX,identrust.com
 DOMAIN-SUFFIX,letsencrypt.org
@@ -15,6 +14,9 @@ DOMAIN-SUFFIX,omniroot.com
 # # GMO
 DOMAIN-SUFFIX,globalsign.com
 DOMAIN-SUFFIX,globalsign.net
+# # Symantec
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
 # # Digicert
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,geotrust.com
