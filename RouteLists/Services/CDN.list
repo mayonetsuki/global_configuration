@@ -1,5 +1,5 @@
 # Mayo's Route list - CDN.list
-# Last update: APR 17, 2025 00:03
+# Last update: APR 17, 2025 00:18
 # Update by code-shiromi
 
 # Akamai CDN
@@ -8,10 +8,12 @@ DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgesuite.net
 DOMAIN-SUFFIX,akamaiedge.net
-DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudinary.com
 
 # AWS
+# DOMAIN-SUFFIX,elb.amazonaws.com
+DOMAIN-SUFFIX,s3-accelerate.amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,awsglobalaccelerator.com
 
