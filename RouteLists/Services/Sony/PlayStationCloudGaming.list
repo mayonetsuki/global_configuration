@@ -1,0 +1,11 @@
+# Mayo's Route list - PlayStationCloudGaming.list
+# Last update: APR 16, 2025 21:55
+# Update by code-shiromi
+
+# # Cloud gaming
+DOMAIN-SUFFIX,gaikai.com
+DOMAIN-SUFFIX,cloud.playstation.com
+# # P2P & remoteplay
+DOMAIN,stun.playstation.net
+DOMAIN,turn.playstation.net
+DOMAIN-SUFFIX,remoteplay.dl.playstation.net

@@ -1,0 +1,17 @@
+# Mayo's Route list - Security.list
+# Last update: APR 16, 2025 21:50
+# Update by code-shiromi
+
+# # Sony Bank
+DOMAIN,o2o.moneykit.net
+# # PlayStation
+DOMAIN-SUFFIX,my.playstation.com
+DOMAIN-SUFFIX,accounts.api.playstation.com
+DOMAIN,accounts.idmapper.api.playstation.com
+DOMAIN,auth.api.sonyentertainmentnetwork.com
+# # Sony
+DOMAIN-SUFFIX,auth.sony.com
+DOMAIN-SUFFIX,login.sony.com
+DOMAIN-SUFFIX,account.sony.com
+DOMAIN-SUFFIX,accounts.sony.com
+DOMAIN-SUFFIX,idp.sony.com

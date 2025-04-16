@@ -1,0 +1,35 @@
+# Mayo's Route list - PlayStation.list
+# Last update: APR 16, 2025 21:55
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,playstation.net.edgekey88.net
+DOMAIN-SUFFIX,playstation.com.edgekey88.net
+DOMAIN-SUFFIX,api.playstation.com
+DOMAIN-SUFFIX,np.playstation.com
+# # Store
+DOMAIN,store.playstation.com
+DOMAIN,direct.playstation.com
+DOMAIN,status.playstation.com
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
+# # Studios
+DOMAIN-SUFFIX,naughtydog.com
+DOMAIN-SUFFIX,insomniac.games
+DOMAIN-SUFFIX,teamasobi.com
+DOMAIN-SUFFIX,bendstudio.com
+DOMAIN-SUFFIX,bluepointgames.com
+DOMAIN-SUFFIX,firesprite.com
+DOMAIN-SUFFIX,housemarque.com
+DOMAIN-SUFFIX,havenstudios.com
+DOMAIN-SUFFIX,mediamolecule.com
+DOMAIN-SUFFIX,nixxes.com
+DOMAIN-SUFFIX,polyphony.co.jp
+DOMAIN-SUFFIX,suckerpunch.com
+DOMAIN-SUFFIX,valkyrie-entertainment.com
+DOMAIN-SUFFIX,sonysandiegostudio.games
+DOMAIN-SUFFIX,sms.playstation.com
+# # Core
+DOMAIN,sie.sony.com
+DOMAIN-SUFFIX,sonyinteractive.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,playstation

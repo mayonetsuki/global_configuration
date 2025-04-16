@@ -1,0 +1,20 @@
+# Mayo's Route list - SonyMedia.list
+# Last update: APR 16, 2025 21:57
+# Update by code-shiromi
+
+# # Sony Music Entertainment
+DOMAIN-SUFFIX,aniplex.co.jp
+DOMAIN-SUFFIX,aniplexusa.com
+DOMAIN-SUFFIX,aniplex.com
+DOMAIN-SUFFIX,sonymusicfans.com
+DOMAIN-SUFFIX,sme.co.jp
+DOMAIN-SUFFIX,smg.sony.com
+DOMAIN-SUFFIX,sonymusicpub.com
+DOMAIN-SUFFIX,sonymusic.co.jp
+DOMAIN-SUFFIX,sonymusic.com
+# # Sony Pictures Entertainment
+DOMAIN-SUFFIX,sonyclassics.com
+DOMAIN-SUFFIX,sonypicturestelevision.com
+DOMAIN-SUFFIX,sonypicturesanimation.com
+DOMAIN-SUFFIX,sonypictures.com
+DOMAIN-SUFFIX,sonypictures.com.br
