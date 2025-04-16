@@ -3,4 +3,10 @@
 DOMAIN,api.demandbase.com
 DOMAIN-SUFFIX,everesttech.net
 
+DOMAIN-SUFFIX,nr-data.net
 DOMAIN-SUFFIX,cid.samba.tv
+
+
+# DOMAIN-SUFFIX,app.launchdarkly.com
+# DOMAIN-SUFFIX,aptrinsic.com
+# DOMAIN-SUFFIX,newrelic.com
