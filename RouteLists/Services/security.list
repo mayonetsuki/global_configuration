@@ -1,0 +1,37 @@
+# Mayo's Route list - security.list
+# Last update: APR 17, 2025 00:03
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+DOMAIN-SUFFIX,entrust.net
+DOMAIN-SUFFIX,identrust.com
+DOMAIN-SUFFIX,letsencrypt.org
+# # Verisign
+DOMAIN-SUFFIX,verisign.com
+DOMAIN-SUFFIX,verisign.net
+# # Verizon
+DOMAIN-SUFFIX,omniroot.com
+# # GMO
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsign.net
+# # Digicert
+DOMAIN-SUFFIX,digicert.com
+DOMAIN-SUFFIX,geotrust.com
+DOMAIN-SUFFIX,public-trust.com
+
+# Okta
+DOMAIN-SUFFIX,okta-featureflag-edge.azureedge.net
+DOMAIN-SUFFIX,oktacdn.com
+DOMAIN-SUFFIX,oktapreview.com
+DOMAIN-SUFFIX,okta-emea.com
+DOMAIN-SUFFIX,okta-gov.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.com
+DOMAIN-SUFFIX,okta.mil
+DOMAIN-SUFFIX,okta.com
