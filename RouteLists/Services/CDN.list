@@ -12,5 +12,7 @@ DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,fastly.net
 DOMAIN-SUFFIX,qualtrics.com
 DOMAIN-SUFFIX,usgovtrafficmanager.net
-DOMAIN-SUFFIX,llnwd.net # Edgio (formerly Limelight) CDN [4, 5]
-DOMAIN-SUFFIX,footprint.net # Lumen (formerly CenturyLink) CDN [5, 61]
+# Edgio (formerly Limelight) CDN
+DOMAIN-SUFFIX,llnwd.net
+# Lumen (formerly CenturyLink) CDN
+DOMAIN-SUFFIX,footprint.net
