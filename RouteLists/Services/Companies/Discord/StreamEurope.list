@@ -1,6 +1,6 @@
 # Mayo's Route list - StreamEurope.list
-# Last update: APR 19, 2025 22:44
+# Last update: APR 20, 2025 13:46
 # Update by code-shiromi
 
-DOMAIN-REGEX,^((rotterdam|eu-west|frankfurt|eu-central|london)\d+)\.discord\.(gg|media)$
-DOMAIN-REGEX,^(russia\d+)\.discord\.(gg|media)$
+DOMAIN-REGEX,^((gateway-)?(rotterdam|eu-west|frankfurt|eu-central|london|milan)\d+)\.discord\.(gg|media)$
+DOMAIN-REGEX,^((gateway-)?russia\d+)\.discord\.(gg|media)$

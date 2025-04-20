@@ -1,0 +1,12 @@
+DOMAIN-SUFFIX,osingapore1a.turn.livekit.cloud
+DOMAIN-SUFFIX,otokyo1a.turn.livekit.cloud
+DOMAIN-SUFFIX,otokyo1b.turn.livekit.cloud
+IP-CIDR,140.245.83.45
+
+DOMAIN-SUFFIX,webrtc.chatgpt.com
+
+
+DOMAIN-SUFFIX,chat.com
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,chatgpt.com
+PROCESS-NAME,chatgpt.exe
