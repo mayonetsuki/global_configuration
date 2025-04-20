@@ -1,5 +1,5 @@
 # Mayo's Route list - CDN.list
-# Last update: APR 20, 2025 11:02
+# Last update: APR 20, 2025 14:22
 # Update by code-shiromi
 
 # Adobe/Freepik CDN (ftcdn)
@@ -90,16 +90,6 @@ DOMAIN-SUFFIX,footprint.net
 DOMAIN-SUFFIX,fpbns.net
 # # ASN: Lumen Technologies (Level3)
 # SRC-IP-ASN,3356
-
-# Microsoft Azure CDN
-# # Azure CDN
-DOMAIN-SUFFIX,azureedge.net
-DOMAIN-SUFFIX,azurefd.net
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,usgovtrafficmanager.net
-# DOMAIN-SUFFIX,qualtrics.com
-# # Microsoft Azure
-# SRC-IP-ASN,8075
 
 # Cloudinary (Media CDN)
 DOMAIN-SUFFIX,cloudinary.com
