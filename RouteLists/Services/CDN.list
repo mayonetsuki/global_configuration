@@ -1,33 +1,192 @@
 # Mayo's Route list - CDN.list
-# Last update: APR 17, 2025 03:38
+# Last update: APR 20, 2025 11:02
 # Update by code-shiromi
+
+# Adobe/Freepik CDN (ftcdn)
+DOMAIN-SUFFIX,ftcdn.net
 
 # Akamai CDN
 DOMAIN-SUFFIX,akamaihd.net
 DOMAIN-SUFFIX,akamaized.net
+DOMAIN-SUFFIX,akamaiedge.net
 DOMAIN-SUFFIX,edgekey.net
 DOMAIN-SUFFIX,edgesuite.net
-DOMAIN-SUFFIX,akamaiedge.net
+# # ASN: Akamai Technologies
+SRC-IP-ASN,12222
+SRC-IP-ASN,16625
+SRC-IP-ASN,16702
+SRC-IP-ASN,17204
+SRC-IP-ASN,18680
+SRC-IP-ASN,18717
+SRC-IP-ASN,20189
+SRC-IP-ASN,20940
+SRC-IP-ASN,21342
+SRC-IP-ASN,21357
+SRC-IP-ASN,21399
+SRC-IP-ASN,22207
+SRC-IP-ASN,22452
+SRC-IP-ASN,23454
+SRC-IP-ASN,23455
+SRC-IP-ASN,23903
+SRC-IP-ASN,24319
+SRC-IP-ASN,26008
+SRC-IP-ASN,30675
+SRC-IP-ASN,31107
+SRC-IP-ASN,31108
+SRC-IP-ASN,31109
+SRC-IP-ASN,31110
+SRC-IP-ASN,31377
+SRC-IP-ASN,33047
+SRC-IP-ASN,33905
+SRC-IP-ASN,34164
+SRC-IP-ASN,34850
+SRC-IP-ASN,35204
+SRC-IP-ASN,35993
+SRC-IP-ASN,35994
+SRC-IP-ASN,36183
+SRC-IP-ASN,39836
+SRC-IP-ASN,43639
+SRC-IP-ASN,55409
+SRC-IP-ASN,55770
+SRC-IP-ASN,133103
+SRC-IP-ASN,393560
+# # Linode
+# IP-ASN,63949
+
+# AWS CloudFront CDN
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,s3-accelerate.amazonaws.com
+DOMAIN-SUFFIX,awsglobalaccelerator.com
+# DOMAIN-SUFFIX,amazonaws.com
+# DOMAIN-SUFFIX,elb.amazonaws.com
+# # ASN: Amazon CloudFront & Amazon AWS
+# SRC-IP-ASN,16509
+
+# Cloudflare CDN
+DOMAIN-SUFFIX,cloudflare.net
+# # ASN: Cloudflare, Inc.
+SRC-IP-ASN,13335
+
+# Fastly CDN
+DOMAIN-SUFFIX,fastly.net
+DOMAIN-SUFFIX,fastlylb.net
+# # ASN: Fastly, Inc.
+SRC-IP-ASN,54113
+
+# Edgio CDN
+# # Limelight
+DOMAIN-SUFFIX,llnwd.net
+DOMAIN-SUFFIX,llnw.net
+DOMAIN-SUFFIX,edgefcs.net
+# # ASN: Edgio (Limelight Networks)
+SRC-IP-ASN,22822
+# # Verizon EdgeCast CDN
+DOMAIN-SUFFIX,edgecastcdn.net
+# # ASN: Edgio (EdgeCast Networks/Verizon Digital Media)
+SRC-IP-ASN,15133
+
+# Lumen CDN (CenturyLink/Level3)
+DOMAIN-SUFFIX,footprint.net
+DOMAIN-SUFFIX,fpbns.net
+# # ASN: Lumen Technologies (Level3)
+# SRC-IP-ASN,3356
+
+# Microsoft Azure CDN
+# # Azure CDN
+DOMAIN-SUFFIX,azureedge.net
+DOMAIN-SUFFIX,azurefd.net
+DOMAIN-SUFFIX,msecnd.net
+DOMAIN-SUFFIX,usgovtrafficmanager.net
+# DOMAIN-SUFFIX,qualtrics.com
+# # Microsoft Azure
+# SRC-IP-ASN,8075
+
+# Cloudinary (Media CDN)
 DOMAIN-SUFFIX,cloudinary.com
 
-# AWS
-# DOMAIN-SUFFIX,elb.amazonaws.com
-DOMAIN-SUFFIX,s3-accelerate.amazonaws.com
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-SUFFIX,cloudfront.net
-DOMAIN-SUFFIX,awsglobalaccelerator.com
+# CDN77 CDN
+DOMAIN-SUFFIX,cdn77.org
+DOMAIN-SUFFIX,cdn77.net
+# # ASN: Datapacket (CDN77)
+SRC-IP-ASN,60068
 
-# CloudFlare CDN
-DOMAIN-SUFFIX,cloudflare.net
-DOMAIN-SUFFIX,edgecastcdn.net
-DOMAIN-SUFFIX,fastly.net
-DOMAIN-SUFFIX,qualtrics.com
-DOMAIN-SUFFIX,usgovtrafficmanager.net
+# BunnyCDN
+DOMAIN-SUFFIX,b-cdn.net
+DOMAIN-SUFFIX,b-cdn.com
+# # ASN: AS200325 BunnyCDN (BunnyWay)
+SRC-IP-ASN,200325
 
-# Edgio (formerly Limelight) CDN
-DOMAIN-SUFFIX,llnwd.net
+# G-Core Labs CDN
+DOMAIN-SUFFIX,gcdn.co
+# # ASN: G-Core Labs S.A.
+SRC-IP-ASN,199524
 
-# Lumen (formerly CenturyLink) CDN
-DOMAIN-SUFFIX,footprint.net
+# Imperva Incapsula CDN
+DOMAIN-SUFFIX,incapdns.net
+# # ASN: Imperva (Incapsula Inc.)
+SRC-IP-ASN,19551
 
-DOMAIN-SUFFIX,ftcdn.net
+# LeaseWeb CDN
+DOMAIN-SUFFIX,lswcdn.net
+DOMAIN-SUFFIX,lswcdn.eu
+# # ASN: LeaseWeb CDN
+SRC-IP-ASN,60626
+
+# BelugaCDN (NuCDN)
+DOMAIN-SUFFIX,belugacdn.com
+# # ASN: NuCDN/BelugaCDN
+SRC-IP-ASN,23393
+
+# CacheFly CDN
+DOMAIN-SUFFIX,cachefly.net
+# # ASN: CacheFly
+SRC-IP-ASN,30081
+
+# Yottaa CDN
+DOMAIN-SUFFIX,yottaa.net
+# # ASN: Yottaa
+SRC-IP-ASN,54850
+
+# StackPath CDN (MaxCDN/Highwinds)
+DOMAIN-SUFFIX,netdna-cdn.com
+DOMAIN-SUFFIX,netdna-ssl.com
+DOMAIN-SUFFIX,hwcdn.net
+# # ASN: StackPath (Highwinds Network Group)
+SRC-IP-ASN,20446
+
+# Panther CDN (CDNetworks)
+DOMAIN-SUFFIX,panthercdn.com
+# CDNetworks CDN
+DOMAIN-SUFFIX,cdngc.net
+# # ASN: CDNetworks
+SRC-IP-ASN,36408
+SRC-IP-ASN,38107
+
+# Internap CDN
+DOMAIN-SUFFIX,internapcdn.net
+
+# Mirror Image CDN
+DOMAIN-SUFFIX,instacontent.net
+DOMAIN-SUFFIX,mirror-image.net
+
+# SwiftCDN (SwiftServe)
+DOMAIN-SUFFIX,swiftcdn1.com
+DOMAIN-SUFFIX,swiftserve.com
+
+# CubeCDN
+DOMAIN-SUFFIX,cubecdn.net
+
+# Oracle Zenedge CDN
+DOMAIN-SUFFIX,zenedge.net
+
+# AFX CDN
+DOMAIN-SUFFIX,afxcdn.net
+
+# Turbobytes CDN
+DOMAIN-SUFFIX,trbcdn.net
+
+# NGENIX CDN (Russia)
+DOMAIN-SUFFIX,ngenix.net
+
+# Medianova CDN (Turkey)
+DOMAIN-SUFFIX,mncdn.com
