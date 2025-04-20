@@ -1,0 +1,153 @@
+# Mayo's Route list - AI.list
+# Last update: APR 19, 2025 23:26
+# Update by code-shiromi
+
+# AIVA (Media Generation)
+DOMAIN-SUFFIX,aiva.ai
+
+# Any.do (AI task)
+DOMAIN-SUFFIX,any.do
+
+# Anyword (Content creation)
+DOMAIN-SUFFIX,anyword.com
+
+# Arc Search (Research)
+DOMAIN-SUFFIX,arc.net
+
+# Asana (AI task)
+DOMAIN-SUFFIX,asana.com
+DOMAIN-SUFFIX,asana.biz
+
+# Avoma (AI transcription)
+DOMAIN-SUFFIX,avoma.com
+
+# BeeDone (AI task)
+DOMAIN-SUFFIX,beedone.co
+
+# Beautiful.ai (Presentations)
+DOMAIN-SUFFIX,beautiful.ai
+
+# Buffer (Social media)
+DOMAIN-SUFFIX,buffer.com
+DOMAIN-SUFFIX,bufferapp.com
+
+# Canva
+DOMAIN-SUFFIX,pixabay.com
+DOMAIN-SUFFIX,pexels.com
+DOMAIN-SUFFIX,remove.bg
+DOMAIN-SUFFIX,smartmockups.com
+DOMAIN-SUFFIX,flourish.studio
+DOMAIN-SUFFIX,serif.com
+DOMAIN-SUFFIX,leonardo.ai
+DOMAIN-SUFFIX,zeetings.com
+DOMAIN-SUFFIX,canva.site
+DOMAIN-SUFFIX,canva.dev
+DOMAIN-SUFFIX,canva.cn
+DOMAIN-SUFFIX,canva.com
+
+# Character.AI (Character)
+DOMAIN-SUFFIX,character.ai
+
+# Claude (Chatbots)
+DOMAIN-SUFFIX,claudeusercontent.com
+DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,anthropic.com
+SRC-IP-ASN,AS399358
+
+# Clockwise (AI transcription)
+DOMAIN-SUFFIX,clockwise.ai
+DOMAIN-SUFFIX,getclockwise.com
+
+# Descript (Media Generation)
+DOMAIN-SUFFIX,descriptusercontent.com
+DOMAIN-SUFFIX,descript.com
+
+# ElevenLabs (Media Generation)
+DOMAIN,api.elevenlabs.io
+DOMAIN-SUFFIX,elevenlabs.io
+
+# Enhancv (Resume)
+DOMAIN-SUFFIX,enhancv.com
+
+# FeedHive (Social media)
+DOMAIN-SUFFIX,feedhive.io
+DOMAIN-SUFFIX,feedhive.com
+
+# Fireflies (AI transcription)
+DOMAIN-SUFFIX,fireflies.ai
+
+# Grammarly (Grammar Checker)
+DOMAIN-SUFFIX,grammarly.ai
+DOMAIN-SUFFIX,grammarly.com
+
+# HuggingFace (Platform)
+DOMAIN-SUFFIX,hf.co
+DOMAIN-SUFFIX,hf.space
+DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,huggingface.com
+DOMAIN-SUFFIX,huggingface.cloud
+
+# Ideogram (Media Generation)
+DOMAIN-SUFFIX,ideogram.ai
+
+# Jasper (Content creation)
+DOMAIN-SUFFIX,jasper.ai
+
+# Kickresume (Resume)
+DOMAIN-SUFFIX,kickresume.com
+
+# Mem (Knowledge management)
+DOMAIN-SUFFIX,mem.ai
+
+# Midjourney (Media Generation)
+DOMAIN-SUFFIX,midjourney.com
+
+# Motion (AI scheduling)
+DOMAIN-SUFFIX,usemotion.com
+
+# Reclaim (AI scheduling)
+DOMAIN-SUFFIX,reclaim.ai
+
+# Perplexity (Research)
+DOMAIN-SUFFIX,perplexity.ai
+
+# Personal AI (Knowledge management)
+DOMAIN-SUFFIX,personal.ai
+
+# ProWritingAid
+DOMAIN-SUFFIX,prowritingaid.com
+
+# Runway (Media Generation)
+DOMAIN-SUFFIX,runwayml.com
+
+# Shortwave (Email)
+DOMAIN-SUFFIX,shortwave.com
+DOMAIN-SUFFIX,shortwave.app
+
+# Slidesgo (Presentations)
+DOMAIN-SUFFIX,slidesgo.com
+
+# Suno (Media Generation)
+DOMAIN-SUFFIX,suno.ai
+DOMAIN-SUFFIX,suno.com
+
+# Teal (Resume)
+DOMAIN-SUFFIX,tealhq.com
+
+# tl;dv (AI transcription)
+DOMAIN-SUFFIX,tldv.io
+
+# Tome (Presentations)
+DOMAIN-SUFFIX,tome.app
+
+# Wondershare Filmora (Media Generation)
+DOMAIN-SUFFIX,wondershare.com
+
+# Wordtune (Grammar Checker)
+DOMAIN-SUFFIX,wordtune.com
+
+# Writer (Content creation)
+DOMAIN-SUFFIX,writer.com
+
+# Zapier (Automation)
+DOMAIN-SUFFIX,zapier.com
