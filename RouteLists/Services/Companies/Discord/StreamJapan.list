@@ -1,0 +1,5 @@
+# Mayo's Route list - StreamJapan.list
+# Last update: APR 19, 2025 22:44
+# Update by code-shiromi
+
+DOMAIN-REGEX,^(japan\d+)\.discord\.(gg|media)$

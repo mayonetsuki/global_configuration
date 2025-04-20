@@ -1,0 +1,8 @@
+# Mayo's Route list - StreamUS.list
+# Last update: APR 19, 2025 22:44
+# Update by code-shiromi
+
+# #  North America
+DOMAIN-REGEX,^(us-(east|central|west|south)\d+|(toronto|newark)\d+)\.discord\.(gg|media)$
+# # South America
+DOMAIN-REGEX,^(brazil\d+)\.discord\.(gg|media)$

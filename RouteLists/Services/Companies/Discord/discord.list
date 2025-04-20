@@ -1,0 +1,21 @@
+# Mayo's Route list - Discord.list
+# Last update: APR 19, 2025 22:43
+# Update by code-shiromi
+
+# CDN & Media
+DOMAIN,cdn.discordapp.com
+DOMAIN,media.discordapp.net
+DOMAIN,images-ext-1.discordapp.net
+DOMAIN,images-ext-2.discordapp.net
+DOMAIN-SUFFIX,discordapp.net
+DOMAIN-SUFFIX,discordcdn.com
+
+# Final
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discord.new
+DOMAIN-SUFFIX,dis.gd
+DOMAIN-SUFFIX,discordapp.com
+DOMAIN-SUFFIX,discord.store
+DOMAIN-SUFFIX,discordmerch.com
+DOMAIN-SUFFIX,discord.tools
+DOMAIN-SUFFIX,discord.com

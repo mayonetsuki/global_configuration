@@ -1,0 +1,6 @@
+# Mayo's Route list - StreamAsiaPacificOther.list
+# Last update: APR 19, 2025 22:43
+# Update by code-shiromi
+
+DOMAIN-REGEX,^(india\d+|mumbai\d+)\.discord\.(gg|media)$
+DOMAIN-REGEX,^(sydney\d+)\.discord\.(gg|media)$

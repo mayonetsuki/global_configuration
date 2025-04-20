@@ -1,4 +1,11 @@
 
 #development.list
 
+# API
+DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,readme.io
+
+# Software
+# # Jetbrains
+DOMAIN-SUFFIX,jetbrains.com
+# # Sublime Text

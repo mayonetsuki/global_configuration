@@ -1,0 +1,5 @@
+# Mayo's Route list - StreamHongKong.list
+# Last update: APR 19, 2025 22:43
+# Update by code-shiromi
+
+DOMAIN-REGEX,^(hongkong\d+)\.discord\.(gg|media)$
