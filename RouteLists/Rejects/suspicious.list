@@ -1,0 +1,7 @@
+# Mayo's Route list - Rejects - suspicious.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Rejects/suspicious.list
+# Last update: APR 20, 2025 15:30 JST
+# Update by code-shiromi
+
+# Xiamen Kuaikuai Network Technology Co.,Ltd (Chinatelecom)
+SRC-IP-ASN,AS133775
