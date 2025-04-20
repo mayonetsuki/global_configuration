@@ -1,0 +1,110 @@
+# Mayo's Route list - Services - communications.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/communications.list
+# Last update: APR 20, 2025 15:16 JST
+# Update by code-shiromi
+
+# KakaoTalk (카카오톡)
+DOMAIN-SUFFIX,kakaocdn.net
+# # AI
+DOMAIN-SUFFIX,kakaoix.com
+# # Final
+DOMAIN-SUFFIX,daum.net
+DOMAIN-SUFFIX,kgslb.com
+DOMAIN-SUFFIX,daumkakao.io
+DOMAIN-SUFFIX,kakao.com
+DOMAIN-SUFFIX,kakaocorp.com
+# ASN for Kakao Corp and related
+SRC-IP-ASN,AS38099
+SRC-IP-ASN,AS152199
+
+# Line (ライン, 라인)
+DOMAIN-SUFFIX,line-scdn.net
+DOMAIN-SUFFIX,line-apps.com
+DOMAIN-SUFFIX,lin.ee
+DOMAIN-SUFFIX,line.biz
+DOMAIN-SUFFIX,line.me
+DOMAIN-SUFFIX,line.naver.jp
+DOMAIN-SUFFIX,naver.jp
+DOMAIN-SUFFIX,naver.com
+DOMAIN-SUFFIX,linecorp.com
+# ASN for Line Corp and Naver
+SRC-IP-ASN,AS38631
+SRC-IP-ASN,AS23576
+
+# Signal
+DOMAIN-SUFFIX,signalnetwork.org
+DOMAIN,turn3.voip.signal.org
+DOMAIN,sfu.voip.signal.org
+DOMAIN-SUFFIX,signal.tube
+DOMAIN-SUFFIX,signal.art
+DOMAIN-SUFFIX,signal.group
+DOMAIN-SUFFIX,signal.link
+DOMAIN-SUFFIX,signal.me
+DOMAIN-SUFFIX,signal.org
+# ASN for Signal Messenger LLC
+SRC-IP-ASN,AS397755
+
+# Snapchat
+DOMAIN-SUFFIX,sc-cdn.net
+DOMAIN-SUFFIX,sc-gw.com
+DOMAIN-SUFFIX,sc-static.net
+DOMAIN-SUFFIX,sc-prod.net
+DOMAIN-SUFFIX,snapads.com
+DOMAIN-SUFFIX,addlive.io
+DOMAIN-SUFFIX,feelinsonice.com
+DOMAIN-SUFFIX,snapmap.com
+DOMAIN-SUFFIX,snapmap.org
+DOMAIN-SUFFIX,snapmaps.com
+DOMAIN-SUFFIX,snapkit.com
+DOMAIN-SUFFIX,snap.com
+DOMAIN-SUFFIX,snapchat.com
+# ASN for Snapchat, Inc
+SRC-IP-ASN,AS395291
+
+# Telegram
+DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,telegra.ph
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegram.me
+DOMAIN-SUFFIX,tdesktop.com
+DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.org
+# ASN for Telegram
+SRC-IP-ASN,AS62041
+SRC-IP-ASN,AS59930
+SRC-IP-ASN,AS62014
+SRC-IP-ASN,AS44907
+SRC-IP-ASN,AS211157
+
+# Threema
+DOMAIN-SUFFIX,threema.ch
+DOMAIN-SUFFIX,threema.id
+# ASN for Nine Internet Solutions AG
+SRC-IP-ASN,AS29691
+
+# Viber (Rakuten Viber)
+DOMAIN-SUFFIX,viber.com
+# SRC-IP-ASN,AS23820 # Rakuten Group, Inc
+
+# Wire
+# DOMAIN,prod-nginz-https.wire.com
+# DOMAIN,prod-nginz-ssl.wire.com
+# DOMAIN,prod-assets.wire.com
+# DOMAIN,wire-app.wire.com
+# DOMAIN,clientblacklist.wire.com
+# DOMAIN-SUFFIX,prod-calling.wire.com
+DOMAIN-SUFFIX,wiresecure.com
+DOMAIN-SUFFIX,wire.com
+
+# Zalo
+DOMAIN-SUFFIX,zaloapp.com
+DOMAIN-SUFFIX,zalo.me
+DOMAIN-SUFFIX,zalo.vn
+DOMAIN-SUFFIX,zing.vn
+DOMAIN-SUFFIX,vng.com.vn
+# ASN for VNG Corporation (Zalo's parent company)
+SRC-IP-ASN,AS38244
+
+# Zello
+DOMAIN-SUFFIX,zello.com
+DOMAIN-SUFFIX,zellowork.com
