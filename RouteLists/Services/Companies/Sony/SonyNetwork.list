@@ -1,8 +1,21 @@
-# Mayo's Route list - SonyNetwork.list
-# Last update: APR 16, 2025 21:56
+# Mayo's Route list - Services - Companies - Sony - SonyNetwork.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/Companies/Sony/SonyNetwork.list
+# Last update: APR 21, 2025 17:47 JST
 # Update by code-shiromi
 
 DOMAIN-SUFFIX,eltres-iot.jp
-DOMAIN-SUFFIX,nuro.jp
+
+DOMAIN-SUFFIX,so-net.jp
 DOMAIN-SUFFIX,so-net.ne.jp
+
+DOMAIN-SUFFIX,nuro.jp
+DOMAIN-SUFFIX,nuromobile.jp
+
+DOMAIN-SUFFIX,bit-drive.ne.jp
+
 DOMAIN-SUFFIX,sonynetwork.co.jp
+
+# # ASN: Sony Network Communications Inc. (So-net)
+SRC-IP-ASN,AS2527
+# # ASN: Sony Biz Networks Corporation (bit-drive/So-net related)
+SRC-IP-ASN,AS9600
