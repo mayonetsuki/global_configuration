@@ -1,7 +1,30 @@
 # Mayo's Route list - Services - communications.list
 # https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/communications.list
-# Last update: APR 20, 2025 15:16 JST
+# Last update: APR 22, 2025 22:00 JST
 # Update by code-shiromi
+
+# ------------------------- Messenger / Voice Call
+
+# Amazon Chime
+# (Slack)
+# DOMAIN-SUFFIX,sdkassets.chime.aws
+DOMAIN-SUFFIX,meetings-chime.amazonaws.com
+DOMAIN-SUFFIX,voice-chime.amazonaws.com
+DOMAIN-SUFFIX,messaging-chime.amazonaws.com
+DOMAIN-SUFFIX,media-pipelines-chime.amazonaws.com
+DOMAIN-SUFFIX,identity-chime.amazonaws.com
+DOMAIN-SUFFIX,chime.aws
+# # ASN: AWS
+# SRC-IP-ASN,AS16509
+# SRC-IP-ASN,AS14618
+IP-CIDR,99.77.128.0/18
+
+# Element / Matrix
+# DOMAIN,turn.matrix.org
+DOMAIN-SUFFIX,element.ems.host
+DOMAIN-SUFFIX,vector.im
+DOMAIN-SUFFIX,element.io
+DOMAIN-SUFFIX,matrix.org
 
 # KakaoTalk (카카오톡)
 DOMAIN-SUFFIX,kakaocdn.net
@@ -13,7 +36,7 @@ DOMAIN-SUFFIX,kgslb.com
 DOMAIN-SUFFIX,daumkakao.io
 DOMAIN-SUFFIX,kakao.com
 DOMAIN-SUFFIX,kakaocorp.com
-# ASN for Kakao Corp and related
+# ASN: Kakao Corp and related
 SRC-IP-ASN,AS38099
 SRC-IP-ASN,AS152199
 
@@ -27,7 +50,10 @@ DOMAIN-SUFFIX,line.naver.jp
 DOMAIN-SUFFIX,naver.jp
 DOMAIN-SUFFIX,naver.com
 DOMAIN-SUFFIX,linecorp.com
-# ASN for Line Corp and Naver
+# # Snow
+# DOMAIN,content-foodie-api.snow.me
+DOMAIN-SUFFIX,snow.me
+# # ASN: Line Corp and Naver
 SRC-IP-ASN,AS38631
 SRC-IP-ASN,AS23576
 
@@ -41,8 +67,25 @@ DOMAIN-SUFFIX,signal.group
 DOMAIN-SUFFIX,signal.link
 DOMAIN-SUFFIX,signal.me
 DOMAIN-SUFFIX,signal.org
-# ASN for Signal Messenger LLC
+# # ASN: Signal Messenger LLC
 SRC-IP-ASN,AS397755
+
+# Slack (Salesforce)
+# DOMAIN,wss-primary.slack.com
+# DOMAIN,wss-backup.slack.com
+# DOMAIN,wss-mobile.slack.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-core.com
+DOMAIN-SUFFIX,slackdns.com
+DOMAIN-SUFFIX,slackb.com
+DOMAIN-SUFFIX,slack.com
+# # ASN: Salesforce
+# SRC-IP-ASN,AS14340
+# SRC-IP-ASN,AS22606
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
 
 # Snapchat
 DOMAIN-SUFFIX,sc-cdn.net
@@ -58,33 +101,44 @@ DOMAIN-SUFFIX,snapmaps.com
 DOMAIN-SUFFIX,snapkit.com
 DOMAIN-SUFFIX,snap.com
 DOMAIN-SUFFIX,snapchat.com
-# ASN for Snapchat, Inc
+# # ASN: Snapchat, Inc
 SRC-IP-ASN,AS395291
 
 # Telegram
+DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,stel.com
+DOMAIN-SUFFIX,telesco.pe
+DOMAIN-SUFFIX,contest.com
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,tg.dev
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,tdesktop.com
 DOMAIN-SUFFIX,telegram.dog
+DOMAIN-SUFFIX,telegram.space
 DOMAIN-SUFFIX,telegram.org
-# ASN for Telegram
-SRC-IP-ASN,AS62041
+PROCESS-NAME,Telegram.exe
+PROCESS-NAME,nekox.messenger
+PROCESS-NAME,org.telegram.messenger
+PROCESS-NAME,telegram-desktop
+PROCESS-NAME,tw.nekomimi.nekogram
+PROCESS-NAME,xyz.nextalone.nagram
+# # ASN: Telegram
+SRC-IP-ASN,AS44907
 SRC-IP-ASN,AS59930
 SRC-IP-ASN,AS62014
-SRC-IP-ASN,AS44907
+SRC-IP-ASN,AS62041
 SRC-IP-ASN,AS211157
 
 # Threema
 DOMAIN-SUFFIX,threema.ch
 DOMAIN-SUFFIX,threema.id
-# ASN for Nine Internet Solutions AG
+# # ASN: Nine Internet Solutions AG
 SRC-IP-ASN,AS29691
 
 # Viber (Rakuten Viber)
 DOMAIN-SUFFIX,viber.com
-# SRC-IP-ASN,AS23820 # Rakuten Group, Inc
+# # SRC-IP-ASN,AS23820 # Rakuten Group, Inc
 
 # Wire
 # DOMAIN,prod-nginz-https.wire.com
@@ -102,9 +156,163 @@ DOMAIN-SUFFIX,zalo.me
 DOMAIN-SUFFIX,zalo.vn
 DOMAIN-SUFFIX,zing.vn
 DOMAIN-SUFFIX,vng.com.vn
-# ASN for VNG Corporation (Zalo's parent company)
+# # ASN: VNG Corporation (Zalo's parent company)
 SRC-IP-ASN,AS38244
 
 # Zello
 DOMAIN-SUFFIX,zello.com
 DOMAIN-SUFFIX,zellowork.com
+
+# Zoom.us
+DOMAIN-SUFFIX,zoomconnector.com
+DOMAIN-SUFFIX,zoomonprem.com
+DOMAIN-SUFFIX,zoomapp.cloud
+DOMAIN-SUFFIX,zoomgov.com
+DOMAIN-SUFFIX,zoom.com
+DOMAIN,zdmapi.zoom.us
+# # ASN: Zoom Video Communications, Inc
+SRC-IP-ASN,AS30103
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+
+# ------------------------- Social Media
+
+# 9gag
+# DOMAIN-SUFFIX,accounts-cdn.9gag.com
+# DOMAIN,comment-cdn.9gag.com
+DOMAIN-SUFFIX,9cache.com
+DOMAIN-SUFFIX,9gag.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS54113 # Fastly
+
+# ArtStation (Epic Games)
+# DOMAIN-SUFFIX,ol.epicgames.com
+# DOMAIN,cdna.artstation.com
+# DOMAIN,cdnb.artstation.com
+DOMAIN-SUFFIX,artstation.com
+# # ASN: Epic Games
+# SRC-IP-ASN,AS4356
+# SRC-IP-ASN,AS207845
+# SRC-IP-ASN,AS397645
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+# Clubhouse
+# DOMAIN-SUFFIX,agora.io
+# DOMAIN-SUFFIX,agoraio.cn
+# DOMAIN-SUFFIX,sd-rtn.com
+# DOMAIN-SUFFIX,agoralab.co
+# DOMAIN-SUFFIX,pubnub.com
+# DOMAIN-SUFFIX,pndsn.com
+# DOMAIN-SUFFIX,pubnub.net
+# DOMAIN-SUFFIX,pubnubapi.com
+DOMAIN-SUFFIX,clubhouseprod.s3.amazonaws.com
+DOMAIN-SUFFIX,clubhouse.pubnub.com
+DOMAIN-SUFFIX,clubhouseapi.com
+DOMAIN-SUFFIX,joinclubhouse.com
+DOMAIN-SUFFIX,clubhouse.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+# SRC-IP-ASN,AS15169 # GCP
+
+# Flickr
+# DOMAIN-SUFFIX,api.flickr.com # API
+DOMAIN-SUFFIX,staticflickr.com
+DOMAIN-SUFFIX,flickrprints.com
+DOMAIN-SUFFIX,flic.kr
+DOMAIN-SUFFIX,flickr.net
+DOMAIN-SUFFIX,flickr.com
+# SRC-IP-ASN,AS54113 # Fastly
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+# SRC-IP-ASN,ASXXXXX # Akamai
+
+# Giphy
+DOMAIN-SUFFIX,giphy.com
+# SRC-IP-ASN,AS32934 # Meta Platforms, Inc.
+# SRC-IP-ASN,AS54113 # Fastly
+
+# Imgur
+# DOMAIN-SUFFIX,stack.imgur.com
+# DOMAIN-SUFFIX,i.imgur.com
+# DOMAIN-SUFFIX,s.imgur.com
+DOMAIN-SUFFIX,imgur.com
+# SRC-IP-ASN,AS54113 # Fastly
+# SRC-IP-ASN,AS13335 # Cloudflare
+
+# Medium
+# DOMAIN-SUFFIX,medium2.p.rapidapi.com (Non-official)
+DOMAIN-SUFFIX,medium.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+# Meetup
+DOMAIN-SUFFIX,meetupstatic.com
+DOMAIN-SUFFIX,meetup.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS54113 # Fastly
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+# Mewe
+# DOMAIN-SUFFIX,cdn-origin.mewe.com # CDN Assets
+DOMAIN-SUFFIX,mewe.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+# Patreon
+DOMAIN-SUFFIX,patreon.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+# Pinterest
+DOMAIN-SUFFIX,pinimg.com
+DOMAIN-SUFFIX,pinterest.com
+# # ASN: Pinterest, Inc.
+SRC-IP-ASN,AS53620
+#SRC-IP-ASN,AS13335 # Cloudflare
+#SRC-IP-ASN,AS16509 # AWS
+#SRC-IP-ASN,AS14618 # AWS
+#SRC-IP-ASN,AS54113 # Fastly
+
+# Pixiv
+# DOMAIN-SUFFIX,accounts.pixiv.net
+# DOMAIN-SUFFIX,dic.pixiv.net
+# DOMAIN-SUFFIX,dev.pixiv.net
+# DOMAIN-SUFFIX,app-api.pixiv.net
+DOMAIN-SUFFIX,pximg.net
+DOMAIN-SUFFIX,pixiv.net
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS54113 # Fastly
+# SRC-IP-ASN,ASXXXXX # Akamai
+# SRC-IP-ASN,ASYYYYY # IDC Frontier Inc.
+
+# Quora
+DOMAIN-SUFFIX,quoracdn.net
+DOMAIN-SUFFIX,quora.com
+# SRC-IP-ASN,AS13335 # Cloudflare
+# SRC-IP-ASN,AS16509 # AWS
+# SRC-IP-ASN,AS14618 # AWS
+
+# Reddit
+# DOMAIN-SUFFIX,oauth.reddit.com # API/OAuth
+DOMAIN-SUFFIX,redditmedia.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,reddit.com
+# SRC-IP-ASN,AS54113 # Fastly
+
+# Tumblr (Automattic)
+# DOMAIN-SUFFIX,media.tumblr.com
+# DOMAIN-SUFFIX,assets.tumblr.com
+# DOMAIN-SUFFIX,domains.tumblr.com
+DOMAIN-SUFFIX,tmblr.co
+DOMAIN-SUFFIX,tumblr.com
+# # ASN: Automattic Inc.
+SRC-IP-ASN,AS2635
+# SRC-IP-ASN,AS54113 # Fastly
