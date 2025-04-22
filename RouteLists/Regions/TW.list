@@ -1,6 +1,6 @@
 # Mayo's Route list - Regions - TW.list
 # https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/TW.list
-# Last update: APR 22, 2025 21:32 JST
+# Last update: APR 22, 2025 21:51 JST
 # Update by code-shiromi
 
 # --------------------------- Government / Public Services
@@ -474,6 +474,9 @@ DOMAIN-SUFFIX,bookwalker.tw
 DOMAIN-SUFFIX,kadokawa.com.tw
 
 # KKBOX
+DOMAIN-SUFFIX,kfs.io
+DOMAIN-SUFFIX,kk.stream
+DOMAIN-SUFFIX,kkbox-prime.com
 DOMAIN-SUFFIX,kkbox.com.tw
 DOMAIN-SUFFIX,kkbox.com
 
@@ -482,6 +485,7 @@ DOMAIN-SUFFIX,kktix.com
 DOMAIN-SUFFIX,kktix.cc
 
 # KKTV
+DOMAIN-SUFFIX,theater-kktv.cdn.hinet.net
 DOMAIN-SUFFIX,kktv.com.tw
 DOMAIN-SUFFIX,kktv.me
 
