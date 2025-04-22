@@ -1,0 +1,29 @@
+# Mayo's Route list - Regions - SG.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/SG.list
+# Last update: APR 20, 2025 01:40 JST
+# Update by code-shiromi
+
+# --------------------------- Government / Public Services
+
+DOMAIN-SUFFIX,gov.sg
+
+
+# --------------------------- Telecom / ISP / Communication Services
+
+
+# --------------------------- Financial & Personal Service & Membership
+
+
+# --------------------------- Business & Professional Services
+
+
+# --------------------------- E-Commerce
+
+# Carousell SG
+# Donki Global
+
+
+# --------------------------- Entertainment
+
+
+# --------------------------- SNS

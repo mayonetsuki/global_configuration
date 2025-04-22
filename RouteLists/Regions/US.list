@@ -1,0 +1,44 @@
+# Mayo's Route list - Regions - US.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/US.list
+# Last update: APR 20, 2025 01:40 JST
+# Update by code-shiromi
+
+# --------------------------- Government / Public Services
+
+DOMAIN-SUFFIX,gov
+
+
+# --------------------------- Basic Services & Infrastructure
+
+DOMAIN-SUFFIX,edu
+
+
+# --------------------------- Telecom / ISP / Communication Services
+
+# AT&T
+# T-Mobile
+# Verizon
+
+
+# --------------------------- Financial & Personal Service & Membership
+
+
+# --------------------------- Business & Professional Services
+
+
+# --------------------------- E-Commerce
+
+# Tokyo Otaku Mode
+
+
+# --------------------------- News & Information
+
+# Bloomberg
+# CNN
+# Wallstreet
+
+
+# --------------------------- Entertainment
+
+
+# --------------------------- SNS

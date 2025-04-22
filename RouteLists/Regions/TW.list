@@ -1,0 +1,523 @@
+# Mayo's Route list - Regions - TW.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/TW.list
+# Last update: APR 22, 2025 20:37 JST
+# Update by code-shiromi
+
+# --------------------------- Government / Public Services
+
+# Academia Sinica (中央研究院)
+# DOMAIN-SUFFIX,sinica.edu.tw
+
+# Central Weather Administration - CWA (交通部中央氣象署)
+# DOMAIN-SUFFIX,cwa.gov.tw
+
+# Executive Yuan (行政院)
+# DOMAIN-SUFFIX,ey.gov.tw
+
+# Office of the President (總統府)
+# DOMAIN-SUFFIX,president.gov.tw
+
+# Ministry of the Interior - National Immigration Agency (內政部移民署)
+# DOMAIN-SUFFIX,immigration.gov.tw
+
+# Ministry of Foreign Affairs (外交部)
+# DOMAIN-SUFFIX,mofa.gov.tw
+
+# Ministry of Finance (財政部)
+# DOMAIN-SUFFIX,mof.gov.tw
+
+# Ministry of Finance - E-Invoice Platform (財政部電子發票整合服務平台)
+# DOMAIN-SUFFIX,einvoice.nat.gov.tw
+
+# Ministry of Finance - Tax Filing Service (財政部電子申報繳稅服務網)
+# DOMAIN-SUFFIX,tax.nat.gov.tw
+
+# Ministry of Education (教育部)
+# DOMAIN-SUFFIX,moe.gov.tw
+
+# Ministry of Justice (法務部)
+# DOMAIN-SUFFIX,moj.gov.tw
+
+# Ministry of Economic Affairs (經濟部)
+# DOMAIN-SUFFIX,moea.gov.tw
+
+# Ministry of Transportation and Communications (交通部)
+# DOMAIN-SUFFIX,motc.gov.tw
+
+# Ministry of Labor (勞動部)
+# DOMAIN-SUFFIX,mol.gov.tw
+
+# Ministry of Health and Welfare (衛生福利部)
+# DOMAIN-SUFFIX,mohw.gov.tw
+
+# National Communications Commission (國家通訊傳播委員會)
+# DOMAIN-SUFFIX,ncc.gov.tw
+
+# Directorate-General of Budget, Accounting and Statistics (行政院主計總處)
+# DOMAIN-SUFFIX,dgbas.gov.tw
+
+# Taiwan Public Television Service Foundation (公共電視文化事業基金會)
+DOMAIN-SUFFIX,pts.org.tw
+DOMAIN-SUFFIX,ptsplus.tv
+
+# Local Governments (地方政府)
+# Taipei City Government Water Department (臺北自來水事業處)
+# DOMAIN-SUFFIX,water.gov.taipei
+
+# New Taipei City Government (新北市政府)
+# DOMAIN-SUFFIX,ntpc.gov.tw
+
+# Taoyuan City Government (桃園市政府)
+# DOMAIN-SUFFIX,tycg.gov.tw
+
+# Taichung City Government (臺中市政府)
+# DOMAIN-SUFFIX,tccg.gov.tw
+# DOMAIN-SUFFIX,taichung.gov.tw
+
+# Tainan City Government (臺南市政府)
+# DOMAIN-SUFFIX,tainan.gov.tw
+
+# Kaohsiung City Government (高雄市政府)
+# DOMAIN-SUFFIX,kcg.gov.tw
+
+# National Health Insurance Administration - NHIA (衛生福利部中央健康保險署)
+# DOMAIN-SUFFIX,nhi.gov.tw
+# DOMAIN-SUFFIX,nhiapp.gov.tw
+
+# Taiwan Power Company (台灣電力公司)
+DOMAIN-SUFFIX,taipower.com.tw
+DOMAIN-SUFFIX,tpc.com.tw
+
+# Taiwan Water Corporation (台灣自來水公司)
+# DOMAIN-SUFFIX,water.gov.tw
+
+# Taiwan Railways Administration (交通部臺灣鐵路管理局)
+# DOMAIN-SUFFIX,railway.gov.tw
+
+# Taiwan Representative Offices (駐外代表處)
+DOMAIN-SUFFIX,teco-hk.org
+DOMAIN-SUFFIX,teco-mo.org
+DOMAIN-SUFFIX,taiwanembassy.org
+DOMAIN-SUFFIX,roc-taiwan.org
+
+# General Government Domain
+DOMAIN-SUFFIX,gov.taipei
+# DOMAIN-SUFFIX,nat.gov.tw
+DOMAIN-SUFFIX,gov.tw
+
+
+# --------------------------- Basic Services & Infrastructure
+
+# Taiwan Academic Network (TANet)
+# DOMAIN,tanet.edu.tw
+
+# DOMAIN,twaren.net # Taiwan Research Network - uncomment if needed
+# National Center for High-Performance Computing (國家高速網路與計算中心)
+DOMAIN-SUFFIX,nchc.org.tw
+DOMAIN-SUFFIX,narlabs.org.tw
+DOMAIN-SUFFIX,twcc.ai
+
+# Major Universities (主要大學)
+# National Taiwan University (國立臺灣大學)
+# DOMAIN-SUFFIX,ntu.edu.tw
+
+# National Tsing Hua University (國立清華大學)
+# DOMAIN-SUFFIX,nthu.edu.tw
+
+# National Yang Ming Chiao Tung University (國立陽明交通大學)
+# DOMAIN-SUFFIX,nycu.edu.tw
+
+# National Cheng Kung University (國立成功大學)
+# DOMAIN-SUFFIX,ncku.edu.tw
+
+# National Taiwan University of Science and Technology (國立臺灣科技大學)
+# DOMAIN-SUFFIX,ntust.edu.tw
+
+# National Chengchi University (國立政治大學)
+# DOMAIN-SUFFIX,nccu.edu.tw
+
+# National Central University (國立中央大學)
+# DOMAIN-SUFFIX,ncu.edu.tw
+
+# National Sun Yat-sen University (國立中山大學)
+# DOMAIN-SUFFIX,nsysu.edu.tw
+
+# National Taiwan Normal University (國立臺灣師範大學)
+# DOMAIN-SUFFIX,ntnu.edu.tw
+
+# National Dong Hwa University (國立東華大學)
+# DOMAIN-SUFFIX,ndhu.edu.tw
+
+# National Kaohsiung Normal University (國立高雄師範大學)
+# DOMAIN-SUFFIX,nknu.edu.tw
+
+# National University of Kaohsiung (國立高雄大學)
+# DOMAIN-SUFFIX,nuk.edu.tw
+
+# National United University (國立聯合大學)
+# DOMAIN-SUFFIX,nuu.edu.tw
+
+# National Open University (國立空中大學)
+# DOMAIN-SUFFIX,nou.edu.tw
+
+# National Taiwan University Hospital (國立臺灣大學醫學院附設醫院)
+# DOMAIN-SUFFIX,ntuh.gov.tw
+
+# Taipei Veterans General Hospital (臺北榮民總醫院)
+# DOMAIN-SUFFIX,vghtpe.gov.tw
+
+# Taiwan Power Company (台灣電力公司) - Already listed under Government/Public Services
+
+# Gas Utilities
+# Shin Shin Natural Gas Co., Ltd. (欣欣天然氣)
+DOMAIN-SUFFIX,shinshingas.com.tw
+
+# The Great Taipei Gas Co., Ltd. (大台北區瓦斯)
+DOMAIN-SUFFIX,taipeigas.com.tw
+
+# Transportation
+# Taiwan High Speed Rail Corporation (台灣高鐵)
+DOMAIN-SUFFIX,thsrc.com.tw
+
+# General Education Domain
+DOMAIN-SUFFIX,edu.tw
+
+# --------------------------- Telecom / ISP / Communication Services
+
+# APTG - Asia Pacific Telecom (亞太電信) - Merged with Far EasTone
+DOMAIN-SUFFIX,aptg.com.tw
+# # ASN: Asia Pacific Telecom
+SRC-IP-ASN,AS17709
+
+# Chunghwa Telecom / Hi-Net (中華電信)
+DOMAIN-SUFFIX,xuite.net
+DOMAIN-SUFFIX,hinet.net
+DOMAIN-SUFFIX,emome.net
+DOMAIN-SUFFIX,chttl.com.tw
+DOMAIN-SUFFIX,chtf.org.tw
+DOMAIN-SUFFIX,cht.com.tw
+# # ASN: Data Communication Business Group
+SRC-IP-ASN,AS3462
+# # ASN: Taiwan Internet Gateway
+SRC-IP-ASN,AS9505
+# # ASN: Chunghwa Telecom Global (HiNet Global/US Peering)
+SRC-IP-ASN,AS33717
+
+# CNS - China Network Systems / home+ (中嘉寬頻)
+DOMAIN-SUFFIX,cns.net.tw
+DOMAIN-SUFFIX,homeplus.net.tw
+
+# Far EasTone / Digital United (遠傳電信)
+DOMAIN-SUFFIX,fetnet.net
+DOMAIN-SUFFIX,seed.net.tw
+# # ASN: Far EastTone Telecommunication Co., Ltd.
+SRC-IP-ASN,AS9674
+# # ASN: Digital United Inc.
+SRC-IP-ASN,AS4780
+
+# Kbro Co. (凱擘大寬頻)
+DOMAIN-SUFFIX,kbro.tv
+DOMAIN-SUFFIX,kbro.com.tw
+DOMAIN-SUFFIX,kbronet.com.tw
+# # ASN: kbro CO. Ltd.
+SRC-IP-ASN,AS38841
+
+# So-net TW / Sony Network (台灣碩網)
+DOMAIN-SUFFIX,so-net.tw
+DOMAIN-SUFFIX,so-net.net.tw
+DOMAIN-SUFFIX,corporate.so-net.net.tw
+# # ASN: Sony Network Taiwan Limited
+SRC-IP-ASN,AS18182
+
+# Taiwan Mobile / Union Broadband (台灣大哥大)
+# # Taiwan Star Telecom (台灣之星) Merged with Taiwan Mobile
+DOMAIN-SUFFIX,tstartel.com
+DOMAIN-SUFFIX,tstar.com.tw
+# # Taiwan Mobile
+DOMAIN-SUFFIX,myfone.com.tw
+DOMAIN-SUFFIX,catch.net.tw
+DOMAIN-SUFFIX,twmsolution.com
+DOMAIN-SUFFIX,taiwanmobile.com
+# # ASN: Taiwan Mobile Co., Ltd.
+SRC-IP-ASN,AS24158
+# # ASN: Taiwan Star Telecom
+SRC-IP-ASN,AS24157
+
+# TBC - Taiwan Broadband Communications (台灣寬頻通訊)
+DOMAIN-SUFFIX,tbcnet.net.tw
+DOMAIN-SUFFIX,tbc.net.tw
+# # ASN: TBC
+SRC-IP-ASN,AS131596
+
+
+# --------------------------- Business & Professional Services
+
+# 104 Job Bank (104人力銀行)
+DOMAIN-SUFFIX,104.com.tw
+
+# 591 Real Estate (591房屋交易)
+DOMAIN-SUFFIX,591.com.tw
+
+# ezTravel (易遊網)
+DOMAIN-SUFFIX,eztravel.com.tw
+DOMAIN-SUFFIX,ezfly.com
+
+# Lion Travel (雄獅旅遊)
+DOMAIN-SUFFIX,liontravel.com
+DOMAIN-SUFFIX,liontravel.com.tw
+DOMAIN-SUFFIX,liontour.com.tw
+
+# Professional Services
+DOMAIN-SUFFIX,1111.com.tw
+DOMAIN-SUFFIX,yes123.com.tw
+DOMAIN-SUFFIX,518.com.tw
+DOMAIN-SUFFIX,taiwanjobs.gov.tw
+
+# Job Banks
+# 104 Job Bank (104人力銀行)
+DOMAIN-SUFFIX,104.com.tw
+
+# 1111 Job Bank (1111人力銀行)
+DOMAIN-SUFFIX,1111.com.tw
+
+# yes123 Job Bank (yes123求職網)
+DOMAIN-SUFFIX,yes123.com.tw
+
+# 518 Job Bank (518熊班)
+DOMAIN-SUFFIX,518.com.tw
+
+# TaiwanJobs (台灣就業通 - 勞動部)
+# DOMAIN-SUFFIX,taiwanjobs.gov.tw
+
+# Real Estate
+# 591 Real Estate (591房屋交易)
+DOMAIN-SUFFIX,591.com.tw
+
+# Travel Agencies
+# ezTravel (易遊網)
+DOMAIN-SUFFIX,eztravel.com.tw
+DOMAIN-SUFFIX,ezfly.com
+
+# Lion Travel (雄獅旅遊)
+DOMAIN-SUFFIX,liontravel.com
+DOMAIN-SUFFIX,liontravel.com.tw
+DOMAIN-SUFFIX,liontour.com.tw
+
+
+# --------------------------- E-Commerce
+
+# 7-Eleven Taiwan / iBon (統一超商)
+DOMAIN-SUFFIX,7-11.com.tw
+DOMAIN-SUFFIX,ibon.com.tw
+
+# Animate Taiwan (台灣安利美特)
+DOMAIN-SUFFIX,animate-onlineshop.com.tw
+DOMAIN-SUFFIX,animate.tw
+
+# Books.com.tw (博客來)
+DOMAIN-SUFFIX,books.com.tw
+
+# Breeze Center Online (微風精品線上)
+DOMAIN-SUFFIX,breezecenter.com
+DOMAIN-SUFFIX,breeze.com.tw
+
+# Carrefour Taiwan (家樂福)
+DOMAIN-SUFFIX,carrefour.com.tw
+
+# Cosmed (康是美)
+DOMAIN-SUFFIX,cosmed.com.tw
+
+# Costco Taiwan (好市多)
+DOMAIN-SUFFIX,costco.com.tw
+
+# Coupang TW (酷澎)
+DOMAIN-SUFFIX,tw.coupang.com
+
+# ET Mall (東森購物)
+DOMAIN-SUFFIX,etmall.com.tw
+DOMAIN-SUFFIX,etmall.tw
+
+# Eslite (誠品線上)
+DOMAIN-SUFFIX,eslite.com
+DOMAIN-SUFFIX,eslite.com.tw
+DOMAIN-SUFFIX,eslitecorp.com
+
+# FamilyMart Taiwan (全家便利商店)
+DOMAIN-SUFFIX,family.com.tw
+DOMAIN-SUFFIX,famiport.com.tw
+
+# Foodpanda Taiwan (Foodpanda 台灣)
+DOMAIN-SUFFIX,foodpanda.tw
+DOMAIN-SUFFIX,foodpanda.com.tw
+
+# IKEA Taiwan (IKEA 台灣)
+DOMAIN-SUFFIX,ikea.com.tw
+
+# Momo Shop (Momo 購物網)
+DOMAIN-SUFFIX,momoshop.com.tw
+DOMAIN-SUFFIX,momo.com.tw
+
+# Muji Taiwan (無印良品)
+DOMAIN-SUFFIX,muji.tw
+
+# Nike Taiwan (Nike 台灣)
+DOMAIN-SUFFIX,nikestore-taiwan.com
+
+# PChome Online / PChome Store (PChome 線上購物 / 商店街)
+DOMAIN-SUFFIX,pchome.tw
+DOMAIN-SUFFIX,pchome.com.tw
+DOMAIN-SUFFIX,pcstore.com.tw
+
+# PX Mart / PXGo! (全聯福利中心 / 全聯線上購)
+DOMAIN-SUFFIX,pxmart.com.tw
+DOMAIN-SUFFIX,pxgo.com.tw
+
+# Rakuten Ichiba Taiwan (樂天市場)
+DOMAIN-SUFFIX,rakuten.com.tw
+DOMAIN-SUFFIX,raksul.tw
+
+# RT-Mart (大潤發)
+DOMAIN-SUFFIX,rt-mart.com.tw
+
+# Ruten (露天拍賣)
+DOMAIN-SUFFIX,ruten.com.tw
+
+# Shin Kong Mitsukoshi (新光三越)
+# DOMAIN-SUFFIX,skmonline.skm.com.tw # Specific online store domain
+DOMAIN-SUFFIX,skm.com.tw
+
+# Shopee Taiwan (蝦皮購物)
+# DOMAIN-SUFFIX,shopeemobile.com
+DOMAIN-SUFFIX,shopee.tw
+
+# SOGO (Far Eastern SOGO) (遠東SOGO)
+DOMAIN-SUFFIX,sogo.tw
+DOMAIN-SUFFIX,sogo.com.tw
+
+# Starbucks Taiwan (星巴克)
+DOMAIN-SUFFIX,starbucks.com.tw
+
+# Watsons Taiwan (屈臣氏)
+DOMAIN-SUFFIX,watsons.com.tw
+
+# Yahoo! Taiwan Auctions/Mall (Yahoo奇摩拍賣 / 購物中心)
+DOMAIN-SUFFIX,tw.buy.yahoo.com
+DOMAIN-SUFFIX,tw.mall.yahoo.com
+DOMAIN-SUFFIX,tw.bid.yahoo.com
+DOMAIN-SUFFIX,yahoo.com.tw
+
+
+# --------------------------- News & Information
+
+# Apple Daily Taiwan (蘋果新聞網)
+DOMAIN-SUFFIX,1-apple.com.tw
+DOMAIN-SUFFIX,appledaily.com.tw
+DOMAIN-SUFFIX,tw.nextapple.com
+
+# Central News Agency - CNA (中央社)
+DOMAIN-SUFFIX,cna.com.tw
+DOMAIN-SUFFIX,focustaiwan.tw
+
+# China Times (中時新聞網)
+DOMAIN-SUFFIX,chinatimes.com
+DOMAIN-SUFFIX,chinatimes.com.tw
+
+# EBC News / ETtoday (東森新聞 / ETtoday新聞雲)
+DOMAIN-SUFFIX,ebc.net.tw
+DOMAIN-SUFFIX,ettoday.net
+
+# Formosa TV News (民視新聞網)
+DOMAIN-SUFFIX,ftvnews.com.tw
+DOMAIN-SUFFIX,ftv.com.tw
+
+# Liberty Times Net - LTN (自由時報電子報)
+DOMAIN-SUFFIX,ltn.com.tw
+
+# Next TV (壹電視)
+DOMAIN-SUFFIX,nexttv.com.tw
+
+# Public Television Service - PTS News (公視新聞網) - Already listed under Government/Public Services
+SETN (三立新聞網)
+DOMAIN-SUFFIX,setn.com
+
+# TVBS News (TVBS新聞網)
+DOMAIN-SUFFIX,tvbs.com.tw
+
+# United Daily News - UDN (聯合新聞網)
+DOMAIN-SUFFIX,udn.com
+DOMAIN-SUFFIX,udndata.com
+DOMAIN-SUFFIX,udnnews.com
+
+
+# --------------------------- Entertainment
+
+# Bahamut Anime (巴哈姆特動畫瘋)
+# DOMAIN-SUFFIX,ani.gamer.com.tw
+
+# CATCHPLAY+
+DOMAIN-SUFFIX,catchplay.com
+DOMAIN-SUFFIX,catchplay.tw
+
+# DLSite TW
+DOMAIN-SUFFIX,dlsite.com.tw
+
+# friDay 影音 (friDay Video)
+DOMAIN-SUFFIX,fridaylogistics.com.tw
+DOMAIN-SUFFIX,friday.tw
+
+# KADOKAWA TW (台灣角川)
+DOMAIN-SUFFIX,bookwalker.com.tw
+DOMAIN-SUFFIX,bookwalker.tw
+DOMAIN-SUFFIX,kadokawa.com.tw
+
+# KKBOX
+DOMAIN-SUFFIX,kkbox.com.tw
+DOMAIN-SUFFIX,kkbox.com
+
+# KKTIX
+DOMAIN-SUFFIX,kktix.com
+DOMAIN-SUFFIX,kktix.cc
+
+# KKTV
+DOMAIN-SUFFIX,kktv.com.tw
+DOMAIN-SUFFIX,kktv.me
+
+# LINE TV
+DOMAIN-SUFFIX,linetv.tw
+
+# MyVideo
+DOMAIN-SUFFIX,myvideo.net.tw
+
+# Softstar Entertainment (大宇資訊)
+DOMAIN-SUFFIX,softstar.com.tw
+
+# tixCraft / Ticketmaster TW (拓元售票)
+DOMAIN-SUFFIX,tixcraft.com
+
+# LiTV (立視線上影視)
+DOMAIN-SUFFIX,litv.tv
+
+
+--------------------------- SNS
+# Bahamut / gamer.com.tw (巴哈姆特電玩資訊站)
+DOMAIN-SUFFIX,gamer.com.tw
+
+# Dcard
+DOMAIN-SUFFIX,dcard.com.tw
+DOMAIN-SUFFIX,dcard.tw
+
+# Mobile01
+DOMAIN-SUFFIX,mobile01.com
+
+# Pixnet (痞客邦)
+DOMAIN-SUFFIX,pixnet.tw
+DOMAIN-SUFFIX,pixnet.net
+
+# Plurk (噗浪)
+DOMAIN-SUFFIX,plurk.com
+
+# PTT (批踢踢實業坊)
+DOMAIN-SUFFIX,ptt.cc
+DOMAIN-SUFFIX,pttweb.cc
+# Primarily NTU IPs, often used for PTT access
+IP-CIDR,140.112.0.0/16

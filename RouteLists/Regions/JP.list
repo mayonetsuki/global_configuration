@@ -1,0 +1,1123 @@
+# Mayo's Route list - Regions - JP.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/JP.list
+# Last update: APR 22, 2025 22:46 JST
+# Update by code-shiromi
+
+# --------------------------- Government / Public Services
+
+# Agency for Cultural Affairs (文化庁)
+# DOMAIN-SUFFIX,bunka.go.jp
+
+# Cabinet Office (内閣府)
+# DOMAIN-SUFFIX,cao.go.jp
+
+# Children and Families Agency (こども家庭庁)
+# DOMAIN-SUFFIX,cfa.go.jp
+
+# Digital Agency (デジタル庁)
+# DOMAIN-SUFFIX,digital.go.jp
+
+# Financial Services Agency (金融庁)
+# DOMAIN-SUFFIX,fsa.go.jp
+
+# Immigration Services Agency (出入国在留管理庁)
+# DOMAIN-SUFFIX,isa.go.jp
+
+# Japan Meteorological Agency (気象庁)
+# DOMAIN-SUFFIX,jma.go.jp
+
+# Japan Post (日本郵便)
+# DOMAIN-SUFFIX,post.japanpost.jp
+
+# Japan Post Group (日本郵政グループ)
+DOMAIN-SUFFIX,japanpost.jp
+
+# Japan Post Insurance (かんぽ生命)
+# DOMAIN-SUFFIX,jp-life.japanpost.jp
+
+# Ministry of Agriculture, Forestry and Fisheries (農林水産省)
+# DOMAIN-SUFFIX,maff.go.jp
+
+# Ministry of Defense (防衛省)
+# DOMAIN-SUFFIX,mod.go.jp
+
+# Ministry of Economy, Trade and Industry (経済産業省)
+# DOMAIN-SUFFIX,meti.go.jp
+
+# Ministry of Education, Culture, Sports, Science and Technology (文部科学省)
+# DOMAIN-SUFFIX,mext.go.jp
+
+# Ministry of Environment (環境省)
+# DOMAIN-SUFFIX,env.go.jp
+
+# Ministry of Finance (財務省)
+# DOMAIN-SUFFIX,mof.go.jp
+
+# Ministry of Foreign Affairs (外務省)
+# DOMAIN-SUFFIX,mofa.go.jp
+
+# Ministry of Health, Labour and Welfare (厚生労働省)
+# DOMAIN-SUFFIX,mhlw.go.jp
+
+# Ministry of Internal Affairs and Communications (総務省)
+# DOMAIN-SUFFIX,soumu.go.jp
+
+# Ministry of Justice (法務省)
+# DOMAIN-SUFFIX,moj.go.jp
+
+# Ministry of Land, Infrastructure, Transport and Tourism (国土交通省)
+# DOMAIN-SUFFIX,mlit.go.jp
+
+# My Number Portal (マイナポータル)
+# DOMAIN-SUFFIX,myna.go.jp
+
+# National Diet Library (国立国会図書館)
+# DOMAIN-SUFFIX,ndl.go.jp
+
+# National Tax Agency (国税庁)
+# DOMAIN-SUFFIX,nta.go.jp
+
+# Prefectural Governments (都道府県庁 - General)
+DOMAIN-SUFFIX,pref.iwate.jp
+DOMAIN-SUFFIX,pref.miyagi.jp
+DOMAIN-SUFFIX,pref.yamagata.jp
+DOMAIN-SUFFIX,pref.fukushima.jp
+# DOMAIN-SUFFIX,pref.fukushima.lg.jp
+DOMAIN-SUFFIX,pref.ibaraki.jp
+DOMAIN-SUFFIX,pref.gunma.jp
+DOMAIN-SUFFIX,metro.tokyo.jp
+# DOMAIN-SUFFIX,metro.tokyo.lg.jp
+DOMAIN-SUFFIX,pref.kanagawa.jp
+DOMAIN-SUFFIX,pref.toyama.jp
+DOMAIN-SUFFIX,pref.yamanashi.jp
+DOMAIN-SUFFIX,pref.nagano.jp
+# DOMAIN-SUFFIX,pref.nagano.lg.jp
+DOMAIN-SUFFIX,pref.shizuoka.jp
+DOMAIN-SUFFIX,pref.aichi.jp
+DOMAIN-SUFFIX,pref.shiga.jp
+# DOMAIN-SUFFIX,pref.shiga.lg.jp
+DOMAIN-SUFFIX,pref.kyoto.jp
+# DOMAIN-SUFFIX,city.osaka.lg.jp
+DOMAIN-SUFFIX,pref.osaka.jp
+# DOMAIN-SUFFIX,pref.osaka.lg.jp
+DOMAIN-SUFFIX,pref.nara.jp
+DOMAIN-SUFFIX,pref.okayama.jp
+DOMAIN-SUFFIX,pref.tokushima.jp
+# DOMAIN-SUFFIX,pref.tokushima.lg.jp
+DOMAIN-SUFFIX,pref.kagawa.jp
+# DOMAIN-SUFFIX,pref.kagawa.lg.jp
+DOMAIN-SUFFIX,pref.ehime.jp
+DOMAIN-SUFFIX,pref.nagasaki.jp
+DOMAIN-SUFFIX,pref.kumamoto.jp
+DOMAIN-SUFFIX,pref.oita.jp
+DOMAIN-SUFFIX,pref.kagoshima.jp
+DOMAIN-SUFFIX,pref.okinawa.jp
+
+# Prime Minister's Office (内閣総理大臣官邸)
+# DOMAIN-SUFFIX,kantei.go.jp
+
+DOMAIN-SUFFIX,go.jp
+
+
+# --------------------------- Basic Services & Infrastructure
+
+# Chubu Electric Power (中部電力)
+DOMAIN-SUFFIX,chuden.co.jp
+
+# Chugoku Electric Power (中国電力)
+DOMAIN-SUFFIX,energia.co.jp
+
+# Hokkaido Electric Power (北海道電力)
+DOMAIN-SUFFIX,hepco.co.jp
+
+# Hokkaido Gas (北海道ガス)
+DOMAIN-SUFFIX,hokkaido-gas.co.jp
+
+# Hokuriku Electric Power (北陸電力)
+DOMAIN-SUFFIX,rikuden.co.jp
+
+# Hokuriku Gas (北陸ガス)
+DOMAIN-SUFFIX,hokurikugas.co.jp
+
+# INPEX (国際石油開発帝石)
+DOMAIN-SUFFIX,inpex.com
+
+# JAPEX (石油資源開発)
+DOMAIN-SUFFIX,japex.co.jp
+
+# JERA
+DOMAIN-SUFFIX,jera.co.jp
+
+# J-POWER (電源開発)
+DOMAIN-SUFFIX,jpower.co.jp
+
+# Kansai Electric Power (KEPCO) (関西電力)
+DOMAIN-SUFFIX,kepco.co.jp
+
+# Keiyo Gas (京葉ガス)
+DOMAIN-SUFFIX,keiyogas.co.jp
+
+# Kyushu Electric Power (九州電力)
+DOMAIN-SUFFIX,kyuden.co.jp
+
+# Okinawa Electric Power (沖縄電力)
+DOMAIN-SUFFIX,okiden.co.jp
+
+# Osaka Gas (大阪ガス)
+DOMAIN-SUFFIX,osakagas.co.jp
+
+# Saibu Gas (西部ガス)
+DOMAIN-SUFFIX,saibugas.co.jp
+
+# Shikoku Electric Power (四国電力)
+DOMAIN-SUFFIX,yonden.co.jp
+
+# TEPCO (Tokyo Electric Power Company) (東京電力)
+DOMAIN-SUFFIX,tepco.co.jp
+
+# Toho Gas (東邦ガス)
+DOMAIN-SUFFIX,tohogas.co.jp
+
+# Tohoku Electric Power (東北電力)
+DOMAIN-SUFFIX,tohoku-epco.co.jp
+
+# Tokyo Gas (東京ガス)
+DOMAIN-SUFFIX,tokyo-gas.co.jp
+
+
+# JR Central (東海旅客鉄道)
+DOMAIN-SUFFIX,jr-central.co.jp
+
+# JR East (東日本旅客鉄道)
+DOMAIN-SUFFIX,jreast.co.jp
+
+# JR Hokkaido (北海道旅客鉄道)
+DOMAIN-SUFFIX,jrhokkaido.co.jp
+
+# JR Kyushu (九州旅客鉄道)
+DOMAIN-SUFFIX,jrkyushu.co.jp
+
+# JR Shikoku (四国旅客鉄道)
+DOMAIN-SUFFIX,jr-shikoku.co.jp
+
+# JR West (西日本旅客鉄道)
+DOMAIN-SUFFIX,jr-west.co.jp
+
+# Keikyu Corporation (京浜急行電鉄)
+DOMAIN-SUFFIX,keikyu.co.jp
+
+# Keio Corporation (京王電鉄)
+DOMAIN-SUFFIX,keio.co.jp
+
+# Keisei Electric Railway (京成電鉄)
+DOMAIN-SUFFIX,keisei.co.jp
+
+# Odakyu Electric Railway (小田急電鉄)
+DOMAIN-SUFFIX,odakyu.co.jp
+
+# Seibu Railway (西武鉄道)
+DOMAIN-SUFFIX,seiburailway.co.jp
+
+# Tobu Railway (東武鉄道)
+DOMAIN-SUFFIX,tobu.co.jp
+
+# Toei Subway (都営地下鉄 - 東京都交通局)
+DOMAIN-SUFFIX,kotsu.metro.tokyo.jp
+
+# Tokyo Metro (東京メトロ)
+DOMAIN-SUFFIX,tokyometro.jp
+
+# Tokyu Corporation (東急電鉄)
+DOMAIN-SUFFIX,tokyu.co.jp
+
+# UCARO
+DOMAIN-SUFFIX,ucaro.net
+
+DOMAIN-SUFFIX,lg.jp
+DOMAIN-SUFFIX,ac.jp
+DOMAIN-SUFFIX,ed.jp
+
+
+# --------------------------- Telecom / ISP / Communication Services
+
+# ARTERIA Networks
+# Parent: Mitsui & Co.
+# Services: Fiber, Data Center, Cloud, VPN, Condominium Internet
+# Legacy/Network Ops
+DOMAIN-SUFFIX,vectant.ad.jp
+DOMAIN-SUFFIX,vectant.ne.jp
+DOMAIN-SUFFIX,ucom.ne.jp
+DOMAIN-SUFFIX,tsunagunet.com
+DOMAIN-SUFFIX,arteria-net.com
+# # ASN: ARTERIA Networks Corporation
+SRC-IP-ASN,AS2519
+
+# ASAHI Net (朝日ネット)
+# Services: Fiber, ADSL, Mobile Broadband (WiMAX/LTE), Cloud (manaba)
+DOMAIN-SUFFIX,manaba.jp
+DOMAIN-SUFFIX,asablo.jp
+DOMAIN-SUFFIX,mmjp.or.jp
+DOMAIN-SUFFIX,asahi-net.jp
+DOMAIN-SUFFIX,asahi-net.or.jp
+# # ASN: Asahi Net
+SRC-IP-ASN,AS4685
+
+# FreeBit
+# Services: ISP support, MVNE/MVNO, Cloud, Consulting
+DOMAIN-SUFFIX,dti.ne.jp
+DOMAIN-SUFFIX,bekkoame.ne.jp
+DOMAIN-SUFFIX,freebit.com
+# # ASN: FreeBit Co.,Ltd.
+SRC-IP-ASN,AS10013
+
+# Internet Initiative Japan (IIJ) (incl. IIJmio)
+# Services: ISP, Mobile (IIJmio MVNO), Cloud (IIJ GIO), WAN, Security, SI
+# DOMAIN-SUFFIX,iijglobal.com
+DOMAIN-SUFFIX,iijmio.jp
+DOMAIN-SUFFIX,wizsafe.jp
+DOMAIN-SUFFIX,iijgio.jp
+DOMAIN-SUFFIX,iij.jp
+DOMAIN-SUFFIX,iij.ad.jp
+# # ASN: Internet Initiative Japan Inc.
+SRC-IP-ASN,AS2497
+SRC-IP-ASN,AS10233
+# # ASN: A-Bone by Internet Initiative Japan Inc.
+SRC-IP-ASN,AS4774
+# # ASN: JPIX (IX, IIJ is part owner)
+# SRC-IP-ASN,AS7527
+# SRC-IP-ASN,AS24257
+
+# J-stream Ｊストリーム
+DOMAIN-SUFFIX,stream.ne.jp
+
+# KDDI
+# # AU
+# # Services: Mobile, Fiber (au Hikari), ISP (au one net), IoT, Wi-Fi
+DOMAIN-SUFFIX,auone.jp
+DOMAIN-SUFFIX,auone.net
+DOMAIN-SUFFIX,dion.ne.jp
+DOMAIN-SUFFIX,au.com
+# # BIGLOBE Inc.
+# # Services: Fiber (Biglobe Hikari), Mobile (MVNO), WiMAX
+DOMAIN-SUFFIX,biglobe.co.jp
+DOMAIN-SUFFIX,biglobe.ne.jp
+# # Chubu Telecommunications Co., Inc. (commufa光)
+# # Services: Fiber (Commufa Hikari) in Chubu region
+DOMAIN-SUFFIX,commufa.jp
+DOMAIN-SUFFIX,ctc.co.jp
+# # JCOM Co., Ltd. (J:COM) (incl. ZAQ)
+# # Services: Cable TV, Internet (J:COM NET/ZAQ), Phone, Mobile (MVNO), Electricity
+DOMAIN-SUFFIX,zaq.ne.jp
+DOMAIN-SUFFIX,jcom.co.jp
+# # Soracom IoT Platform
+DOMAIN-SUFFIX,soracom.io
+DOMAIN-SUFFIX,soracom.jp
+DOMAIN-SUFFIX,soracom.com
+# # UQ Communications Corp
+DOMAIN-SUFFIX,uqmobile.jp
+DOMAIN-SUFFIX,uqwimax.jp
+DOMAIN-SUFFIX,uqcommunications.co.jp
+# # Wire and Wireless
+DOMAIN-SUFFIX,wi2.co.jp
+DOMAIN-SUFFIX,wi2.ne.jp
+# # KDDI Corporate
+DOMAIN-SUFFIX,kddi-webcommunications.co.jp
+DOMAIN-SUFFIX,kddi.ne.jp
+DOMAIN-SUFFIX,kddi.co.jp
+DOMAIN-SUFFIX,kddi.com
+DOMAIN-SUFFIX,kddi-research.jp
+# # ASN: KDDI CORPORATION
+SRC-IP-ASN,AS2516
+# # ASN: KDDI R&D Laboratories, INC
+SRC-IP-ASN,AS131078
+# # ASN: BIGLOBE Inc.
+SRC-IP-ASN,AS2518
+# # ASN: Chubu Telecommunications Company, Inc.
+SRC-IP-ASN,AS18126
+# # ASN: JCOM Co., Ltd.
+SRC-IP-ASN,AS9824
+# # (ZAQ)
+SRC-IP-ASN,AS9617
+# # ASN: Wire and Wireless Co.,Ltd.
+SRC-IP-ASN,AS131160
+
+# Nifty Corporation (@nifty)
+# Parent: Nojima Corporation (previously Fujitsu)
+# Services: ISP (@nifty), Web Services
+DOMAIN-SUFFIX,nifty.co.jp
+DOMAIN-SUFFIX,nifty.ne.jp
+DOMAIN-SUFFIX,nifty.com
+
+# NTT Group (日本電信電話)
+# # NTT Communications Corporation (incl. OCN, NTT Global)
+# # Services: ISP (OCN), Long Distance/International, Cloud, Data Center, Security
+# DOMAIN-SUFFIX,verio.com # US Subsidiary
+DOMAIN-SUFFIX,ocn.ne.jp
+DOMAIN-SUFFIX,ntt.net
+DOMAIN-SUFFIX,ntt.com
+# # NTT Data Corporation (株式会社NTTデータ)
+# DOMAIN-SUFFIX,nttdata-taiwan.com
+DOMAIN-SUFFIX,nttdata.com
+# # NTT Docomo, Inc.
+# # Services: Mobile (MNO), Fiber (docomo Hikari), d ACCOUNT
+# DOMAIN-SUFFIX,id.smt.docomo.ne.jp # d ACCOUNT login
+DOMAIN-SUFFIX,docomo.jp
+DOMAIN-SUFFIX,spmode.ne.jp
+DOMAIN-SUFFIX,docomo.ne.jp
+DOMAIN-SUFFIX,nttdocomo.co.jp
+# # NTT Hikari 光ケーブルテレビ株式会社
+DOMAIN-SUFFIX,hikaritv.net
+DOMAIN-SUFFIX,ktv.ne.jp
+# # NTT Plala (ぷらら)
+# # Services: ISP (Plala)
+DOMAIN-SUFFIX,plala.or.jp
+DOMAIN-SUFFIX,nttplala.com
+# # NTT East Corporation (NTT東日本)
+# # Services: Regional Fixed-line, FLET'S Hikari (infrastructure)
+DOMAIN-SUFFIX,ntt-east.co.jp
+DOMAIN-SUFFIX,flets.com
+# # NTT West Corporation (NTT西日本)
+# # Services: Regional Fixed-line, FLET'S Hikari (infrastructure)
+DOMAIN-SUFFIX,ntt-west.co.jp
+DOMAIN-SUFFIX,flets-w.com
+# # NTT Group
+DOMAIN-SUFFIX,ntt.co.jp
+# SRC-IP-ASN,AS2914 # ASN: NTT America, Inc. (Global Backbone/GIN/Verio)
+# SRC-IP-ASN,AS17439 # NTT Comms India (Optional)
+# SRC-IP-ASN,AS17645 # NTT Comms Singapore (Optional)
+# SRC-IP-ASN,AS18259 # NTT Comms (Alternative?) (Optional)
+# # ASN: Nippon Telegraph and Telephone Corporation
+SRC-IP-ASN,AS173
+# # ASN: NTT Communications Corporation
+SRC-IP-ASN,AS4713
+# # ASN: NTT-ME Corporation
+SRC-IP-ASN,AS9595
+# # ASN: NTT SmartConnect Corporation
+SRC-IP-ASN,AS7671
+# SRC-IP-ASN,AS4697 # NTTV6NET (NTT IPv6 Infra)
+# # ASN: NTT DOCOMO, INC.
+SRC-IP-ASN,AS9605
+
+# OPTAGE
+# Parent: Kansai Electric Power Group
+# Services: Fiber (eo Hikari), MVNO (mineo), Data Center
+# # Mineo (マイネオ)
+# # Services: Mobile (MVNO on Docomo/au/Softbank networks)
+# # ASN for data traffic covered by MNOs (AS9605, AS2516, AS17676)
+DOMAIN-SUFFIX,mineo.jp
+# # OPTAGE (incl. eo光)
+DOMAIN-SUFFIX,k-opti.com
+DOMAIN-SUFFIX,eonet.jp
+DOMAIN-SUFFIX,optage.co.jp
+# # ASN: OPTAGE Inc.
+SRC-IP-ASN,AS17511
+
+# QTnet (Kyushu Telecommunication Network) (incl. BBIQ)
+# Parent: Kyushu Electric Power Group
+# Services: Fiber (BBIQ), Mobile (QT Mobile MVNO)
+DOMAIN-SUFFIX,qtpro.jp
+DOMAIN-SUFFIX,qtda.jp
+DOMAIN-SUFFIX,challepa.jp
+DOMAIN-SUFFIX,qtnet-shogi.jp
+DOMAIN-SUFFIX,qtmobile.jp
+DOMAIN-SUFFIX,bbiq.jp
+DOMAIN-SUFFIX,qtnet.co.jp
+# # ASN: QTnet,Inc.
+SRC-IP-ASN,AS7679
+
+# Rakuten Mobile, Inc. (楽天モバイル) (incl. Rakuten Hikari)
+# Parent: Rakuten Group
+# Services: Mobile (MNO), Fiber (Rakuten Hikari)
+# DOMAIN-SUFFIX,mobile.rakuten.co.jp
+DOMAIN-SUFFIX,rmobile.jp
+# # ASN: Rakuten Mobile, Inc.
+SRC-IP-ASN,AS10012
+# # ASN: Rakuten Mobile Network, Inc.
+SRC-IP-ASN,AS23720
+SRC-IP-ASN,AS138384
+
+# SAKURA Internet Inc. (さくらインターネット)
+# Services: Hosting, Cloud (SAKURA Cloud), VPS, Data Center, ISP, IoT
+DOMAIN-SUFFIX,sakura.jp
+DOMAIN-SUFFIX,sakura.io
+DOMAIN-SUFFIX,sakura.cloud
+DOMAIN-SUFFIX,sakura.ne.jp
+DOMAIN-SUFFIX,sakura.ad.jp
+DOMAIN-SUFFIX,sakura
+# # ASN: SAKURA Internet Inc.
+# # (SAKURA-B)
+SRC-IP-ASN,AS9370
+# # (SAKURA-C)
+SRC-IP-ASN,AS9371
+
+# Softbank (ソフトバンク) (incl. Y!mobile, Yahoo! BB)
+# Services: Mobile (MNO), Fiber (SoftBank Hikari/Yahoo! BB), Brand TLD
+# # LINEMO
+# # Services: Mobile (MVNO on SoftBank network) (AS17676)
+DOMAIN-SUFFIX,linemo.jp
+# # Y!mobile & Yahoo! BB
+DOMAIN-SUFFIX,bbtec.net
+DOMAIN-SUFFIX,ymobile.jp
+DOMAIN-SUFFIX,yahoo.co.jp
+# # Softbank
+DOMAIN-SUFFIX,softbankbb.co.jp
+DOMAIN-SUFFIX,softbankmobile.co.jp
+DOMAIN-SUFFIX,sbmobileservice.co.jp
+DOMAIN-SUFFIX,softbank.ne.jp
+DOMAIN-SUFFIX,softbank.jp
+DOMAIN-SUFFIX,softbank
+# # ASN: SoftBank Corp. (Mobile/GIGAINFRA/ULTINA)
+SRC-IP-ASN,AS17676
+SRC-IP-ASN,AS18069
+# # ASN: Yahoo Japan Corporation (Yahoo! BB Infra)
+SRC-IP-ASN,AS23816
+SRC-IP-ASN,AS55898
+SRC-IP-ASN,AS18140
+SRC-IP-ASN,AS24296
+SRC-IP-ASN,AS131898
+
+# STNet, Incorporated (incl. Pikara)
+# Parent: Shikoku Electric Power Group
+# Services: Fiber (Pikara)
+DOMAIN-SUFFIX,stnet.co.jp
+DOMAIN-SUFFIX,pikara.ne.jp
+DOMAIN-SUFFIX,pikara.jp
+# # ASN: STNet, Incorporated
+SRC-IP-ASN,AS7522
+
+# TOKAI Communications Corporation (incl. @T COM)
+# Parent: TOKAI Group
+# Services: ISP (@T COM), Cloud, Data Center, Security
+DOMAIN-SUFFIX,tnc.ne.jp
+DOMAIN-SUFFIX,t-com.ne.jp
+DOMAIN-SUFFIX,tokai.jp
+DOMAIN-SUFFIX,tokai.or.jp
+DOMAIN-SUFFIX,tokai-com.co.jp
+DOMAIN-SUFFIX,tokai-grp.co.jp
+# # ASN: TOKAI Communications Corporation
+SRC-IP-ASN,AS10010
+SRC-IP-ASN,AS23625
+
+
+# --------------------------- Business & Professional Services
+
+# ABeam Consulting Ltd. (アビームコンサルティング株式会社)
+DOMAIN-SUFFIX,abeam.com
+
+# Accenture Japan Ltd (アクセンチュア株式会社)
+DOMAIN-SUFFIX,accenture.com
+
+# ADK Holdings Inc. (株式会社ADKホールディングス)
+DOMAIN-SUFFIX,adk.co.jp
+
+# American Chamber of Commerce in Japan (ACCJ) (在日米国商工会議所)
+DOMAIN-SUFFIX,accj.or.jp
+
+# Anderson Mori & Tomotsune (アンダーソン・毛利・友常法律事務所外国法共同事業)
+DOMAIN-SUFFIX,amt-law.com
+
+# Bain & Company Japan, Inc. (ベイン・アンド・カンパニー・ジャパン・インコーポレイテッド)
+DOMAIN-SUFFIX,bain.com
+
+# Baker & McKenzie (Gaikokuho Joint Enterprise) (ベーカー&マッケンジー法律事務所（外国法共同事業）)
+DOMAIN-SUFFIX,bakermckenzie.com
+
+# Boston Consulting Group (ボストン・コンサルティング・グループ合同会社)
+DOMAIN-SUFFIX,bcg.com
+
+# Clifford Chance (Gaikokuho Kyodo Jigyo) (クリフォードチャンス法律事務所外国法共同事業)
+DOMAIN-SUFFIX,cliffordchance.com
+
+# Daiwa House Industry Co., Ltd. (大和ハウス工業株式会社)
+DOMAIN-SUFFIX,daiwahouse.co.jp
+
+# Deloitte Tohmatsu Consulting LLC (デロイト トーマツ コンサルティング合同会社)
+# Deloitte Touche Tohmatsu LLC (有限責任監査法人トーマツ)
+DOMAIN-SUFFIX,deloitte.com
+
+# Dentsu Group Inc. (株式会社電通グループ) / Dentsu Inc. (株式会社電通)
+DOMAIN-SUFFIX,dentsu.com
+
+# European Business Council in Japan (EBC) (欧州ビジネス協会)
+DOMAIN-SUFFIX,ebc-jp.com
+
+# Ernst & Young ShinNihon LLC (EY新日本有限責任監査法人)
+# EY Strategy and Consulting Co., Ltd. (EYストラテジー・アンド・コンサルティング株式会社)
+DOMAIN-SUFFIX,ey.com
+
+# Fujitsu Limited (富士通株式会社)
+DOMAIN-SUFFIX,fujitsu.com
+
+# Hakuhodo DY Holdings Inc. (株式会社博報堂DYホールディングス) / Hakuhodo Inc. (株式会社博報堂)
+DOMAIN-SUFFIX,hakuhodo.co.jp
+
+# Hitachi Solutions, Ltd. (株式会社日立ソリューションズ)
+DOMAIN-SUFFIX,hitachi-solutions.com
+
+# Japan Chamber of Commerce and Industry (JCCI) (日本商工会議所)
+DOMAIN-SUFFIX,jcci.or.jp
+
+# Keidanren (Japan Business Federation) (一般社団法人 日本経済団体連合会)
+DOMAIN-SUFFIX,keidanren.or.jp
+
+# KPMG AZSA LLC (有限責任 あずさ監査法人)
+# KPMG Consulting Co., Ltd. (KPMGコンサルティング株式会社)
+DOMAIN-SUFFIX,kpmg.com
+
+# LIFULL Co., Ltd. (株式会社LIFULL)
+DOMAIN-SUFFIX,lifull.com
+
+# Linklaters (Gaikokuho Kyodo-Jigyo Horitsu Jimusho Linklaters) (外国法共同事業法律事務所リンクレーターズ)
+DOMAIN-SUFFIX,linklaters.com
+
+# McKinsey & Company (マッキンゼー・アンド・カンパニー)
+DOMAIN-SUFFIX,mckinsey.com
+
+# Michael Page International (Japan) K.K. (マイケル・ペイジ・インターナショナル・ジャパン株式会社)
+DOMAIN-SUFFIX,michaelpage.co.jp
+
+# Mitsubishi Estate Co., Ltd. (三菱地所株式会社)
+DOMAIN-SUFFIX,mec.co.jp
+
+# Mitsui Fudosan Co., Ltd. (三井不動産株式会社)
+DOMAIN-SUFFIX,mitsuifudosan.co.jp
+
+# Mori Hamada & Matsumoto (森・濱田松本法律事務所)
+DOMAIN-SUFFIX,morihamada.com
+DOMAIN-SUFFIX,mhmjapan.com
+
+# Nagashima Ohno & Tsunematsu (長島・大野・常松法律事務所)
+DOMAIN-SUFFIX,noandt.com
+
+# NEC Corporation (日本電気株式会社)
+DOMAIN-SUFFIX,nec.com
+
+# Nishimura & Asahi (西村あさひ法律事務所・外国法共同事業)
+DOMAIN-SUFFIX,jurists.co.jp
+DOMAIN-SUFFIX,nishimura.com
+
+# Nomura Real Estate Development Co., Ltd. (野村不動産株式会社)
+DOMAIN-SUFFIX,nomura-re.co.jp
+
+# Nomura Real Estate Holdings, Inc. (野村不動産ホールディングス株式会社)
+DOMAIN-SUFFIX,nomura-re-hd.co.jp
+
+# Nomura Real Estate Solutions Co., Ltd. (野村不動産ソリューションズ株式会社)
+DOMAIN-SUFFIX,nomura-re-s.co.jp
+
+# Nomura Research Institute, Ltd. (株式会社野村総合研究所)
+DOMAIN-SUFFIX,nri.com
+
+# Omnicom Media Group (オムニコム・メディア・グループ)
+DOMAIN-SUFFIX,omnicomgroup.com
+
+# Pasona Group Inc. (株式会社パソナグループ)
+DOMAIN-SUFFIX,pasona.co.jp
+DOMAIN-SUFFIX,pasonagroup.co.jp
+
+# Persol Holdings Co., Ltd. (パーソルホールディングス株式会社)
+DOMAIN-SUFFIX,persol-group.co.jp
+
+# PricewaterhouseCoopers Aarata LLC (PwCあらた有限責任監査法人)
+# PwC Consulting LLC (PwCコンサルティング合同会社)
+DOMAIN-SUFFIX,pwc.com
+
+# Publicis Groupe Japan (ピュブリシス・グループ・ジャパン)
+DOMAIN-SUFFIX,publicisgroupe.com
+
+# Recruit Holdings Co., Ltd. (株式会社リクルートホールディングス)
+DOMAIN-SUFFIX,recruit.co.jp
+
+# Robert Walters Japan K.K. (ロバート・ウォルターズ・ジャパン株式会社)
+DOMAIN-SUFFIX,robertwalters.co.jp
+
+# Sekisui House, Ltd. (積水ハウス株式会社)
+DOMAIN-SUFFIX,sekisuihouse.co.jp
+
+# Sumitomo Realty & Development Co., Ltd. (住友不動産株式会社)
+DOMAIN-SUFFIX,sumitomo-rd.co.jp
+
+# TIS Inc. (TIS株式会社)
+DOMAIN-SUFFIX,tis.co.jp
+
+# Tokyu Land Corporation (東急不動産株式会社)
+DOMAIN-SUFFIX,tokyu-land.co.jp
+
+# WPP
+DOMAIN-SUFFIX,wpp.com
+
+
+# --------------------------- E-Commerce
+
+# 7-Eleven Japan (セブン-イレブン・ジャパン)
+DOMAIN-SUFFIX,7-11.co.jp
+
+# AEON (イオン)
+DOMAIN-SUFFIX,welcome-aeon.com
+DOMAIN-SUFFIX,aeon.info
+DOMAIN-SUFFIX,aeon.com
+DOMAIN-SUFFIX,aeon.co.jp
+
+# Animate (アニメイト)
+DOMAIN-SUFFIX,animate.co.jp
+
+# Bandai (バンダイ)
+DOMAIN-SUFFIX,bandai.co.jp
+
+# BicCamera (ビックカメラ)
+DOMAIN-SUFFIX,biccamera.com
+
+# CAINZ (カインズ)
+DOMAIN-SUFFIX,cainz.com
+
+# Daimaru Matsuzakaya (大丸松坂屋)
+DOMAIN-SUFFIX,dmms.com
+
+# DCM (DCMカーマ/ダイキ/ホーマック等)
+DOMAIN-SUFFIX,dcm-hldgs.co.jp
+
+# Demae-can (出前館)
+DOMAIN-SUFFIX,demae-can.com
+
+# Don Quijote (ドン・キホーテ)
+DOMAIN-SUFFIX,donki.com
+
+# エビテン[ebten]
+# Parent: KADOKAWA
+DOMAIN-SUFFIX,ebten.jp
+
+# EDION (エディオン)
+DOMAIN-SUFFIX,edion.com
+
+# Family Mart (ファミリーマート)
+DOMAIN-SUFFIX,family.co.jp
+
+# Ito Yokado (イトーヨーカドー)
+DOMAIN-SUFFIX,itoyokado.co.jp
+
+# Joshin (上新電機)
+DOMAIN-SUFFIX,joshin.co.jp
+
+# Keio Department Store (京王百貨店)
+DOMAIN-SUFFIX,keio-sc.co.jp
+
+# KOHNAN (コーナン)
+DOMAIN-SUFFIX,hc-kohnan.com
+
+# LAWSON (ローソン)
+DOMAIN-SUFFIX,lawson.co.jp
+
+# LIFULL HOME'S (ライフルホームズ)
+DOMAIN-SUFFIX,lifull-homes.jp
+
+# Mapion (マピオン)
+DOMAIN-SUFFIX,mapion.co.jp
+
+# Marui (OIOI) (丸井)
+DOMAIN-SUFFIX,0101.co.jp
+
+# Matsumoto Kiyoshi (マツモトキヨシ)
+DOMAIN-SUFFIX,matsukiyo.co.jp
+
+# menu
+DOMAIN-SUFFIX,menu.jp
+
+# Mercari (メルカリ)
+DOMAIN-SUFFIX,mercari.com
+
+# minne (ミンネ)
+DOMAIN-SUFFIX,minne.com
+
+# Mitsukoshi Isetan (三越伊勢丹)
+DOMAIN-SUFFIX,isetan.mistore.jp
+
+# NITORI (ニトリ)
+DOMAIN-SUFFIX,nitori.co.jp
+
+# Nojima (ノジマ)
+DOMAIN-SUFFIX,nojima.co.jp
+
+# Odakyu Department Store (小田急百貨店)
+DOMAIN-SUFFIX,odakyu-dept.co.jp
+
+# Rakuten (楽天市場)
+DOMAIN-SUFFIX,rakuten.co.jp
+# # ASN: Rakuten Group, Inc.
+# SRC-IP-ASN,AS23820
+
+# SOGO SEIBU (そごう・西武)
+DOMAIN-SUFFIX,sogo-seibu.co.jp
+
+# Starbucks Japan (スターバックス ジャパン)
+DOMAIN-SUFFIX,starbucks.co.jp
+
+# Sugi Pharmacy (スギ薬局)
+DOMAIN-SUFFIX,sugi-net.co.jp
+
+# SUUMO (スーモ)
+DOMAIN-SUFFIX,suumo.jp
+
+# Takashimaya (高島屋)
+DOMAIN-SUFFIX,takashimaya.co.jp
+
+# Tsuruha Drug (ツルハドラッグ)
+DOMAIN-SUFFIX,tsuruha.co.jp
+
+# Uber Eats Japan
+DOMAIN-SUFFIX,ubereats.com
+
+# UNIQLO (ユニクロ)
+DOMAIN-SUFFIX,uniqlo.com
+
+# Welcia (ウエルシア)
+DOMAIN-SUFFIX,welcia.co.jp
+
+# Wolt
+DOMAIN-SUFFIX,wolt.com
+
+# Yamada Denki (ヤマダデンキ)
+DOMAIN-SUFFIX,yamada-denki.co.jp
+
+# Yodobashi Camera (ヨドバシカメラ)
+DOMAIN-SUFFIX,yodobashi.com
+
+# ZOZOTOWN (ゾゾタウン)
+DOMAIN-SUFFIX,zozo.jp
+
+
+# --------------------------- News & Information
+
+# Japan Newspaper Publishers & Editors Association (日本新聞協会)
+DOMAIN-SUFFIX,pressnet.or.jp
+
+# Agrinews / Japan Agricultural News (日本農業新聞)
+DOMAIN-SUFFIX,agrinews.co.jp
+
+# Asahi Shimbun (朝日新聞)
+DOMAIN-SUFFIX,asahi.com
+
+# ASCII JP
+# Parent: KADOKAWA
+DOMAIN-SUFFIX,ascii.jp
+
+# D Davinci ダ・ヴィンチWeb
+# Parent: KADOKAWA
+DOMAIN-SUFFIX,ddnavi.com
+
+# Famitsu ファミ通
+# Parent: KADOKAWA
+DOMAIN-SUFFIX,famitsu.com
+
+# Fuji News Network (FNN) / Fuji TV (フジテレビ)
+DOMAIN-SUFFIX,fujitv.co.jp
+
+# Hochi Shimbun (報知新聞)
+DOMAIN-SUFFIX,hochi.news
+
+# Japan News Network (JNN) / TBS (TBSテレビ)
+DOMAIN-SUFFIX,tbs.co.jp
+
+# Japan Times (ジャパンタイムズ)
+DOMAIN-SUFFIX,japantimes.co.jp
+
+# Jiji Press (時事通信社)
+DOMAIN-SUFFIX,jiji.com
+
+# Kyodo News (共同通信社)
+DOMAIN-SUFFIX,kyodonewsprwire.jp
+
+# LINE NEWS (LINEニュース)
+# DOMAIN-SUFFIX,news.line.me
+
+# Mainichi Shimbun (毎日新聞)
+DOMAIN-SUFFIX,mainichi.jp
+
+# NHK NEWS WEB
+DOMAIN-SUFFIX,nhk.or.jp
+
+# Nihon Keizai Shimbun (Nikkei) (日本経済新聞)
+DOMAIN-SUFFIX,nikkei.com
+
+# Nikkan Kogyo Shimbun (日刊工業新聞) / Sports (日刊スポーツ)
+DOMAIN-SUFFIX,nikkansports.com
+DOMAIN-SUFFIX,nikkan.co.jp
+
+# Nippon News Network (NNN) / NTV (日本テレビ)
+DOMAIN-SUFFIX,ntv.co.jp
+
+# Sankei Shimbun (産経新聞)
+DOMAIN-SUFFIX,sankei.com
+
+# Sports Nippon (Sponichi) (スポーツニッポン新聞)
+DOMAIN-SUFFIX,sponichi.co.jp
+
+# Suisan Keizai Shimbun (水産経済新聞)
+DOMAIN-SUFFIX,suisan-keizai.co.jp
+
+# tenki.jp (日本気象協会)
+DOMAIN-SUFFIX,tenki.jp
+
+# Tokyo News Service / TV Guide (東京ニュース通信社 / テレビガイド)
+DOMAIN-SUFFIX,tvguide.or.jp
+DOMAIN-SUFFIX,tokyo-np.co.jp
+DOMAIN-SUFFIX,tokyonews.co.jp
+
+# Tokyo Sports (東京スポーツ新聞)
+DOMAIN-SUFFIX,tokyo-sports.co.jp
+
+# TV Asahi (テレビ朝日)
+DOMAIN-SUFFIX,tv-asahi.co.jp
+
+# TXN Network / TV Tokyo (テレビ東京)
+DOMAIN-SUFFIX,tv-tokyo.co.jp
+
+# Walkerplus ウォーカープラス
+# Parent: KADOKAWA
+DOMAIN-SUFFIX,walkerplus.com
+
+# Weathernews (ウェザーニュース)
+DOMAIN-SUFFIX,weathernews.jp
+
+# WEBザテレビジョン
+# Parent: KADOKAWA
+DOMAIN-SUFFIX,thetv.jp
+
+# Yomiuri Shimbun (読売新聞)
+DOMAIN-SUFFIX,yomiuri.co.jp
+
+
+# --------------------------- Entertainment
+
+# AbemaTV (アベマTV)
+# Parent: CyberAgent
+DOMAIN-SUFFIX,abema.tv
+DOMAIN-SUFFIX,abema.io
+DOMAIN-SUFFIX,ameba.jp
+DOMAIN-SUFFIX,abema-tv.com
+DOMAIN-SUFFIX,hayabusa.io
+DOMAIN-SUFFIX,hayabusa.media
+
+# AWA (アワ)
+# Parent: CyberAgent & Avex Digital
+DOMAIN-SUFFIX,awa.fm
+
+# Bandai Namco Entertainment (バンダイナムコエンターテインメント)
+# DOMAIN-SUFFIX,account.bandainamcoent.com
+# DOMAIN-SUFFIX,bandainamcoent.asia
+# DOMAIN-SUFFIX,bandainamcoent.com
+# DOMAIN-SUFFIX,bandai.com
+DOMAIN-SUFFIX,bn-ent.net
+DOMAIN-SUFFIX,tekken-official.jp
+DOMAIN-SUFFIX,gundam-vs.jp
+DOMAIN-SUFFIX,bandainamcoid.com
+DOMAIN-SUFFIX,bandainamcostudios.com
+DOMAIN-SUFFIX,bandainamco-ol.co.jp
+DOMAIN-SUFFIX,bandainamco-nexus.co.jp
+DOMAIN-SUFFIX,bandainamco-am.co.jp
+DOMAIN-SUFFIX,bandainamco.co.jp
+DOMAIN-SUFFIX,bandainamcoent.co.jp
+
+# Capcom (カプコン)
+DOMAIN-SUFFIX,capcom.co.jp
+
+# Comic CMOA (コミックシーモア)
+DOMAIN-SUFFIX,cmoa.jp
+
+# d Anime Store (dアニメストア)
+# Parent: NTT Docomo
+# DOMAIN-SUFFIX,animestore.docomo.ne.jp
+
+# DLsite (ディーエルサイト)
+# Parent: EISYS, Inc.
+DOMAIN-SUFFIX,dlsite.jp
+DOMAIN-SUFFIX,dlsite.com
+
+# DMM / FANZA (DMM TV / FANZA)
+DOMAIN-SUFFIX,dmm-extension.com   
+DOMAIN-SUFFIX,dmmapis.com
+DOMAIN-SUFFIX,dmmgames.com
+DOMAIN-SUFFIX,dmm.co.jp
+DOMAIN-SUFFIX,dmm.com
+DOMAIN-SUFFIX,fanza.com
+
+# e+ (イープラス)
+DOMAIN-SUFFIX,eplus.jp
+DOMAIN-SUFFIX,eplus.co.jp
+
+# FOD (Fuji TV On Demand) (フジテレビオンデマンド)
+# DOMAIN-SUFFIX,fod.fujitv.co.jp
+DOMAIN-SUFFIX,fujitv.co.jp
+
+# H.I.S. (エイチ・アイ・エス)
+DOMAIN-SUFFIX,his-j.com
+
+# honto (ホント)
+# Parent: Dai Nippon Printing (DNP)
+DOMAIN-SUFFIX,honto.jp
+
+# Hulu Japan
+# Parent: HJ Holdings
+DOMAIN-SUFFIX,happyon.jp
+DOMAIN-SUFFIX,hulu.jp
+DOMAIN-SUFFIX,hjholdings.jp
+DOMAIN-SUFFIX,hjholdings.tv
+
+# JTB
+DOMAIN-SUFFIX,jtb.co.jp
+DOMAIN-SUFFIX,jtbusa.com
+DOMAIN-SUFFIX,jtbcorp.jp
+
+# KADOKAWA (角川書店)
+# # BOOK☆WALKER (ブックウォーカー)
+DOMAIN-SUFFIX,bookwalker.jp
+# # Comic Walker (カドコミ)
+DOMAIN-SUFFIX,comic-walker.com
+# # Dwango
+DOMAIN-SUFFIX,dwango.jp
+# # Kaku Yomu (カクヨム)
+DOMAIN-SUFFIX,kakuyomu.jp
+# # Lettuce Club レタスクラブ
+DOMAIN-SUFFIX,lettuceclub.net
+# # Niconico
+DOMAIN-SUFFIX,nicovideo.jp
+# # Kadokawa
+DOMAIN-SUFFIX,kadcul.com
+DOMAIN-SUFFIX,kadokawa.jp
+DOMAIN-SUFFIX,kadokawa.co.jp
+
+
+# Kinokuniya (紀伊國屋書店)
+# DOMAIN-SUFFIX,kinokuniya.com
+DOMAIN-SUFFIX,k-kinoppy.jp
+DOMAIN-SUFFIX,kinokuniya.co.jp
+
+# Kodansha (講談社)
+# DOMAIN-SUFFIX,kodansha.com
+# DOMAIN-SUFFIX,kodansha.us
+# DOMAIN-SUFFIX,dvs-cover.kodansha.co.jp
+DOMAIN-SUFFIX,pocket.shonenmagazine.com
+DOMAIN-SUFFIX,comic-days.com
+DOMAIN-SUFFIX,palcy.jp
+DOMAIN-SUFFIX,cycomi.com
+DOMAIN-SUFFIX,yanmaga.jp
+DOMAIN-SUFFIX,kodansha.co.jp
+
+# Konami (コナミ)
+# DOMAIN-SUFFIX,konami.com
+# DOMAIN-SUFFIX,konami.net
+DOMAIN-SUFFIX,eagate.573.jp
+DOMAIN-SUFFIX,p.eagate.573.jp
+DOMAIN-SUFFIX,eamusement.jp
+DOMAIN-SUFFIX,konami.jp
+
+# Lawson Ticket (ローチケ)
+DOMAIN-SUFFIX,l-tike.com
+
+# Lemino (レミノ)
+DOMAIN-SUFFIX,dtv.jp
+DOMAIN-SUFFIX,dmkt-sp.jp
+# DOMAIN-SUFFIX,lemino.docomo.ne.jp
+
+# music.jp
+DOMAIN-SUFFIX,music-book.jp
+
+# Nintendo (任天堂)
+# DOMAIN-SUFFIX,nintendo.com
+# DOMAIN-SUFFIX,nintendo.net
+# DOMAIN-SUFFIX,accounts.nintendo.com
+# DOMAIN-SUFFIX,nintendowifi.net
+# DOMAIN-SUFFIX,nintendo-europe.com
+DOMAIN-SUFFIX,nintendo.co.jp
+
+# RecoChoku (レコチョク)
+DOMAIN-SUFFIX,recochoku.jp
+
+# SEGA (セガ)
+# DOMAIN-SUFFIX,sega.com
+# DOMAIN-SUFFIX,sonicteam.com
+# DOMAIN-SUFFIX,pso2.com
+DOMAIN-SUFFIX,pso2.jp
+DOMAIN-SUFFIX,sega.jp
+DOMAIN-SUFFIX,sega.co.jp
+
+# Shogakukan (小学館)
+# DOMAIN-SUFFIX,shogakukan.asia
+DOMAIN-SUFFIX,corocoro.jp
+DOMAIN-SUFFIX,sunday-webry.com
+DOMAIN-SUFFIX,shogakukan.co.jp
+
+# Shueisha (集英社)
+# DOMAIN-SUFFIX,viz.com
+# DOMAIN-SUFFIX,shonenjump.com
+DOMAIN-SUFFIX,shonenjumpplus.com
+DOMAIN-SUFFIX,youngjump.jp
+DOMAIN-SUFFIX,jumpfesta.com
+DOMAIN-SUFFIX,shueisha.co.jp
+
+# Square Enix (スクウェア・エニックス)
+# DOMAIN-SUFFIX,finalfantasyxiv.com
+# DOMAIN-SUFFIX,square-enix-games.com
+# DOMAIN-SUFFIX,square-enix.com
+DOMAIN-SUFFIX,taito.co.jp
+DOMAIN-SUFFIX,jp.finalfantasyxiv.com
+DOMAIN-SUFFIX,dragonquest.jp
+DOMAIN-SUFFIX,jp.square-enix.com
+
+# TELASA (テラサ)
+# Parent: TELASA Corporation (KDDI & TV Asahi)
+DOMAIN-SUFFIX,videopass.jp
+DOMAIN-SUFFIX,telasa.jp
+
+# Ticket Pia (チケットぴあ)
+DOMAIN-SUFFIX,pia.co.jp
+DOMAIN-SUFFIX,pia.jp
+
+# Calture Entertainment カルチュア・エンタテインメント
+# # TSUTAYA (ツタヤ)
+# DOMAIN-SUFFIX,store.tsite.jp
+DOMAIN-SUFFIX,discas.net
+DOMAIN-SUFFIX,tsutaya.co.jp
+# # Culture Convenience Club カルチュア・コンビニエンス・クラブ
+DOMAIN-SUFFIX,ccc.co.jp
+DOMAIN-SUFFIX,cccmkhd.co.jp
+# # Culture Entertainment カルチュア・エンタテインメント
+DOMAIN-SUFFIX,culture-pub.jp
+DOMAIN-SUFFIX,ceg.co.jp
+DOMAIN-SUFFIX,culture-ent.co.jp
+
+# U-NEXT / Paravi (パラビ)
+# DOMAIN-SUFFIX,video.unext.jp
+# DOMAIN-SUFFIX,api.unext.jp
+DOMAIN-SUFFIX,paravi.jp
+DOMAIN-SUFFIX,hnext.jp
+DOMAIN-SUFFIX,unext.jp
+DOMAIN-SUFFIX,nxtv.jp
+
+# WATCHA (KR/JP)
+DOMAIN-SUFFIX,watcha.com
+DOMAIN-SUFFIX,watcha.team
+DOMAIN-SUFFIX,watchacorp.jp
+
+
+# --------------------------- SNS
+
+# 5channel (5ちゃんねる)
+DOMAIN-SUFFIX,5ch.net
+
+# Ameba / Ameba Blog (アメーバ / アメブロ)
+DOMAIN-SUFFIX,ameba.jp
+
+# BBSPINK
+DOMAIN-SUFFIX,bbspink.com
+
+# Cookpad (クックパッド)
+DOMAIN-SUFFIX,cookpad.com
+
+# Hatena Blog (はてなブログ)
+DOMAIN-SUFFIX,hatenablog.com
+
+# Mixi (ミクシィ)
+DOMAIN-SUFFIX,mixi.jp
+
+# note (ノート)
+DOMAIN-SUFFIX,note.com

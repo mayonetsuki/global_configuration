@@ -1,0 +1,429 @@
+# Mayo's Route list - Regions - HK.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/HK.list
+# Last update: APR 22, 2025 22:52 JST
+# Update by code-shiromi
+
+# --------------------------- Government / Public Services
+
+# Airport Authority Hong Kong (AAHK)
+DOMAIN-SUFFIX,hkairport.com
+DOMAIN-SUFFIX,hongkongairport.com
+SRC-IP-ASN,AS17706
+
+# Consumer Council
+DOMAIN-SUFFIX,consumer.org.hk
+
+# Hospital Authority (HA)
+DOMAIN-SUFFIX,ha.org.hk
+
+# Hong Kong Exchange
+DOMAIN-SUFFIX,hkex.com.hk
+
+# Hong Kong Interbank Clearing Limited (HKICL)
+DOMAIN-SUFFIX,hkicl.com.hk
+
+# Hong Kong Monetary Authority (HKMA)
+# DOMAIN-SUFFIX,hkma.gov.hk
+
+# Mandatory Provident Fund Schemes Authority (MPFA)
+DOMAIN-SUFFIX,mpfa.org.hk
+# Securities and Futures Commission (SFC)
+DOMAIN-SUFFIX,sfc.hk
+
+# University Grants Committee (UGC)
+DOMAIN-SUFFIX,ugc.edu.hk
+
+# Urban Renewal Authority (URA)
+DOMAIN-SUFFIX,ura.org.hk
+
+# Hong Kong Post
+DOMAIN-SUFFIX,hongkongpost.hk
+
+DOMAIN-SUFFIX,gov.hk
+
+
+# --------------------------- Basic Services & Infrastructure
+
+# China Light and Power (CLP)
+DOMAIN-SUFFIX,clp.com.hk
+
+# Chinese University of Hong Kong (CUHK)
+# DOMAIN-SUFFIX,cuhk.edu.hk
+
+# Citybus 城巴 / NWFB 新巴
+DOMAIN-SUFFIX,citybus.com.hk
+DOMAIN-SUFFIX,nwfb.com.hk
+
+# City University of Hong Kong (CityU)
+# DOMAIN-SUFFIX,cityu.edu.hk
+
+# Education University of Hong Kong (EdUHK)
+DOMAIN-SUFFIX,eduhk.hk
+
+# Hong Kong Baptist University (HKBU)
+# DOMAIN-SUFFIX,hkbu.edu.hk
+
+# Hong Kong Electric (HK Electric)
+DOMAIN-SUFFIX,hkelectric.com
+
+# Hong Kong Metropolitan University (HKMU)
+# DOMAIN-SUFFIX,hkmu.edu.hk
+
+# Hong Kong Polytechnic University (PolyU)
+# DOMAIN-SUFFIX,polyu.edu.hk
+
+# Hong Kong Tramways
+DOMAIN-SUFFIX,hktramways.com
+
+# Hong Kong University of Science and Technology (HKUST)
+DOMAIN-SUFFIX,ust.hk
+# DOMAIN-SUFFIX,hkust.edu.hk
+
+# Kowloon Motor Bus (KMB)
+DOMAIN-SUFFIX,kmb.hk
+
+# Lingnan University (LU)
+# DOMAIN-SUFFIX,ln.edu.hk
+
+# MTR Corporation
+DOMAIN-SUFFIX,mtr.com.hk
+
+# Star Ferry
+DOMAIN-SUFFIX,starferry.com.hk
+
+# Towngas
+DOMAIN-SUFFIX,towngas.com
+
+# University of Hong Kong (HKU)
+DOMAIN-SUFFIX,hku.hk
+
+DOMAIN-SUFFIX,edu.hk
+
+
+# --------------------------- Telecom / ISP / Communication Services
+
+# 3 Hong Kong / Hutchison Telephone
+DOMAIN-SUFFIX,mobileonline.hk
+DOMAIN-SUFFIX,three.com.hk
+# # ASN: Hutchison Telephone Company Limited
+SRC-IP-ASN,AS10118
+
+# China Mobile Hong Kong (CMHK)
+DOMAIN-SUFFIX,hk.chinamobile.com
+# # ASN: China Mobile Hong Kong Company Limited
+SRC-IP-ASN,AS9231
+SRC-IP-ASN,AS137872
+
+# HGC Global Communications (HGC)
+DOMAIN-SUFFIX,hgc-intl.com
+DOMAIN-SUFFIX,hgcbiz.com
+DOMAIN-SUFFIX,hgc.com.hk
+# # ASN: HGC Global Communications Limited
+SRC-IP-ASN,AS9304
+
+# Hong Kong Broadband Network (HKBN)
+DOMAIN-SUFFIX,hkbn.net
+DOMAIN-SUFFIX,hkbnltd.net
+DOMAIN-SUFFIX,hkbnes.net
+DOMAIN-SUFFIX,hkbnes.com
+# # ASN: Hong Kong Broadband Network Ltd.
+SRC-IP-ASN,AS9269
+SRC-IP-ASN,AS10103
+# # ASN: HKBN Enterprise Solutions HK Limited
+SRC-IP-ASN,AS9381
+
+# Hong Kong Cable Television (i-CABLE)
+DOMAIN-SUFFIX,i-cable.com
+DOMAIN-SUFFIX,i-cable.com.hk
+
+# Hong Kong Telecommunications (HKT) / PCCW
+DOMAIN-SUFFIX,netvigator.com
+DOMAIN-SUFFIX,pccw.com
+DOMAIN-SUFFIX,hkt-enterprise.com
+DOMAIN-SUFFIX,hkt.com
+# # csl / 1O1O (HKT)
+DOMAIN-SUFFIX,clubsim.com.hk
+DOMAIN-SUFFIX,sunmobile.com.hk
+DOMAIN-SUFFIX,hkcsl.com
+DOMAIN-SUFFIX,1010corporate.com
+DOMAIN-SUFFIX,1010.com.hk
+# # ASN: PCCW Global, Inc.
+SRC-IP-ASN,AS3491
+# # ASN: HKT Limited
+SRC-IP-ASN,AS4515
+SRC-IP-ASN,AS4760
+# # ASN: HKT Global Operation (HK) Limited
+SRC-IP-ASN,AS9237
+# # ASN: Hong Kong Telecommunications (HKT) Limited
+SRC-IP-ASN,AS9444
+# # ASN: HKCSL GPRS NETWORK
+SRC-IP-ASN,AS38819
+
+# SmarTone
+DOMAIN-SUFFIX,birdie.com.hk
+DOMAIN-SUFFIX,valuegb.com
+DOMAIN-SUFFIX,smartonesolutions.com.hk
+DOMAIN-SUFFIX,smartone.com
+DOMAIN-SUFFIX,s-rewards.hk
+# # ASN: SmarTone Telecommunications Ltd
+SRC-IP-ASN,AS9474
+# # ASN: SmarTone Mobile Communications Ltd
+SRC-IP-ASN,AS17924
+
+
+# --------------------------- Business & Professional Services
+
+# 28hse
+DOMAIN-SUFFIX,28hse.com
+
+# Centaline Property 中原地產
+DOMAIN-SUFFIX,centanet.com
+
+# CTgoodjobs
+DOMAIN-SUFFIX,ctgoodjobs.hk
+
+# Indeed Hong Kong
+DOMAIN-SUFFIX,indeed.com
+
+# JobsDB Hong Kong
+DOMAIN-SUFFIX,jobsdb.com
+
+# Midland Realty 美聯物業
+DOMAIN-SUFFIX,midland.com.hk
+
+# Spacious 千居S
+DOMAIN-SUFFIX,spacious.hk
+
+# Squarefoot 5平方
+DOMAIN-SUFFIX,squarefoot.com.hk
+
+
+# --------------------------- News & Information
+
+# Channel C
+DOMAIN-SUFFIX,channelchk.com
+
+# HK01
+DOMAIN-SUFFIX,hk01.com
+
+# Hong Kong Economic Journal (hkej)
+DOMAIN-SUFFIX,hkej.com
+
+# Hong Kong Economic Times (hket)
+DOMAIN-SUFFIX,hket.com
+
+# Hong Kong Free Press (HKFP)
+DOMAIN-SUFFIX,hongkongfp.com
+
+# HOY TV (i-CABLE)
+DOMAIN-SUFFIX,hoy.tv
+# # ASN: HK Cable TV Ltd
+SRC-IP-ASN,AS9908
+
+# Ming Pao
+DOMAIN-SUFFIX,mingpao.com
+
+# Now News (Now TV)
+DOMAIN-SUFFIX,now.com
+DOMAIN-SUFFIX,nowe.com
+
+# Oriental Daily
+DOMAIN-SUFFIX,on.cc
+
+# Radio Television Hong Kong (RTHK)
+DOMAIN-SUFFIX,rthk.hk
+DOMAIN-SUFFIX,rthk.org.hk
+
+# Roadshow
+DOMAIN-SUFFIX,roadshow.hk
+
+# Sing Tao Daily
+DOMAIN-SUFFIX,stheadline.com
+
+# South China Morning Post (SCMP)
+DOMAIN-SUFFIX,scmp.com
+# # ASN: South China Morning Post Publishers Limited. English
+SRC-IP-ASN,AS24002
+
+# Television Broadcasts Limited (TVB)
+USER-AGENT,encoreTVB*
+DOMAIN-SUFFIX,encoretvb.com
+DOMAIN,bcbolt446c5271-a.akamaihd.net
+DOMAIN-SUFFIX,mytvsuper.com
+DOMAIN-SUFFIX,tvb.com
+
+# Viu
+USER-AGENT,Viu*
+USER-AGENT,ViuTV*
+DOMAIN,d1k2us671qcoau.cloudfront.net
+DOMAIN,d2anahhhmp1ffz.cloudfront.net
+DOMAIN,dfp6rglgjqszk.cloudfront.net
+DOMAIN-SUFFIX,viu.tv
+DOMAIN-SUFFIX,viu.com
+
+
+# --------------------------- E-Commerce
+
+# 2000 fun
+DOMAIN-SUFFIX,2000fun.com
+DOMAIN-SUFFIX,openshop.com.hk
+
+# 7-Eleven HK
+DOMAIN-SUFFIX,7-eleven.com.hk
+
+# AEON (Hong Kong)
+DOMAIN-SUFFIX,aeonstores.com.hk
+DOMAIN-SUFFIX,aeoncity.com.hk
+
+# Bonjour HK
+DOMAIN-SUFFIX,bonjourhk.com
+
+# HK Book City 香港書城
+DOMAIN-SUFFIX,hkbookcity.com
+
+# Broadway
+DOMAIN-SUFFIX,broadway.com.hk
+DOMAIN-SUFFIX,broadwaylifestyle.com
+
+# Carousell HK
+DOMAIN-SUFFIX,carousell.com
+
+# Circle K HK
+DOMAIN-SUFFIX,circlek.hk
+
+# Ebay HK
+DOMAIN-SUFFIX,ebay.com.hk
+
+# Foodpanda HK
+DOMAIN-SUFFIX,foodpanda.hk
+
+# Fortress
+DOMAIN-SUFFIX,fortress.com.hk
+
+# G2000
+DOMAIN-SUFFIX,g2000.com.hk
+
+# HK Suning
+DOMAIN-SUFFIX,hksuning.com
+
+# HKTVmall (HKTV)
+DOMAIN-SUFFIX,hktvmall.com
+
+# IKEA HK
+DOMAIN-SUFFIX,ikea.com.hk
+
+# Lung Fung Mall
+DOMAIN-SUFFIX,lungfung.hk
+
+# Mannings HK
+DOMAIN-SUFFIX,mannings.com.hk
+
+# New Balance HK
+DOMAIN-SUFFIX,newbalance.com.hk
+
+# PARKnSHOP (Park'n Shop)
+DOMAIN-SUFFIX,parknshop.com
+DOMAIN-SUFFIX,pns.hk
+
+# Price.com.hk
+DOMAIN-SUFFIX,price.com.hk
+
+# Sasa
+DOMAIN-SUFFIX,sasa.com.hk
+
+# Sogo Hong Kong
+DOMAIN-SUFFIX,sogo.com.hk
+
+# Starbucks HK
+DOMAIN-SUFFIX,starbucks.com.hk
+
+# Uniqlo HK
+DOMAIN-SUFFIX,uniqlo.com.hk
+
+# Watsons HK
+DOMAIN-SUFFIX,watsons.com.hk
+
+# Wellcome
+DOMAIN-SUFFIX,wellcome.com.hk
+
+# Yata
+DOMAIN-SUFFIX,yata.hk
+
+# Yoho Hong Kong
+DOMAIN-SUFFIX,yohohongkong.com
+
+# Zalora HK
+DOMAIN-SUFFIX,zalora.com.hk
+
+# Ztore / Neigbuy
+DOMAIN-SUFFIX,ztore.com
+DOMAIN-SUFFIX,neigbuy.com
+
+
+# --------------------------- Entertainment
+
+# Broadway Circuit
+DOMAIN-SUFFIX,cinema.com.hk
+
+# Cityline
+DOMAIN-SUFFIX,cityline.com
+
+# Golden Harvest Cinemas
+DOMAIN-SUFFIX,goldenharvest.com
+
+# HBO HK
+DOMAIN-SUFFIX,hbogoasia.hk
+
+# hmvod HK
+DOMAIN-SUFFIX,hmvod.com.hk
+
+# Hong Kong Jockey Club (HKJC)
+DOMAIN-SUFFIX,hkjc.com
+DOMAIN-SUFFIX,hkjc.com.hk
+
+# Joox
+DOMAIN-SUFFIX,joox.com
+
+# KKTIX HK
+DOMAIN-SUFFIX,kktix.com
+
+# MCL Cinemas
+DOMAIN-SUFFIX,mclcinema.com
+
+# URBTIX (Cityline - LCSD)
+DOMAIN-SUFFIX,urbtix.hk
+
+
+# --------------------------- SNS
+
+# Baby Kingdom
+DOMAIN-SUFFIX,baby-kingdom.com
+
+# Discuss.com.hk (HK Discussion)
+DOMAIN-SUFFIX,discuss.com.hk
+
+# HKBusForum 香港巴士論壇
+DOMAIN-SUFFIX,hkbf.org
+
+# HKGalden
+DOMAIN-SUFFIX,hkgalden.com
+
+# HKGolden (Hong Kong Golden Forum)
+DOMAIN-SUFFIX,hkgolden.com
+
+# HongKongCard.com (HKCard)
+DOMAIN-SUFFIX,hongkongcard.com
+
+# LIHKG
+DOMAIN-SUFFIX,na.cx
+DOMAIN-SUFFIX,lihkg.com
+
+# OpenRice
+DOMAIN-SUFFIX,openrice.com
+
+# Uwants
+DOMAIN-SUFFIX,uwants.com
+
+
+# --------------------------- Others
+DOMAIN-SUFFIX,cusu.hk

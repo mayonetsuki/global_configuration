@@ -1,0 +1,157 @@
+# Mayo's Route list - Regions - TW-financial.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/TW-financial.list
+# Last update: APR 22, 2025 20:46 JST
+# Update by code-shiromi
+
+# --------------------------- Insurance
+
+# Cathay Insurance (國泰)
+DOMAIN-SUFFIX,cathaylife.com.tw
+DOMAIN-SUFFIX,cathay-ins.com.tw
+DOMAIN-SUFFIX,cathayholdings.com.tw
+
+# Nan Shan Life Insurance (南山人壽)
+DOMAIN-SUFFIX,nanshanlife.com.tw
+
+
+# --------------------------- Loyalty Programs
+
+# HAPPY GO
+DOMAIN-SUFFIX,happygocard.com.tw
+DOMAIN-SUFFIX,happygo.com.tw
+
+# OPENPOINT
+DOMAIN-SUFFIX,openpoint.com.tw
+
+
+# --------------------------- Banking & Financial Services
+
+# Bank of Taiwan (臺灣銀行)
+DOMAIN-SUFFIX,bot.com.tw
+# # ASN: Bank Of Taiwan
+SRC-IP-ASN,AS131148
+
+# Cathay United Bank (國泰世華銀行)
+DOMAIN-SUFFIX,cathaybk.com.tw
+
+# CTBC Bank (中國信託商業銀行)
+DOMAIN-SUFFIX,ctbcbank.com
+DOMAIN-SUFFIX,ctbcholding.com
+
+# E.SUN Bank (玉山銀行)
+DOMAIN-SUFFIX,esunbank.com.tw
+
+# First Commercial Bank (第一商業銀行)
+DOMAIN-SUFFIX,firstbank.com.tw
+DOMAIN-SUFFIX,firstholding.com.tw
+
+# Fubon (富邦)
+DOMAIN-SUFFIX,taipeifubon.com.tw
+# DOMAIN-SUFFIX,fubonfund.com.hk
+DOMAIN-SUFFIX,fbs.com.tw
+DOMAIN-SUFFIX,fubonlife.com.tw
+DOMAIN-SUFFIX,fubon.com.tw
+DOMAIN-SUFFIX,fubon.com
+
+# Hua Nan Commercial Bank (華南銀行)
+DOMAIN-SUFFIX,entrust.com.tw
+DOMAIN-SUFFIX,hncb.com.tw
+DOMAIN-SUFFIX,hnfhc.com.tw
+
+# JCB TW
+DOMAIN-SUFFIX,tw.jcb
+
+# KGI Securities (凱基證券)
+DOMAIN-SUFFIX,kgisia.com.tw
+DOMAIN-SUFFIX,kgieworld.com.tw
+DOMAIN-SUFFIX,kgi.com.tw
+DOMAIN-SUFFIX,cdibcapitalgroup.com
+
+# Land Bank of Taiwan (臺灣土地銀行)
+DOMAIN-SUFFIX,landbank.com.tw
+
+# Mastercard TW (萬事達卡)
+DOMAIN-SUFFIX,mastercard.com.tw
+
+# Mega International Commercial Bank (兆豐國際商業銀行)
+DOMAIN-SUFFIX,megabank.com.tw
+# # ASN: Mega International Commercial Bank
+SRC-IP-ASN,AS131587
+
+# O-Bank (王道銀行)
+DOMAIN-SUFFIX,obank.com.tw
+DOMAIN-SUFFIX,o-bank.com
+
+# Shanghai Commercial and Savings Bank (上海商業儲蓄銀行)
+# DOMAIN-SUFFIX,scsb.com.hk
+DOMAIN-SUFFIX,scsb.com.tw
+
+# SinoPac Bank (永豐銀行)
+DOMAIN-SUFFIX,sinopac.com
+DOMAIN-SUFFIX,sinopacholdings.com
+
+# Taipei Exchange (證券櫃檯買賣中心)
+DOMAIN-SUFFIX,tpex.org.tw
+
+# Taishin International Bank (台新國際商業銀行)
+DOMAIN-SUFFIX,tssco.com.tw
+DOMAIN-SUFFIX,taishinbank.com.tw
+
+# Taiwan Cooperative Bank (合作金庫銀行)
+DOMAIN-SUFFIX,tcb-bank.com.tw
+# # ASN: Taiwan Cooperative Bank
+SRC-IP-ASN,AS131590
+
+# Taiwan Stock Exchange (臺灣證券交易所)
+DOMAIN-SUFFIX,twse.com.tw
+
+# Taiwan Business Bank (臺灣企銀)
+DOMAIN-SUFFIX,tbb.com.tw
+
+# Taiwan Depository & Clearing Corporation (臺灣集中保管結算所)
+DOMAIN-SUFFIX,tdcc.com.tw
+# # ASN: Depository Trust & Clearing Corporation
+SRC-IP-ASN,AS27533
+
+# UNION BANK OF TAIWAN (聯邦銀行)
+DOMAIN-SUFFIX,ubot.com.tw
+
+# Visa TW
+DOMAIN-SUFFIX,visa.com.tw
+
+# Yuanta Securities (元大證券)
+# DOMAIN-SUFFIX,yuanta.com.hk
+DOMAIN,yuantasec.pse.is
+DOMAIN-SUFFIX,warrantwin.com.tw
+DOMAIN-SUFFIX,yuantafunds.com
+DOMAIN-SUFFIX,yuanta.com.tw
+DOMAIN-SUFFIX,yuanta.com
+
+
+# --------------------------- Payment Gateways
+
+# EasyCard / Easy Wallet (悠遊卡/悠遊付)
+DOMAIN-SUFFIX,easywallet.com.tw
+DOMAIN-SUFFIX,easycard.com.tw
+
+# iCash (愛金卡/愛金付)
+DOMAIN-SUFFIX,icash.com.tw
+DOMAIN-SUFFIX,icashpay.com.tw
+
+# iPASS MONEY / iPASS Corporation (一卡通 Money / 一卡通票證公司)
+DOMAIN-SUFFIX,i-pass.com.tw
+
+# JKOPAY (街口支付)
+DOMAIN-SUFFIX,jkopay.com
+DOMAIN-SUFFIX,jkos.com.tw
+DOMAIN-SUFFIX,jkos.com
+
+# PChome Pay (支付連)
+DOMAIN-SUFFIX,pchomepay.com.tw
+
+# PX Pay Plus (全支付)
+DOMAIN-SUFFIX,pxpayplus.com
+
+# Taiwan Pay (台灣Pay)
+DOMAIN-SUFFIX,taiwanpay.com.tw
+DOMAIN-SUFFIX,twmp.com.tw

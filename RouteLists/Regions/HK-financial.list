@@ -1,0 +1,172 @@
+# Mayo's Route list - Regions - HK-financial.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/HK-financial.list
+# Last update: APR 22, 2025 22:52 JST
+# Update by code-shiromi
+
+# --------------------------- Insurance
+
+# AIA
+DOMAIN-SUFFIX,aia.com.hk
+
+# AIG
+DOMAIN-SUFFIX,aig.com.hk
+
+# AXA
+DOMAIN-SUFFIX,axa.com.hk
+
+# bowtie
+DOMAIN-SUFFIX,bowtie.com.hk
+
+# Bupa
+DOMAIN-SUFFIX,bupa.com.hk
+
+# FWD
+DOMAIN-SUFFIX,fwd.com.hk
+
+# Manulife
+DOMAIN-SUFFIX,manulife.com.hk
+
+# Prudential Hong Kong
+DOMAIN-SUFFIX,prudential.com.hk
+
+
+# --------------------------- Loyalty Programs
+
+# The Club (HKT)
+DOMAIN-SUFFIX,theclub.com.hk
+
+# Yuu Rewards Club (Yuu)
+DOMAIN-SUFFIX,yuurewards.com
+
+
+# --------------------------- Banking & Financial Services
+
+# Airstar Bank
+DOMAIN-SUFFIX,airstarbank.com
+SRC-SRC-IP-ASN,ASAS150342
+
+# Ant Bank
+DOMAIN-SUFFIX,antbank.hk
+
+# Bank of East Asia (BEA) 東亞銀行
+DOMAIN-SUFFIX,hkbea.com
+
+# Bank of China HK
+DOMAIN-SUFFIX,boci.com.hk
+DOMAIN-SUFFIX,bochk.com
+IP-CIDR,202.127.168.0/21
+# # ASN: Bank Of China(Hong Kong) Limited
+SRC-SRC-IP-ASN,ASAS24396
+
+# Bank of Communications HK 交通銀行（香港）
+DOMAIN-SUFFIX,hk.bankcomm.com
+DOMAIN-SUFFIX,eb.hk.bankcomm.com
+IP-CIDR,103.44.63.0/24
+# # ASN: Bank of Communications (Hong Kong) Limited
+SRC-SRC-IP-ASN,ASAS133926
+
+# Citibank (Hong Kong)
+DOMAIN-SUFFIX,citibank.com.hk
+IP-CIDR,192.193.127.0/24
+IP-CIDR,192.193.128.0/24
+IP-CIDR,192.193.130.0/24
+IP-CIDR,192.193.133.0/24
+IP-CIDR,192.193.134.0/24
+IP-CIDR,192.193.19.0/24
+IP-CIDR,192.193.73.0/24
+IP-CIDR,192.193.76.0/24
+IP-CIDR,192.193.82.0/24
+# # ASN: Citibank N.A. - ISP Peering, Hong Kong, China
+SRC-SRC-IP-ASN,ASAS24568
+
+# Chiyu Bank 集友銀行
+DOMAIN-SUFFIX,chiyubank.com
+
+# CMB Wing Lung Bank 招商永隆銀行
+DOMAIN-SUFFIX,cmbwinglungbank.com
+
+# Dah Sing Bank 大新銀行
+DOMAIN-SUFFIX,dahsing.com
+IP-CIDR,103.194.100.0/24
+IP-CIDR,103.194.101.0/24
+# # ASN: Dah Sing Bank, Limited
+SRC-SRC-IP-ASN,ASAS134449
+
+# DBS Bank (Hong Kong) (Dao Heng Bank 道亨銀行)
+DOMAIN-SUFFIX,dbs.com.hk
+IP-CIDR,202.0.182.0/24
+IP-CIDR,202.0.183.0/24
+IP-CIDR,103.144.96.0/24
+IP-CIDR,103.144.97.0/24
+# # ASN: DaoHeng Bank (HKCIX)
+SRC-SRC-IP-ASN,ASAS9520
+# # DBS Bank (Hong Kong) Limited
+SRC-SRC-IP-ASN,ASAS133852
+
+# Fusion Bank
+DOMAIN-SUFFIX,fusionbank.com
+
+# HSBC & Hang Seng Bank
+# DOMAIN-SUFFIX,payme.hsbc.com.hk
+DOMAIN-SUFFIX,hangseng.com
+DOMAIN-SUFFIX,hsbc.com.hk
+IP-CIDR,27.110.72.0/21
+IP-CIDR,203.112.80.0/21
+IP-CIDR,203.112.88.0/21
+# # ASN: HSBC HongKong (including Hang Seng Bank)
+SRC-SRC-IP-ASN,ASAS9221
+
+# ICBC Asia
+DOMAIN-SUFFIX,icbcasia.com
+# # ASN: Industrial and Commercial Bank
+SRC-SRC-IP-ASN,ASAS17487
+
+# Livi Bank
+DOMAIN-SUFFIX,livibank.com
+
+# OCBC Wing Hang Bank 華僑永亨銀行
+DOMAIN-SUFFIX,ocbc.com.hk
+
+# Ping An OneConnect Bank (PAOB)
+DOMAIN-SUFFIX,paob.com.hk
+
+# Shanghai Commercial Bank 上海商業銀行
+DOMAIN-SUFFIX,shacombank.com.hk
+
+# Standard Chartered Hong Kong
+DOMAIN-SUFFIX,mox.com
+DOMAIN-SUFFIX,moxbank.com
+DOMAIN-SUFFIX,sc.com
+IP-CIDR,166.81.6.0/24
+IP-CIDR,166.81.63.0/24
+IP-CIDR,166.81.83.0/24
+IP-CIDR,202.45.14.0/24
+# # ASN: Standard Chartered Bank (Hong Kong) Limited
+SRC-SRC-IP-ASN,ASAS24112
+
+# WeLab
+DOMAIN-SUFFIX,welend.hk
+DOMAIN-SUFFIX,welab.bank
+DOMAIN-SUFFIX,welab.com.hk
+DOMAIN-SUFFIX,welab.co
+
+# ZA Bank
+DOMAIN-SUFFIX,za.group
+DOMAIN-SUFFIX,zabank.com
+
+
+# --------------------------- Payment Gateways
+
+# AlipayHK
+DOMAIN-SUFFIX,alipayhk.com
+DOMAIN-SUFFIX,alipay.hk
+
+# Octopus Card
+DOMAIN-SUFFIX,octopus.com.hk
+DOMAIN-SUFFIX,octopuscards.com
+
+# Tap & Go
+DOMAIN-SUFFIX,tapngo.com.hk
+
+# TNG Wallet TNG 錢包
+DOMAIN-SUFFIX,tngwallet.hk

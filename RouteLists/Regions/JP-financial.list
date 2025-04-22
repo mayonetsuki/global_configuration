@@ -1,0 +1,136 @@
+# Mayo's Route list - Regions - JP-financial.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/JP-financial.list
+# Last update: APR 22, 2025 22:46 JST
+# Update by code-shiromi
+
+# --------------------------- Insurance
+
+# Aioi Nissay Dowa Insurance (あいおいニッセイ同和損保)
+DOMAIN-SUFFIX,aioinissaydowa.co.jp
+
+# Dai-ichi Life (第一生命)
+
+# Japan Post Insurance (かんぽ生命)
+DOMAIN-SUFFIX,japanpost.jp
+
+# Mitsui Sumitomo Insurance (三井住友海上)
+DOMAIN-SUFFIX,ms-ins.com
+
+# Sompo Japan (損害保険ジャパン)
+DOMAIN-SUFFIX,sompo-japan.co.jp
+
+# Tokio Marine Nichido (東京海上日動)
+DOMAIN-SUFFIX,tokiomarine-nichido.co.jp
+
+
+# --------------------------- Loyalty Programs
+
+# d Point (dポイント)
+# DOMAIN-SUFFIX,dpoint.docomo.ne.jp
+DOMAIN-SUFFIX,dpoint.jp
+
+# Ponta Point (ポンタポイント)
+DOMAIN-SUFFIX,pointi.jp
+DOMAIN-SUFFIX,ponta.jp
+
+# Rakuten Point (楽天ポイント)
+# DOMAIN-SUFFIX,point.rakuten.co.jp
+
+# V Point (Vポイント - 原Tポイント)
+DOMAIN-SUFFIX,tsite.jp
+
+
+# --------------------------- Banking & Financial Services
+
+# AEON (イオン銀行)
+DOMAIN-SUFFIX,waon.net
+DOMAIN-SUFFIX,waon.com
+DOMAIN-SUFFIX,aeon.co.jp
+DOMAIN-SUFFIX,aeonbank.co.jp
+DOMAIN-SUFFIX,aeonfinancial.co.jp
+
+# Daiwa Securities (大和証券)
+DOMAIN-SUFFIX,daiwa-grp.jp
+DOMAIN-SUFFIX,daiwa.jp
+DOMAIN-SUFFIX,daiwa-am.co.jp
+DOMAIN-SUFFIX,bank-daiwa.co.jp
+DOMAIN-SUFFIX,connect-sec.co.jp
+DOMAIN-SUFFIX,daiwacm.com
+
+# JCB
+DOMAIN-SUFFIX,jcbcard.co.jp
+DOMAIN-SUFFIX,jsecure.jp
+DOMAIN-SUFFIX,jcb.co.jp
+
+# Mastercard Japan
+DOMAIN-SUFFIX,mastercard.jp
+DOMAIN-SUFFIX,mastercard.co.jp
+
+# Mitsui Sumitomo Banking Corporation (SMBC) / Sumitomo Mitsui Financial Group (SMFG) (三井住友銀行 / 三井住友フィナンシャルグループ)
+DOMAIN-SUFFIX,smbc-card.com
+DOMAIN-SUFFIX,smbcnikko.co.jp
+DOMAIN-SUFFIX,smfg.co.jp
+DOMAIN-SUFFIX,smbc.co.jp
+
+# Mitsubishi UFJ Financial Group (MUFG) / MUFG Bank (三菱UFJフィナンシャル・グループ / 三菱UFJ銀行)
+DOMAIN-SUFFIX,nicos.co.jp
+# DOMAIN-SUFFIX,bk.mufg.jp
+# DOMAIN-SUFFIX,tr.mufg.jp
+# DOMAIN-SUFFIX,sc.mufg.jp
+# DOMAIN-SUFFIX,cr.mufg.jp
+DOMAIN-SUFFIX,mufg.jp
+
+# Mizuho Financial Group / Mizuho Bank (みずほフィナンシャルグループ / みずほ銀行)
+DOMAIN-SUFFIX,mizuho-sc.com
+DOMAIN-SUFFIX,mizuho-tb.co.jp
+DOMAIN-SUFFIX,mizuhobank.co.jp
+DOMAIN-SUFFIX,mizuho-fg.co.jp
+DOMAIN-SUFFIX,mizuho-fg.com
+
+# Nomura Securities (野村證券)
+DOMAIN-SUFFIX,nomura-am.co.jp
+DOMAIN-SUFFIX,nomura.co.jp
+DOMAIN-SUFFIX,nomuraholdings.com
+
+# Rakuten  (楽天銀行/楽天カード/楽天証券)
+DOMAIN-SUFFIX,rakuten-card.co.jp
+DOMAIN-SUFFIX,rakuten-sec.co.jp
+DOMAIN-SUFFIX,rakuten-bank.co.jp
+
+# Resona Group (りそなグループ)
+DOMAIN-SUFFIX,resonabank.co.jp
+
+# SBI Shinsei Bank (SBI新生銀行)
+DOMAIN-SUFFIX,sbisec.co.jp
+DOMAIN-SUFFIX,sbisec.com
+DOMAIN-SUFFIX,sbishinseibank.co.jp
+DOMAIN-SUFFIX,sbibits.com
+# # ASN: SBI BITS Co., Ltd.
+SRC-IP-ASN,AS133203
+
+# Visa Japan
+DOMAIN-SUFFIX,visa.co.jp
+
+# Yucho Bank (ゆうちょ銀行)
+DOMAIN-SUFFIX,jp-bank.japanpost.jp
+
+
+# --------------------------- Payment Gateways
+
+# Bundle (バンドル)
+DOMAIN-SUFFIX,vandle.jp
+
+# Kyashi
+DOMAIN-SUFFIX,kyash.co
+
+# PASMO (パスモ)
+DOMAIN-SUFFIX,pasmo.jp
+DOMAIN-SUFFIX,pasmo.co.jp
+
+# PayPay (ペイペイ)
+DOMAIN-SUFFIX,paypay.ne.jp
+DOMAIN-SUFFIX,paypay.co.jp
+DOMAIN-SUFFIX,paypay-card.co.jp
+
+# Suica (スイカ)
+DOMAIN-SUFFIX,mobilesuica.com

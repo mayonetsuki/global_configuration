@@ -1,8 +1,21 @@
-# Mayo's Route list - CN.list
-# Last update: APR 17, 2025 01:40
+# Mayo's Route list - Regions - CN.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/CN.list
+# Last update: APR 20, 2025 01:40 JST
 # Update by code-shiromi
 
-# High priority
+# --------------------------- Government / Public Services
+
+DOMAIN-SUFFIX,gov.cn
+
+
+# --------------------------- Telecom / ISP / Communication Services
+
+# Kook
+# QQ
+# Weixin
+
+
+# --------------------------- development
 DOMAIN-SUFFIX,kkgithub.com
 DOMAIN-SUFFIX,bgithub.xyz
 DOMAIN-SUFFIX,dgithub.xyz
@@ -19,11 +32,6 @@ DOMAIN-SUFFIX,ngithub.xyz
 DOMAIN-SUFFIX,ogithub.xyz
 DOMAIN-SUFFIX,pgithub.xyz
 DOMAIN,hub.whtrys.space
-
-# Communications
-# # Kook
-# # QQ
-# # Weixin
 
 # Others
 DOMAIN-KEYWORD,xunlei
