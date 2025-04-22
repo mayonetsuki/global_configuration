@@ -1,0 +1,31 @@
+# Mayo's Route list - Services - financial.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/financial.list
+# Last update: APR 20, 2025 01:40 JST
+# Update by code-shiromi
+
+# Stripe
+
+# Mastercard
+DOMAIN-SUFFIX,mastercard.com
+DOMAIN-SUFFIX,priceless.com
+
+# Fitbit Pay
+
+# Garmin Pay
+
+# JCB
+# DOMAIN-SUFFIX,global.jcb
+DOMAIN-SUFFIX,jcb
+
+# LINE Pay
+DOMAIN-SUFFIX,pay.line.com
+
+# Paypal
+
+# Samsung Pay
+
+# Visa
+DOMAIN-SUFFIX,visasecure.com
+DOMAIN-SUFFIX,visa.co
+DOMAIN-SUFFIX,visa.com.co
+DOMAIN-SUFFIX,visa.com
