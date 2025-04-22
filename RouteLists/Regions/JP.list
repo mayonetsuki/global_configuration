@@ -1,6 +1,6 @@
 # Mayo's Route list - Regions - JP.list
 # https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/JP.list
-# Last update: APR 22, 2025 22:46 JST
+# Last update: APR 22, 2025 21:17 JST
 # Update by code-shiromi
 
 # --------------------------- Government / Public Services
@@ -890,6 +890,14 @@ DOMAIN-SUFFIX,yomiuri.co.jp
 
 # AbemaTV (アベマTV)
 # Parent: CyberAgent
+DOMAIN-SUFFIX,d1otoma47x30pg.cloudfront.net
+DOMAIN-SUFFIX,d2wy8f7a9ursnm.cloudfront.net
+DOMAIN-SUFFIX,ds-linear-abematv.akamaized.net
+DOMAIN-SUFFIX,ds-vod-abematv.akamaized.net
+DOMAIN-SUFFIX,linear-abematv.akamaized.net
+DOMAIN-SUFFIX,vod-abematv.akamaized.net
+DOMAIN-SUFFIX,abematv.akamaized.net
+DOMAIN-KEYWORD,abematv.akamaized.net
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,ameba.jp
