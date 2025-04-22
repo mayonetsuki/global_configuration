@@ -1,6 +1,6 @@
 # Mayo's Route list - Regions - TW.list
 # https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/TW.list
-# Last update: APR 22, 2025 20:37 JST
+# Last update: APR 22, 2025 21:32 JST
 # Update by code-shiromi
 
 # --------------------------- Government / Public Services
@@ -453,6 +453,9 @@ DOMAIN-SUFFIX,udnnews.com
 
 # Bahamut Anime (巴哈姆特動畫瘋)
 # DOMAIN-SUFFIX,ani.gamer.com.tw
+DOMAIN,gamer-cds.cdn.hinet.net
+DOMAIN,gamer2-cds.cdn.hinet.net
+DOMAIN,bahamut.akamaized.net
 
 # CATCHPLAY+
 DOMAIN-SUFFIX,catchplay.com
@@ -500,6 +503,7 @@ DOMAIN-SUFFIX,litv.tv
 
 --------------------------- SNS
 # Bahamut / gamer.com.tw (巴哈姆特電玩資訊站)
+DOMAIN-SUFFIX,bahamut.com.tw
 DOMAIN-SUFFIX,gamer.com.tw
 
 # Dcard
