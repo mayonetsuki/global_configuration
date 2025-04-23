@@ -1,26 +1,104 @@
 # Mayo's Route list - security.list
-# Last update: APR 17, 2025 06:30
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/security.list
+# Last update: APR 24, 2025 00:45 JST
 # Update by code-shiromi
 
-DOMAIN-SUFFIX,thawte.com
-DOMAIN-SUFFIX,entrust.net
-DOMAIN-SUFFIX,identrust.com
+# --------------------------- Certificate
+
 DOMAIN-SUFFIX,letsencrypt.org
-# # Verisign
-DOMAIN-SUFFIX,verisign.com
-DOMAIN-SUFFIX,verisign.net
-# # Verizon
-DOMAIN-SUFFIX,omniroot.com
-# # GMO
-DOMAIN-SUFFIX,globalsign.com
-DOMAIN-SUFFIX,globalsign.net
-# # Symantec
-DOMAIN-SUFFIX,symcb.com
-DOMAIN-SUFFIX,symcd.com
-# # Digicert
+
+# Comodo / Sectigo
+DOMAIN-SUFFIX,comodoca.com
+
+# Digicert
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,geotrust.com
 DOMAIN-SUFFIX,public-trust.com
+
+# Entrust
+DOMAIN-SUFFIX,usertrust.com
+DOMAIN-SUFFIX,securetrust.com
+DOMAIN-SUFFIX,entrust.net
+
+# GMO
+DOMAIN-SUFFIX,globalsign.com
+DOMAIN-SUFFIX,globalsign.net
+
+# GoDaddy
+DOMAIN-SUFFIX,ocsp.godaddy.com
+DOMAIN-SUFFIX,crl.godaddy.com
+
+# HID Global
+DOMAIN-SUFFIX,identrust.com
+
+# Symantec
+DOMAIN-SUFFIX,symcb.com
+DOMAIN-SUFFIX,symcd.com
+
+# Thawte
+DOMAIN-SUFFIX,thawte.com
+
+# Verisign
+DOMAIN-SUFFIX,verisign.com
+DOMAIN-SUFFIX,verisign.net
+
+# Verizon
+DOMAIN-SUFFIX,omniroot.com
+
+
+# --------------------------- Application
+
+# 1password
+# Parent: AgileBits Inc.
+DOMAIN,cache.agilebits.com
+DOMAIN,app-updates.agilebits.com
+DOMAIN,app-updates.us.svc.1infra.net
+DOMAIN-SUFFIX,1passwordservices.com
+DOMAIN-SUFFIX,1passwordusercontent.ca
+DOMAIN-SUFFIX,1passwordusercontent.eu
+DOMAIN-SUFFIX,1passwordusercontent.com
+DOMAIN-SUFFIX,1password.ca
+DOMAIN-SUFFIX,1password.eu
+DOMAIN-SUFFIX,1password.com
+
+# Authy
+# Parent: Twilio
+DOMAIN-SUFFIX,authy.com
+
+# Bitwarden
+DOMAIN-SUFFIX,bitwarden.com
+
+# Dashlane
+DOMAIN,d2erpoudwvue5y.cloudfront.net
+DOMAIN,d1sk9wm475w15q.cloudfront.net
+DOMAIN-SUFFIX,dashlane.com
+
+# keepass
+DOMAIN-SUFFIX,keepass.info
+
+# lastpass
+DOMAIN-SUFFIX,lastpass.com
+IP-CIDR,3.229.39.128/32
+IP-CIDR,3.217.249.96/32
+IP-CIDR,35.171.172.89/32
+IP-CIDR,52.87.90.36/32
+IP-CIDR,107.22.19.98/32
+IP-CIDR,3.210.146.106/32
+IP-CIDR,34.198.16.45/32
+IP-CIDR,52.205.232.125/32
+IP-CIDR,3.23.208.192/32
+IP-CIDR,3.131.10.63/32
+IP-CIDR,18.220.65.193/32
+IP-CIDR,3.136.244.200/32
+IP-CIDR,18.219.143.138/32
+IP-CIDR,18.221.180.241/32
+
+# Standard Note
+DOMAIN-SUFFIX,standardnotes.org
+DOMAIN-SUFFIX,standardnotes.io
+
+
+# --------------------------- Services
 
 # Arkose Labs
 DOMAIN-SUFFIX,arkoselabs.com

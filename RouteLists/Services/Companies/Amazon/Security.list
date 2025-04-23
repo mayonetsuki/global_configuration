@@ -1,0 +1,6 @@
+# Mayo's Route list - Services - Companies - Amazon - Security.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/Companies/Amazon/Security.list
+# Last update: APR 24, 2025 00:51 JST
+# Update by code-shiromi
+
+DOMAIN-SUFFIX,amazontrust.com
