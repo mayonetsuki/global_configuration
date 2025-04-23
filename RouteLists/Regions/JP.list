@@ -1,6 +1,6 @@
 # Mayo's Route list - Regions - JP.list
 # https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Regions/JP.list
-# Last update: APR 22, 2025 21:18 JST
+# Last update: APR 23, 2025 18:45 JST
 # Update by code-shiromi
 
 # --------------------------- Government / Public Services
@@ -898,6 +898,7 @@ DOMAIN-SUFFIX,linear-abematv.akamaized.net
 DOMAIN-SUFFIX,vod-abematv.akamaized.net
 DOMAIN-SUFFIX,abematv.akamaized.net
 DOMAIN-KEYWORD,abematv.akamaized.net
+DOMAIN-SUFFIX,api-abematv.bucketeer.jp
 DOMAIN-SUFFIX,abema.tv
 DOMAIN-SUFFIX,abema.io
 DOMAIN-SUFFIX,ameba.jp
