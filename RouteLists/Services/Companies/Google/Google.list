@@ -1,5 +1,6 @@
-# Mayo's Route list - Google.list
-# Last update: APR 14, 2025 15:15
+# Mayo's Route list - Services - Companies - Google.list
+# https://raw.githubusercontent.com/mayonetsuki/global_configuration/refs/heads/main/RouteLists/Services/Companies/Google/Google.list
+# Last update: APR 24, 2025 23:52 JST
 # Update by code-shiromi
 
 # Internal
@@ -9,20 +10,21 @@ DOMAIN-SUFFIX,abc.xyz
 DOMAIN-SUFFIX,debug.com
 DOMAIN-SUFFIX,gv.com
 DOMAIN-SUFFIX,x.company
-DOMAIN-SUFFIX,diversity.google.com
-DOMAIN-SUFFIX,diversity.google
-DOMAIN-SUFFIX,about.google.com
-DOMAIN-SUFFIX,about.google
-DOMAIN-SUFFIX,blog.google.com
-DOMAIN-SUFFIX,blog.google
-DOMAIN-SUFFIX,transparency.google
-DOMAIN-SUFFIX,environment.google
-DOMAIN-SUFFIX,sustainability.google
+# DOMAIN-SUFFIX,diversity.google.com
+# DOMAIN-SUFFIX,diversity.google
+# DOMAIN-SUFFIX,about.google.com
+# DOMAIN-SUFFIX,about.google
+# DOMAIN-SUFFIX,blog.google.com
+# DOMAIN-SUFFIX,blog.google
+# DOMAIN-SUFFIX,transparency.google
+# DOMAIN-SUFFIX,environment.google
+# DOMAIN-SUFFIX,sustainability.google
 DOMAIN-SUFFIX,capitalg.com
 
 # Final
 DOMAIN-SUFFIX,whatbrowser.org
 DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleblog.com
 DOMAIN-SUFFIX,google
 DOMAIN-SUFFIX,google.ad
 DOMAIN-SUFFIX,google.ae
