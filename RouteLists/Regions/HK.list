@@ -31,10 +31,10 @@ DOMAIN-SUFFIX,mpfa.org.hk
 DOMAIN-SUFFIX,sfc.hk
 
 # University Grants Committee (UGC)
-DOMAIN-SUFFIX,ugc.edu.hk
+# DOMAIN-SUFFIX,ugc.edu.hk
 
 # Urban Renewal Authority (URA)
-DOMAIN-SUFFIX,ura.org.hk
+# DOMAIN-SUFFIX,ura.org.hk
 
 # Hong Kong Post
 DOMAIN-SUFFIX,hongkongpost.hk
